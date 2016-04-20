@@ -3503,6 +3503,7 @@ table.hover tr:nth-of-type(even):hover {
     object-fit: cover; }
 
 .top-bar {
+  height: 65px;
   background-image: linear-gradient(-180deg, #997458 0%, #6A4833 100%); }
 
 .header--top, .header--bottom {
