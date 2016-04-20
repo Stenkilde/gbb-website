@@ -1,0 +1,70 @@
+// Third party stuff
+@import "../libs/foundation-sites/assets/foundation-flex";
+// Variables
+@import "variables";
+// Plugins
+@import "plugins/main-slick";
+@import "plugins/theme-slick";
+// Components
+@import "components/image-hero";
+// Elements
+@import "elements/header";
+body {
+    font-size: $base-font-size;
+    font-family: helvetica, sans-serif;
+}
+
+.collapsed {
+    padding: 0 !important;
+}
+
+hr {
+    border-width: 2px;
+    border-color: $primary-color;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    &.title {
+        color: $primary-color;
+    }
+    &.subheading {
+        color: $grey-number-1;
+        margin-top: 20px;
+    }
+}
+
+h5 {
+    font-size: 1rem;
+}
+
+.partner-slider {
+    height: 400px;
+    overflow: hidden;
+    slick {
+        height: 400px;
+    }
+}
+
+.sponsor-list {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    li {
+        opacity: 0.75;
+        transition: opacity .3s ease-in-out;
+        &.active {
+            opacity: 1;
+        }
+        a {
+            display: block;
+            height: 100%;
+            padding: 80px;
+            img {
+                width: 100%;
+            }
+        }
+        &:hover {
+            opacity: 1;
+        }
+    }
+}

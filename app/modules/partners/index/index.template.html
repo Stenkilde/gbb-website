@@ -1,0 +1,16 @@
+<div class="c-image-hero">
+    <h1 class="title">Partners</h1>
+    <img src="https://images.unsplash.com/photo-1458724338480-79bc7a8352e4?crop=entropy&dpr=2&fit=crop&fm=jpg&h=700&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1300" alt="" />
+</div>
+<div class="row">
+    <h2 class="small-12 column title">Our Partners in luxury</h2>
+    <div class="small-12 column">
+        <hr />
+        <p>Golf &amp; Business Butler is all about designing, creating and hosting a string of High End Golf Tournaments in Leading Nordic Golf Clubs. We have developed a very exciting variety of tournament formats that will elevate the satisfaction of all golfers taking part at our events. Furthermore, we have gathered a group of effecient partners with quality services, luxury brands and strong solid businesses to ensure the highest possible level when it comes to materializing the finest prizetables, the most thrilling goodiebags and the most enjoyable ”lunch on the course” –kit. Just to mention a few among many areas that have become increasingly important to us. The ambition is to constantly seek and insist in new ways of improving golf tournaments, creating valuable platforms of marketing and promotion to partners and sponsors thus serving a vast crowd of appreciative nordic clients. We are very fortunate and honoured to work with some of the best and finest golf courses in Denmark, Sweden and Norway  -  and we have also managed to get a few of the most celebrated international premium golf courses onboard this GBB Universe.</p>
+    </div>
+    <div class="small-12 column">
+        <ul class="row sponsor-list">
+            <li ng-repeat="partner in index.partners" class="small-6 column text-center"><a ui-sref="application.partnerview({id: {{partner.id}}})"><img ng-src={{partner.assets_url}} alt="" /></a></li>    
+        </ul>
+    </div>
+</div>

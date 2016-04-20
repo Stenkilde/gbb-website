@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Loewe",
+        "assets_url": "/assets/partners/loewe/Loewe_logo.svg",
+        "images": [
+            {
+                "url": "/assets/partners/loewe/Connect_UHD_PR_11.jpg"
+            },
+            {
+                "url": "/assets/partners/loewe/Reference_UHD_PR_07_mnd.jpg"
+            },
+            {
+                "url": "/assets/partners/loewe/Reference_UHD_PR_09.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Quooker",
+        "assets_url": "assets/partners/quooker/Quooker_logo.svg"
+    }
+]

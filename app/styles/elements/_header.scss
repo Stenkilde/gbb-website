@@ -1,0 +1,30 @@
+.top-bar {
+    background-image: linear-gradient(-180deg, #997458 0%, #6A4833 100%);
+
+}
+.header--top, .header--bottom {
+    display: flex;
+    a {
+        color: #fff;
+    }
+}
+
+.header--top {
+    border-bottom: 1px solid #fff;
+    padding: 10px 0;
+    a {
+        padding-right: 45px;
+        &:last-child {
+            padding-right: 0;
+        }
+    }
+}
+.header--bottom {
+    padding: 10px 0;
+    a {
+        padding-right: 45px;
+        &:last-child {
+            padding-right: 0;
+        }
+    }
+}
