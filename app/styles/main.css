@@ -3483,8 +3483,11 @@ table.hover tr:nth-of-type(even):hover {
 
 .c-image-hero {
   position: relative;
-  height: 350px;
+  height: 100px;
   overflow: hidden; }
+  @media screen and (min-width: 40em) {
+    .c-image-hero {
+      height: 350px; } }
   .c-image-hero .title {
     position: absolute;
     top: 50%;
@@ -3494,13 +3497,20 @@ table.hover tr:nth-of-type(even):hover {
     font-family: helvetica;
     color: #fff;
     border: 1px solid #fff;
-    padding: 30px;
+    padding: 10px;
     margin: 0;
-    font-size: 72px; }
+    font-size: 24px; }
+    @media screen and (min-width: 40em) {
+      .c-image-hero .title {
+        padding: 30px;
+        font-size: 72px; } }
   .c-image-hero img {
-    height: 350px;
+    height: 100px;
     width: 100%;
     object-fit: cover; }
+    @media screen and (min-width: 40em) {
+      .c-image-hero img {
+        height: 350px; } }
 
 .top-bar {
   height: 65px;
@@ -3534,6 +3544,7 @@ body {
   padding: 0 !important; }
 
 hr {
+  margin-top: 0;
   border-width: 2px;
   border-color: #825D47; }
 
@@ -3543,6 +3554,16 @@ h1.title, h2.title, h3.title, h4.title, h5.title, h6.title {
 h1.subheading, h2.subheading, h3.subheading, h4.subheading, h5.subheading, h6.subheading {
   color: #757575;
   margin-top: 20px; }
+
+h2.title {
+  font-size: 26px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px; }
+  @media screen and (min-width: 40em) {
+    h2.title {
+      font-size: 68px;
+      text-align: left; } }
 
 h5 {
   font-size: 1rem; }
@@ -3565,7 +3586,10 @@ h5 {
     .sponsor-list li a {
       display: block;
       height: 100%;
-      padding: 80px; }
+      padding: 20px; }
+      @media screen and (min-width: 40em) {
+        .sponsor-list li a {
+          padding: 80px; } }
       .sponsor-list li a img {
         width: 100%; }
     .sponsor-list li:hover {
