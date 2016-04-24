@@ -1,17 +1,20 @@
 // Third party stuff
 @import "../libs/foundation-sites/assets/foundation-flex";
+@import url(https://fonts.googleapis.com/css?family=Palanquin);
 // Variables
 @import "variables";
+@import "fonts";
 // Plugins
 @import "plugins/main-slick";
 @import "plugins/theme-slick";
 // Components
 @import "components/image-hero";
+@import "components/accordion";
 // Elements
 @import "elements/header";
 body {
     font-size: $base-font-size;
-    font-family: helvetica, sans-serif;
+    font-family: 'Palanquin', sans-serif;
 }
 
 .collapsed {
@@ -24,6 +27,7 @@ hr {
 }
 
 h1, h2, h3, h4, h5, h6 {
+    font-family: 'queens_parkregular';
     &.title {
         color: $primary-color;
     }

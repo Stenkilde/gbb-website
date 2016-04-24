@@ -19,5 +19,60 @@
         "id": 2,
         "name": "Quooker",
         "assets_url": "assets/partners/quooker/Quooker_logo.svg"
+    },
+    {
+        "id": 3,
+        "name": "Braastad",
+        "assets_url": "/assets/partners/Braastad/Braastad_logo.svg"
+    },
+    {
+        "id": 4,
+        "name": "Chivas",
+        "assets_url": "/assets/partners/Chivas/Chivas_logo.svg"
+    },
+    {
+        "id": 5,
+        "name": "Gaggenau",
+        "assets_url": "/assets/partners/Gaggenau/Gaggenau_logo.svg"
+    },
+    {
+        "id": 6,
+        "name": "Segafredo",
+        "assets_url": "/assets/partners/Segafredo/Segafredo_logo.svg"
+    },
+    {
+        "id": 7,
+        "name": "Mumm",
+        "assets_url": "/assets/partners/Mumm/Mumm_logo.svg"
+    },
+    {
+        "id": 8,
+        "name": "La Prairie",
+        "assets_url": "/assets/partners/LaPrairie/LaPrairie_logo.svg"
+    },
+    {
+        "id": 9,
+        "name": "Uno Form",
+        "assets_url": "/assets/partners/UnoForm/UnoForm_logo.svg"
+    },
+    {
+        "id": 10,
+        "name": "Nykredit",
+        "assets_url": "/assets/partners/Nykredit/Nykredit_logo.svg"
+    },
+    {
+        "id": 11,
+        "name": "Shiseido",
+        "assets_url": "/assets/partners/Shiseido/Shiseido_logo.svg"
+    },
+    {
+        "id": 12,
+        "name": "la Tour De Vence",
+        "assets_url": "/assets/partners/laTourDeVence/laTourDeVence_logo.svg"
+    },
+    {
+        "id": 13,
+        "name": "Jacobsen",
+        "assets_url": "/assets/partners/Jacobsen/Jacobsen_logo.svg"
     }
 ]

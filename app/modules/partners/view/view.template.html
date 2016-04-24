@@ -1,3 +1,43 @@
+<header class="header">
+    <nav class="top-bar">
+        <a href="#" class="mobile-menu small-1 columns show-for-small-only">M</a>
+        <div class="medium-2 columns">
+            <a class="shield" ui-sref="application.main">
+                <svg style="width:120px">
+                    <use xlink:href="#gbb-shield" />
+                </svg>
+            </a>
+        </div>
+        <div class="medium-10 columns hide-for-small-only content-holder">
+            <div class="header--top">
+                <div class="small-12 medium-8 columns collapsed">
+                    <a class="small" href="">Concept</a>
+                    <a class="small" href="">Corporategolf</a>
+                    <a class="small" href="">Contact</a>
+                    <a class="small" href="">News</a>
+                </div>
+                <div class="medium-4 columns text-right hide-for-small-only">
+                    <span>some icons</span>
+                </div>
+            </div>
+            <div class="header--bottom menu text-right">
+                <ul class="under-menu">
+                    <li>
+                        <a ui-sref="application.clubsView({clubs: 'danish' })">Golfclubs</a>
+                        <ul class="sub-menu">
+                            <li class="line"></li>
+                            <li ng-repeat="club in index.clubs"><a ui-sref="application.clubsView({clubs: '{{club.url}}' })">{{club.language}}</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a ui-sref="application.partners">Partners</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
 <div class="partner-slider">
     <slick dots="false" infinite="true" speed=300 slides-to-show=1 touch-move="true" slides-to-scroll=1 init-onload=true data="view.currentItem.images">
         <div ng-repeat="image in view.currentItem.images">

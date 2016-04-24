@@ -1,0 +1,84 @@
+<header class="header">
+    <nav class="top-bar">
+        <a href="#" class="mobile-menu small-1 columns show-for-small-only">M</a>
+        <div class="medium-2 columns">
+            <a class="shield" ui-sref="application.main">
+                <svg style="width:120px">
+                    <use xlink:href="#gbb-shield" />
+                </svg>
+            </a>
+        </div>
+        <div class="medium-10 columns hide-for-small-only content-holder">
+            <div class="header--top">
+                <div class="small-12 medium-8 columns collapsed">
+                    <a class="small" href="">Concept</a>
+                    <a class="small" href="">Corporategolf</a>
+                    <a class="small" href="">Contact</a>
+                    <a class="small" href="">News</a>
+                </div>
+                <div class="medium-4 columns text-right hide-for-small-only">
+                    <span>some icons</span>
+                </div>
+            </div>
+            <div class="header--bottom menu text-right">
+                <ul class="under-menu">
+                    <li>
+                        <a ui-sref="application.clubsView({clubs: 'danish' })">Golfclubs</a>
+                        <ul class="sub-menu">
+                            <li class="line"></li>
+                            <li ng-repeat="club in index.clubs"><a ui-sref="application.clubsView({clubs: '{{club.url}}' })">{{club.language}}</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a ui-sref="application.partners">Partners</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<div class="row">
+    <div class="small-12 columns">
+        <h1 class="title">{{view.currentItem.country}}</h1>
+    </div>
+    <div class="small-12 columns">
+        <hr />
+    </div>
+    <div class="small-12 columns">
+        <div ng-bind-html="view.currentItem.content"></div>
+    </div>
+</div>
+<accordion close-others="oneAtATime">
+    <accordion-group ng-repeat="club in view.currentItem.clubs">
+        <accordion-heading>
+            <h2>{{club.name}}</h2>
+            <img ng-src="{{club.asset_url}}" alt="">
+        </accordion-heading>
+        <div class="row">
+            <div class="small-12 columns">
+                <div class="small-12 columns">
+                    <h2 class="title">{{club.name}}</h2>
+                </div>
+                <div class="small-12 columns">
+                    <hr />
+                </div>
+                <div class="small-12 columns">
+                    <div class="row">
+                        <div class="small-6 columns">
+                            <p>{{club.text1}}</p>
+                        </div>
+                        <div class="small-6 columns">
+                            <p>{{club.text2}}</p>
+                        </div>
+                    </div>
+                    <div class="row align-right">
+                        <div class="small-6 columns">
+                            <button class="button">Learn More</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </accordion-group>
+</accordion>

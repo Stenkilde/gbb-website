@@ -11,6 +11,7 @@
    * 2. Prevent iOS and IE text size adjust after device orientation change,
    *    without disabling user zoom.
    */
+@import url(https://fonts.googleapis.com/css?family=Palanquin);
 html {
   font-family: sans-serif;
   /* 1 */
@@ -3283,6 +3284,13 @@ table.hover tr:nth-of-type(even):hover {
   .large-order-6 {
     order: 6; } }
 
+@font-face {
+  font-family: 'queens_parkregular';
+  src: url("fonts/queens__-webfont.eot");
+  src: url("fonts/queens__-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/queens__-webfont.woff2") format("woff2"), url("fonts/queens__-webfont.woff") format("woff"), url("fonts/queens__-webfont.ttf") format("truetype"), url("fonts/queens__-webfont.svg#queens_parkregular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
 /* Slider */
 .slick-slider {
   position: relative;
@@ -3502,33 +3510,121 @@ table.hover tr:nth-of-type(even):hover {
     width: 100%;
     object-fit: cover; }
 
+.accordion-title {
+  padding: 0;
+  height: 350px;
+  overflow: hidden;
+  position: relative; }
+  .accordion-title img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; }
+  .accordion-title h2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    text-shadow: 0px 1px 0px black; }
+  .accordion-title:before {
+    content: "" !important; }
+
+.front-page .top-bar {
+  background-image: none;
+  background-color: transparent;
+  position: relative; }
+
+.front-page .header--top {
+  border: none; }
+
+.front-page .header--top, .front-page .header--bottom {
+  padding: 5px 0; }
+
+.front-page .shield {
+  position: absolute;
+  top: 20px;
+  left: 40px; }
+  .front-page .shield.brown svg {
+    stroke: #825D47; }
+
+.front-page * {
+  color: #fff !important; }
+
 .top-bar {
-  height: 65px;
-  background-image: linear-gradient(-180deg, #997458 0%, #6A4833 100%); }
+  background: #fff;
+  height: 65px; }
+  @media screen and (min-width: 40em) {
+    .top-bar {
+      height: 185px; } }
+  .top-bar .content-holder {
+    padding-top: 25px; }
 
 .header--top, .header--bottom {
-  display: flex; }
+  display: flex;
+  padding: 10px 0; }
   .header--top a, .header--bottom a {
-    color: #fff; }
+    color: #825D47; }
+    .header--top a.small, .header--bottom a.small {
+      font-size: 10px; }
 
-.header--top {
-  border-bottom: 1px solid #fff;
-  padding: 10px 0; }
-  .header--top a {
-    padding-right: 45px; }
-    .header--top a:last-child {
-      padding-right: 0; }
+.header--top a {
+  padding-right: 45px; }
+  .header--top a:last-child {
+    padding-right: 0; }
 
-.header--bottom {
-  padding: 10px 0; }
-  .header--bottom a {
-    padding-right: 45px; }
-    .header--bottom a:last-child {
-      padding-right: 0; }
+.header--bottom a {
+  text-transform: uppercase;
+  font-size: 14px; }
+
+.menu li > a {
+  padding: 0; }
+
+.menu li {
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  margin-right: 45px; }
+  .menu li:last-child {
+    padding-right: 0; }
+
+.menu li:hover .sub-menu {
+  display: block; }
+
+.under-menu {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  background-color: transparent !important;
+  text-align: right; }
+  .under-menu li {
+    display: inline-block;
+    margin-right: 45px; }
+    .under-menu li:last-child {
+      margin-right: 0; }
+
+.sub-menu {
+  margin: 0;
+  margin-left: -15px;
+  position: absolute;
+  display: none;
+  background: transparent !important; }
+  .sub-menu .line {
+    margin: 10px auto;
+    display: block;
+    height: 1px;
+    width: 50%;
+    background: #fff; }
+
+.sub-menu li {
+  color: #fff;
+  display: block;
+  cursor: pointer;
+  margin: 0; }
 
 body {
   font-size: 14px;
-  font-family: helvetica, sans-serif; }
+  font-family: 'Palanquin', sans-serif; }
 
 .collapsed {
   padding: 0 !important; }
@@ -3537,12 +3633,13 @@ hr {
   border-width: 2px;
   border-color: #825D47; }
 
-h1.title, h2.title, h3.title, h4.title, h5.title, h6.title {
-  color: #825D47; }
-
-h1.subheading, h2.subheading, h3.subheading, h4.subheading, h5.subheading, h6.subheading {
-  color: #757575;
-  margin-top: 20px; }
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'queens_parkregular'; }
+  h1.title, h2.title, h3.title, h4.title, h5.title, h6.title {
+    color: #825D47; }
+  h1.subheading, h2.subheading, h3.subheading, h4.subheading, h5.subheading, h6.subheading {
+    color: #757575;
+    margin-top: 20px; }
 
 h5 {
   font-size: 1rem; }

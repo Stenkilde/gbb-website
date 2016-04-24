@@ -32,16 +32,30 @@ module.exports = function(grunt) {
                 logConcurrentOutput: true
             },
             tasks: ['watch', 'nodemon']
+        },
+        svgstore: {
+            options: {
+                svg: {
+                    style: 'display: none'
+                }
+            },
+            default: {
+                files: {
+                    'app/assets/svgs.svg': ['app/assets/svgs/*.svg'],
+                    'app/assets/partners.svg': ['app/assets/partners/**/*.svg']
+                },
+            },
         }
     });
 
     // ===========================================================================
     // LOAD GRUNT PLUGINS ========================================================
     // ===========================================================================
+    grunt.loadNpmTasks('grunt-svgstore');
     grunt.loadNpmTasks('grunt-nodemon');
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-concurrent');
     grunt.loadNpmTasks('grunt-sass');
 
-    grunt.registerTask('serve', ['sass', 'concurrent']);
+    grunt.registerTask('serve', ['sass', 'svgstore', 'concurrent']);
 };

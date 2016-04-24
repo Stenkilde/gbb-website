@@ -12,12 +12,6 @@
 					// Wrapping view
 					'application': {
 						templateUrl: 'modules/_application/application.template.html'
-					},
-					// Topbar
-					'topbar@application': {
-						templateUrl: 'modules/shared/topbar/topbar.template.html',
-						controller: 'Topbar',
-						controllerAs: 'topbar'
 					}
 				}
 			};

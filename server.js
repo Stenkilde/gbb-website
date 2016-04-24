@@ -4,8 +4,6 @@ var bodyParser	= require('body-parser');
 var app			= express();
 var port 		= 1337;
 
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded());
 app.use(express.static(__dirname + '/app'));
 
 app.get('/', function(req, res) {
