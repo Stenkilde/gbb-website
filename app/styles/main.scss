@@ -22,6 +22,7 @@ body {
 }
 
 hr {
+    margin-top: 0;
     border-width: 2px;
     border-color: $primary-color;
 }
@@ -34,6 +35,17 @@ h1, h2, h3, h4, h5, h6 {
     &.subheading {
         color: $grey-number-1;
         margin-top: 20px;
+    }
+}
+
+h2.title {
+    font-size: 26px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    @media #{$medium-up} {
+        font-size: 68px;
+        text-align: left;
     }
 }
 
@@ -62,7 +74,10 @@ h5 {
         a {
             display: block;
             height: 100%;
-            padding: 80px;
+            padding: 20px;
+            @media #{$medium-up} {
+                padding: 80px;
+            }
             img {
                 width: 100%;
             }
