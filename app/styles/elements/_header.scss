@@ -71,10 +71,6 @@
     display: inline-block;
     position: relative;
     text-align: center;
-    margin-right: 45px;
-    &:last-child {
-        padding-right: 0;
-    }
 }
 
 .menu li:hover .sub-menu {
@@ -90,10 +86,7 @@
     text-align: right;
     li {
         display: inline-block;
-        margin-right: 45px;
-        &:last-child {
-            margin-right: 0;
-        }
+        margin-right: 90px;
     }
 }
 
