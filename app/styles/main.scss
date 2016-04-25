@@ -91,3 +91,33 @@ h5 {
 svg {
     stroke: $primary-color;
 }
+
+.slick-next {
+    right: 10px;
+    transform: translateY(-50%);
+    background: #cacaca;
+    height: 50px !important;
+    width: 50px;
+    border-radius: 50%;
+    opacity: .5;
+    transition: opacity .3s ease-in-out;
+    &:hover {
+        opacity: 1;
+        background: #cacaca;
+    }
+}
+
+.slick-prev {
+    left: 10px;
+    transform: translateY(-50%);
+    background: #cacaca;
+    height: 50px !important;
+    width: 50px;
+    border-radius: 50%;
+    opacity: .5;
+    transition: opacity .3s ease-in-out;
+    &:hover {
+        opacity: 1;
+        background: #cacaca;
+    }
+}
