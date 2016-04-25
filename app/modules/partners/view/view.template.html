@@ -9,9 +9,8 @@
             </a>
         </div>
         <div class="medium-10 columns hide-for-small-only content-holder">
-            <div class="header--top">
+            <div class="header--top text-right">
                 <div class="small-12 medium-8 columns collapsed">
-                    <a class="small" href="">Concept</a>
                     <a class="small" href="">Corporategolf</a>
                     <a class="small" href="">Contact</a>
                     <a class="small" href="">News</a>
@@ -20,17 +19,26 @@
                     <span>some icons</span>
                 </div>
             </div>
-            <div class="header--bottom menu text-right">
+            <div class="header--bottom menu">
                 <ul class="under-menu">
+                    <li>
+                        <a href="#">2016Events</a>
+                    </li>
                     <li>
                         <a ui-sref="application.clubsView({clubs: 'danish' })">Golfclubs</a>
                         <ul class="sub-menu">
                             <li class="line"></li>
-                            <li ng-repeat="club in index.clubs"><a ui-sref="application.clubsView({clubs: '{{club.url}}' })">{{club.language}}</a></li>
+                            <li ng-repeat="club in view.clubs"><a ui-sref="application.clubsView({clubs: '{{club.url}}' })">{{club.language}}</a></li>
                         </ul>
                     </li>
                     <li>
                         <a ui-sref="application.partners">Partners</a>
+                    </li>
+                    <li>
+                        <a href="#">Suppliers</a>
+                    </li>
+                    <li>
+                        <a href="#">Gallery</a>
                     </li>
                 </ul>
             </div>

@@ -3525,17 +3525,22 @@ table.hover tr:nth-of-type(even):hover {
   height: 350px;
   overflow: hidden;
   position: relative; }
-  .accordion-title img {
+  .accordion-title img, .accordion-title .image {
     width: 100%;
     height: 100%;
     object-fit: cover; }
   .accordion-title h2 {
     position: absolute;
+    z-index: 1;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: #fff;
     text-shadow: 0px 1px 0px black; }
+  .accordion-title slick {
+    height: 100%; }
+    .accordion-title slick * {
+      height: 100%; }
   .accordion-title:before {
     content: "" !important; }
 
@@ -3592,10 +3597,7 @@ table.hover tr:nth-of-type(even):hover {
 .menu li {
   display: inline-block;
   position: relative;
-  text-align: center;
-  margin-right: 45px; }
-  .menu li:last-child {
-    padding-right: 0; }
+  text-align: center; }
 
 .menu li:hover .sub-menu {
   display: block; }
@@ -3609,14 +3611,13 @@ table.hover tr:nth-of-type(even):hover {
   text-align: right; }
   .under-menu li {
     display: inline-block;
-    margin-right: 45px; }
-    .under-menu li:last-child {
-      margin-right: 0; }
+    margin-right: 90px; }
 
 .sub-menu {
   margin: 0;
   margin-left: -15px;
   position: absolute;
+  z-index: 100;
   display: none;
   background: transparent !important; }
   .sub-menu .line {
@@ -3691,5 +3692,8 @@ h5 {
         width: 100%; }
     .sponsor-list li:hover {
       opacity: 1; }
+
+svg {
+  stroke: #825D47; }
 
 /*# sourceMappingURL=main.css.map */
