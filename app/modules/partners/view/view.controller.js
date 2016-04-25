@@ -18,6 +18,7 @@
             $http.get('partners.json').then(function(response) {
 				vm.partners = response.data;
 				vm.currentItem = (lodash.filter(response.data, {id: parseInt($stateParams.id)})).shift();
+				console.log(vm.currentItem);
             })
 		}
 

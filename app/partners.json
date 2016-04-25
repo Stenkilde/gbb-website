@@ -2,77 +2,85 @@
     {
         "id": 1,
         "name": "Loewe",
-        "assets_url": "/assets/partners/loewe/Loewe_logo.svg",
+        "assets_url": "/assets/partners/loewe/loewe_logo.svg",
         "images": [
             {
-                "url": "/assets/partners/loewe/Connect_UHD_PR_11.jpg"
+                "url": "/assets/partners/loewe/loewe1.jpg"
             },
             {
-                "url": "/assets/partners/loewe/Reference_UHD_PR_07_mnd.jpg"
+                "url": "/assets/partners/loewe/loewe2.jpg"
             },
             {
-                "url": "/assets/partners/loewe/Reference_UHD_PR_09.jpg"
+                "url": "/assets/partners/loewe/loewe3.jpg"
             }
         ]
     },
     {
         "id": 2,
         "name": "Quooker",
-        "assets_url": "assets/partners/quooker/Quooker_logo.svg"
+        "assets_url": "assets/partners/quooker/quooker_logo.svg"
     },
     {
         "id": 3,
         "name": "Braastad",
-        "assets_url": "/assets/partners/Braastad/Braastad_logo.svg"
+        "assets_url": "/assets/partners/braastad/braastad_logo.svg"
     },
     {
         "id": 4,
         "name": "Chivas",
-        "assets_url": "/assets/partners/Chivas/Chivas_logo.svg"
+        "assets_url": "/assets/partners/chivas/chivas_logo.svg"
     },
     {
         "id": 5,
         "name": "Gaggenau",
-        "assets_url": "/assets/partners/Gaggenau/Gaggenau_logo.svg"
+        "assets_url": "/assets/partners/gaggenau/gaggenau_logo.svg"
     },
     {
         "id": 6,
         "name": "Segafredo",
-        "assets_url": "/assets/partners/Segafredo/Segafredo_logo.svg"
+        "assets_url": "/assets/partners/segafredo/segafredo_logo.svg"
     },
     {
         "id": 7,
         "name": "Mumm",
-        "assets_url": "/assets/partners/Mumm/Mumm_logo.svg"
+        "assets_url": "/assets/partners/mumm/mumm_logo.svg"
     },
     {
         "id": 8,
         "name": "La Prairie",
-        "assets_url": "/assets/partners/LaPrairie/LaPrairie_logo.svg"
+        "assets_url": "/assets/partners/laprairie/laprairie_logo.svg"
     },
     {
         "id": 9,
         "name": "Uno Form",
-        "assets_url": "/assets/partners/UnoForm/UnoForm_logo.svg"
+        "assets_url": "/assets/partners/unoform/unoform_logo.svg"
     },
     {
         "id": 10,
         "name": "Nykredit",
-        "assets_url": "/assets/partners/Nykredit/Nykredit_logo.svg"
+        "assets_url": "/assets/partners/nykredit/nykredit_logo.svg",
+        "images": [
+            {
+                "url": "/assets/partners/nykredit/nykredit_1.jpg"
+            },
+            {
+                "url": "/assets/partners/nykredit/nykredit_2.jpg"
+            }
+        ]
     },
     {
         "id": 11,
         "name": "Shiseido",
-        "assets_url": "/assets/partners/Shiseido/Shiseido_logo.svg"
+        "assets_url": "/assets/partners/shiseido/shiseido_logo.svg"
     },
     {
         "id": 12,
         "name": "la Tour De Vence",
-        "assets_url": "/assets/partners/laTourDeVence/laTourDeVence_logo.svg"
+        "assets_url": "/assets/partners/latourdevence/latourdevence_logo.svg"
     },
     {
         "id": 13,
         "name": "Jacobsen",
-        "assets_url": "/assets/partners/Jacobsen/Jacobsen_logo.svg"
+        "assets_url": "/assets/partners/jacobsen/jacobsen_logo.svg"
     }
 ]

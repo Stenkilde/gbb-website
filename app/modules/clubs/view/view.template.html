@@ -28,7 +28,7 @@
                         <a ui-sref="application.clubsView({clubs: 'danish' })">Golfclubs</a>
                         <ul class="sub-menu">
                             <li class="line"></li>
-                            <li ng-repeat="club in index.clubs"><a ui-sref="application.clubsView({clubs: '{{club.url}}' })">{{club.language}}</a></li>
+                            <li ng-repeat="club in view.clubs"><a ui-sref="application.clubsView({clubs: '{{club.url}}' })">{{club.language}}</a></li>
                         </ul>
                     </li>
                     <li>
@@ -61,7 +61,13 @@
     <accordion-group ng-repeat="club in view.currentItem.clubs">
         <accordion-heading>
             <h2>{{club.name}}</h2>
-            <img ng-src="{{club.asset_url}}" alt="">
+            <slick dots="false" infinite="true" speed=300 slides-to-show=1 touch-move="true" slides-to-scroll=1 init-onload=true data="club.asset_urls">
+                <div ng-repeat="image in club.asset_urls">
+                    <div class="image">
+                        <img ng-src="{{image.url}}" alt="">
+                    </div>
+                </div>
+            </slick>
         </accordion-heading>
         <div class="row">
             <div class="small-12 columns">
