@@ -3646,6 +3646,9 @@ body {
 .collapsed {
   padding: 0 !important; }
 
+.serif {
+  font-family: 'Palanquin', sans-serif; }
+
 hr {
   margin-top: 0;
   border-width: 2px;
