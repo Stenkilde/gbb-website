@@ -1,4 +1,4 @@
-// Third party stuff
+    // Third party stuff
 @import "../libs/foundation-sites/assets/foundation-flex";
 @import url(https://fonts.googleapis.com/css?family=Palanquin);
 // Variables
@@ -19,6 +19,10 @@ body {
 
 .collapsed {
     padding: 0 !important;
+}
+
+.serif {
+    font-family: 'Palanquin', sans-serif;
 }
 
 hr {
@@ -86,10 +90,6 @@ h5 {
             opacity: 1;
         }
     }
-}
-
-svg {
-    stroke: $primary-color;
 }
 
 .slick-next {

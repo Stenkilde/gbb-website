@@ -2,7 +2,12 @@
     <nav class="top-bar">
         <a href="#" class="mobile-menu small-1 columns show-for-small-only">M</a>
         <div class="medium-2 columns">
-            <a class="shield" ui-sref="application.main">
+            <a ui-sref="application.main" class="show-for-small-only">
+                <svg>
+                    <use xlink:href="#gbb-logo"></use>
+                </svg>
+            </a>
+            <a ui-sref="application.main" class="shield hide-for-small-only" >
                 <svg style="width:120px">
                     <use xlink:href="#gbb-shield" />
                 </svg>
@@ -40,7 +45,7 @@
                         <a ui-sref="application.clubsView({clubs: 'danish' })">Golfclubs</a>
                         <ul class="sub-menu">
                             <li class="line"></li>
-                            <li ng-repeat="club in view.clubs"><a ui-sref="application.clubsView({clubs: '{{club.url}}' })">{{club.language}}</a></li>
+                            <li ng-repeat="club in index.clubs"><a ui-sref="application.clubsView({clubs: '{{club.url}}' })">{{club.language}}</a></li>
                         </ul>
                     </li>
                     <li>
@@ -59,5 +64,13 @@
 </header>
 
 <div style="position: fixed; top: 0; z-index: -1;">
-    <img src="assets/img/oslogolfclub1.jpg" style="width: 100%; height: 100vh;" alt="">
+    <img src="assets/img/cover_alcanada.jpg" style="width: 100%; height: 100vh; object-fit: cover;" alt=""> <!-- Never do this kids -->
+</div>
+
+<div class="footer hide-for-small-only" style="position: fixed; bottom: 0; background: #fff; width: 100%; height: 90px">
+    <div class="row align-middle" style="height: 100%;">
+        <div ng-repeat="partner in index.partners" class="columns">
+            <img ng-src="{{partner.assets_url}}" alt="">
+        </div>
+    </div>
 </div>
