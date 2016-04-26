@@ -3547,6 +3547,7 @@ table.hover tr:nth-of-type(even):hover {
 .header.front-page {
   background: none; }
   .header.front-page .top-bar {
+    background: none;
     position: relative; }
   .header.front-page .header--top {
     border: none; }
