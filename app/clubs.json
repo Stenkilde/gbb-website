@@ -11,13 +11,13 @@
                 "language": "Denmark",
                 "asset_urls": [
                     {
-                        "url": "/assets/destinations/dest_dk/royalgolf/cover_royalgolf.jpg"
+                        "url": "/assets/destinations/dest_dk/royalgolf/cover_royal1.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_dk/royalgolf/cover_royalgolf2.jpg"
+                        "url": "/assets/destinations/dest_dk/royalgolf/cover_royal2.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_dk/royalgolf/cover_royalgolf3.jpg"
+                        "url": "/assets/destinations/dest_dk/royalgolf/cover_royal3.jpg"
                     }
                 ],
                 "text1": "Golf & Business Butler is all about designing, creating and hosting a string of High End Golf Tournaments in Leading Nordic Golf Clubs. We have developed a very exciting variety of tournament formats that will elevate the satisfaction of all golfers taking part at our events. Furthermore, we have gathered a group of effecient partners with quality services, luxury brands and strong solid businesses to ensure the highest possible level when it comes to materializing the finest prizetables, the most thrilling goodiebags and the most enjoyable ”lunch on the course” –kit.",
@@ -28,7 +28,7 @@
                 "language": "Denmark",
                 "asset_urls": [
                     {
-                        "url": "/assets/destinations/dest_dk/kokkedalgolf/cover_kokkedal.jpg"
+                        "url": "/assets/destinations/dest_dk/kokkedalgolf/cover_kokkedal1.jpg"
                     },
                     {
                         "url": "/assets/destinations/dest_dk/kokkedalgolf/cover_kokkedal2.jpg"
@@ -45,16 +45,13 @@
                 "language": "Denmark",
                 "asset_urls": [
                     {
-                        "url": "/assets/destinations/dest_dk/næstvedgolf/cover_næstved.jpg"
+                        "url": "/assets/destinations/dest_dk/naestvedgolf/cover_nastved1.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_dk/næstvedgolf/cover_næstved2.jpg"
+                        "url": "/assets/destinations/dest_dk/naestvedgolf/cover_nastved2.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_dk/næstvedgolf/cover_næstved3.jpg"
-                    },
-                    {
-                        "url": "/assets/destinations/dest_dk/næstvedgolf/cover_næstved4.jpg"
+                        "url": "/assets/destinations/dest_dk/naestvedgolf/cover_nastved3.jpg"
                     }
                 ],
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
@@ -65,7 +62,16 @@
                 "language": "Denmark",
                 "asset_urls": [
                     {
-                        "url": "/assets/destinations/dest_dk/esbjerggolf/cover_esbjerg.jpg"
+                        "url": "/assets/destinations/dest_dk/esbjerggolf/cover_esbjerg1.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_dk/esbjerggolf/cover_esbjerg2.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_dk/esbjerggolf/cover_esbjerg3.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_dk/esbjerggolf/cover_esbjerg4.jpg"
                     }
                 ],
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
@@ -74,24 +80,48 @@
             {
                 "name": "Aalborg Golf Club",
                 "language": "Denmark",
+                "asset_urls": [
+                    {
+                        "url": "/assets/destinations/dest_dk/aalborggolf/cover_aalborg1.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_dk/aalborggolf/cover_aalborg2.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_dk/aalborggolf/cover_aalborg3.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_dk/aalborggolf/cover_aalborg4.jpg"
+                    }
+                ],
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
                 "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id."
             },
             {
                 "name": "Odense Golf Club",
                 "language": "Denmark",
+                "asset_urls": [
+                    {
+                        "url": "/assets/destinations/dest_dk/odenseeventyr/cover_odense1.jpg"
+                    }
+                ],
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
                 "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id."
             },
             {
                 "name": "Simons Golf Club",
                 "language": "Denmark",
-                "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
-                "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id."
-            },
-            {
-                "name": "Rungsted Golf Club",
-                "language": "Denmark",
+                "asset_urls": [
+                    {
+                        "url": "/assets/destinations/dest_dk/simonsgolf/cover_simons1.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_dk/simonsgolf/cover_simons2.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_dk/simonsgolf/cover_simons3.jpg"
+                    }
+                ],
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
                 "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id."
             },
@@ -100,22 +130,22 @@
                 "language": "Denmark",
                 "asset_urls": [
                     {
-                        "url": "/assets/destinations/dest_dk/helsingør/cover_helsingør.jpg"
+                        "url": "/assets/destinations/dest_dk/helsingor/cover_helsingor1.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_dk/helsingør/cover_helsingør2.jpg"
+                        "url": "/assets/destinations/dest_dk/helsingor/cover_helsingor2.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_dk/helsingør/cover_helsingør3.jpg"
+                        "url": "/assets/destinations/dest_dk/helsingor/cover_helsingor3.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_dk/helsingør/cover_helsingør4.jpg"
+                        "url": "/assets/destinations/dest_dk/helsingor/cover_helsingor4.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_dk/helsingør/cover_helsingør5.jpg"
+                        "url": "/assets/destinations/dest_dk/helsingor/cover_helsingor5.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_dk/helsingør/cover_helsingør6.jpg"
+                        "url": "/assets/destinations/dest_dk/helsingor/cover_helsingor6.jpg"
                     }
                 ],
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
