@@ -39,12 +39,28 @@
     {
         "id": 6,
         "name": "Segafredo",
-        "assets_url": "/assets/partners/segafredo/segafredo_logo.svg"
+        "assets_url": "/assets/partners/segafredo/segafredo_logo.svg",
+        "images": [
+            {
+                "url": "/assets/partners/segafredo/segafredo_1.jpg"
+            },
+            {
+                "url": "/assets/partners/segafredo/segafredo_2.jpg"
+            }
+        ]
     },
     {
         "id": 7,
         "name": "Mumm",
-        "assets_url": "/assets/partners/mumm/mumm_logo.svg"
+        "assets_url": "/assets/partners/mumm/mumm_logo.svg",
+        "images": [
+            {
+                "url": "/assets/partners/mumm/mumm_1.jpg"
+            },
+            {
+                "url": "/assets/partners/mumm/mumm_2.jpg"
+            }
+        ]
     },
     {
         "id": 8,
@@ -81,6 +97,11 @@
     },
     {
         "id": 13,
+        "name": "Housing Denmark",
+        "assets_url": "/assets/partners/housingdenmark/housing_denmark_logo.svg"
+    },
+    {
+        "id": 14,
         "name": "Jacobsen",
         "assets_url": "/assets/partners/jacobsen/jacobsen_logo.svg"
     }

@@ -3544,26 +3544,29 @@ table.hover tr:nth-of-type(even):hover {
   .accordion-title:before {
     content: "" !important; }
 
-.front-page .top-bar {
+.header.front-page .top-bar {
   background-image: none;
   background-color: transparent;
   position: relative; }
 
-.front-page .header--top {
+.header.front-page .header--top {
   border: none; }
 
-.front-page .header--top, .front-page .header--bottom {
+.header.front-page .header--top, .header.front-page .header--bottom {
   padding: 5px 0; }
 
-.front-page .shield {
+.header.front-page .shield {
   position: absolute;
   top: 20px;
   left: 40px; }
-  .front-page .shield.brown svg {
+  .header.front-page .shield.brown svg {
     stroke: #825D47; }
 
-.front-page * {
+.header.front-page * {
   color: #fff !important; }
+
+.header.front-page svg {
+  stroke: initial; }
 
 .top-bar {
   background: #fff;
@@ -3573,6 +3576,9 @@ table.hover tr:nth-of-type(even):hover {
       height: 185px; } }
   .top-bar .content-holder {
     padding-top: 25px; }
+  .top-bar svg {
+    fill: #825D47;
+    stroke: #825D47; }
 
 .header--top, .header--bottom {
   display: flex;
@@ -3692,9 +3698,6 @@ h5 {
         width: 100%; }
     .sponsor-list li:hover {
       opacity: 1; }
-
-svg {
-  stroke: #825D47; }
 
 .slick-next {
   right: 10px;

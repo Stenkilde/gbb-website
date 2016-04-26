@@ -2,7 +2,12 @@
     <nav class="top-bar">
         <a href="#" class="mobile-menu small-1 columns show-for-small-only">M</a>
         <div class="medium-2 columns">
-            <a class="shield" ui-sref="application.main">
+            <a ui-sref="application.main" class="show-for-small-only">
+                <svg>
+                    <use xlink:href="#gbb-logo"></use>
+                </svg>
+            </a>
+            <a ui-sref="application.main" class="shield hide-for-small-only" >
                 <svg style="width:120px">
                     <use xlink:href="#gbb-shield" />
                 </svg>
@@ -92,10 +97,10 @@
                 <div class="small-12 columns">
                     <div class="row">
                         <div class="small-6 columns">
-                            <p>{{club.text1}}</p>
+                            <div ng-bind-html="club.text1"></div>
                         </div>
                         <div class="small-6 columns">
-                            <p>{{club.text2}}</p>
+                            <div ng-bind-html="club.text2"></div>
                         </div>
                     </div>
                     <div class="row align-right">
