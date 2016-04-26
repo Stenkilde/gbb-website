@@ -3644,10 +3644,17 @@ body {
   font-family: 'Palanquin', sans-serif;
   background: #fafafa; }
   body p {
-    color: #757575; }
+    color: #757575;
+    line-height: 26px; }
 
 .row {
   background: #fff; }
+
+.small-12 {
+  padding: 0 10px; }
+  @media screen and (min-width: 40em) {
+    .small-12 {
+      padding: 0 50px; } }
 
 .collapsed {
   padding: 0 !important; }

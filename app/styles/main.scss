@@ -18,11 +18,19 @@ body {
     background: #fafafa;
     p {
         color: #757575;
+        line-height: 26px;
     }
 }
 
 .row {
     background: #fff;
+}
+
+.small-12 {
+    padding: 0 10px;
+    @media #{$medium-up} {
+        padding: 0 50px;
+    }
 }
 
 .collapsed {
