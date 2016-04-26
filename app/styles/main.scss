@@ -15,9 +15,14 @@
 body {
     font-size: $base-font-size;
     font-family: 'Palanquin', sans-serif;
+    background: #fafafa;
     p {
         color: #757575;
     }
+}
+
+.row {
+    background: #fff;
 }
 
 .collapsed {

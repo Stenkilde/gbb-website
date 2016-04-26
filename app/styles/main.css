@@ -3641,9 +3641,13 @@ table.hover tr:nth-of-type(even):hover {
 
 body {
   font-size: 14px;
-  font-family: 'Palanquin', sans-serif; }
+  font-family: 'Palanquin', sans-serif;
+  background: #fafafa; }
   body p {
     color: #757575; }
+
+.row {
+  background: #fff; }
 
 .collapsed {
   padding: 0 !important; }
