@@ -15,6 +15,9 @@
 body {
     font-size: $base-font-size;
     font-family: 'Palanquin', sans-serif;
+    p {
+        color: #757575;
+    }
 }
 
 .collapsed {
