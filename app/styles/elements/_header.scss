@@ -1,7 +1,6 @@
 .header.front-page {
+    background: none;
     .top-bar {
-        background-image: none;
-        background-color: transparent;
         position: relative;
     }
     .header--top {
@@ -52,6 +51,10 @@
             font-size: 10px;
         }
     }
+}
+
+.header {
+    background: #fff;
 }
 
 .header--top {

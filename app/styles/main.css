@@ -3544,29 +3544,24 @@ table.hover tr:nth-of-type(even):hover {
   .accordion-title:before {
     content: "" !important; }
 
-.header.front-page .top-bar {
-  background-image: none;
-  background-color: transparent;
-  position: relative; }
-
-.header.front-page .header--top {
-  border: none; }
-
-.header.front-page .header--top, .header.front-page .header--bottom {
-  padding: 5px 0; }
-
-.header.front-page .shield {
-  position: absolute;
-  top: 20px;
-  left: 40px; }
-  .header.front-page .shield.brown svg {
-    stroke: #825D47; }
-
-.header.front-page * {
-  color: #fff !important; }
-
-.header.front-page svg {
-  stroke: initial; }
+.header.front-page {
+  background: none; }
+  .header.front-page .top-bar {
+    position: relative; }
+  .header.front-page .header--top {
+    border: none; }
+  .header.front-page .header--top, .header.front-page .header--bottom {
+    padding: 5px 0; }
+  .header.front-page .shield {
+    position: absolute;
+    top: 20px;
+    left: 40px; }
+    .header.front-page .shield.brown svg {
+      stroke: #825D47; }
+  .header.front-page * {
+    color: #fff !important; }
+  .header.front-page svg {
+    stroke: initial; }
 
 .top-bar {
   background: #fff;
@@ -3587,6 +3582,9 @@ table.hover tr:nth-of-type(even):hover {
     color: #825D47; }
     .header--top a.small, .header--bottom a.small {
       font-size: 10px; }
+
+.header {
+  background: #fff; }
 
 .header--top a {
   padding-right: 45px; }

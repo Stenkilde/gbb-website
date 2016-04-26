@@ -1,5 +1,5 @@
 <header class="header">
-    <nav class="top-bar">
+    <nav class="top-bar row">
         <a href="#" class="mobile-menu small-1 columns show-for-small-only">M</a>
         <div class="medium-2 columns">
             <a ui-sref="application.main" class="show-for-small-only">
@@ -55,7 +55,7 @@
                         <a href="#">Suppliers</a>
                     </li>
                     <li>
-                        <a href="#">Gallery</a>
+                        <a ui-sref="application.contact">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -63,6 +63,10 @@
     </nav>
 </header>
 
+<div class="c-image-hero">
+    <h1 class="title">{{view.currentItem.country}}</h1>
+    <img ng-src="{{view.currentItem.image}}" alt="" />
+</div>
 <div class="row">
     <div class="small-12 columns">
         <h1 class="title">{{view.currentItem.country}}</h1>
@@ -71,7 +75,7 @@
         <hr />
     </div>
     <div class="small-12 columns">
-        <div ng-bind-html="view.currentItem.content"></div>
+        <div style="margin-bottom: 50px;" ng-bind-html="view.currentItem.content"></div>
     </div>
 </div>
 <accordion close-others="oneAtATime">
