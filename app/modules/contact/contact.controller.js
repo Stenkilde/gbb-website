@@ -3,10 +3,10 @@
 
 	angular
 		.module('gbb')
-		.controller('Index', Index);
+		.controller('Contact', Contact);
 
 	/* @ngInject */
-	function Index($http) {
+	function Contact($http) {
 		/*jshint validthis: true */
 		var vm 		= this;
 		vm.partners = [];

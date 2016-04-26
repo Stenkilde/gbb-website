@@ -1,0 +1,77 @@
+<header class="header">
+    <nav class="top-bar">
+        <a href="#" class="mobile-menu small-1 columns show-for-small-only">M</a>
+        <div class="medium-2 columns">
+            <a ui-sref="application.main" class="show-for-small-only">
+                <svg>
+                    <use xlink:href="#gbb-logo"></use>
+                </svg>
+            </a>
+            <a ui-sref="application.main" class="shield hide-for-small-only" >
+                <svg style="width:120px">
+                    <use xlink:href="#gbb-shield" />
+                </svg>
+            </a>
+        </div>
+        <div class="medium-10 columns hide-for-small-only content-holder">
+            <div class="header--top text-right">
+                <div class="small-12 columns collapsed">
+                    <a class="small" href="">Corporategolf</a>
+                    <a class="small" href="">Contact</a>
+                    <a class="small" href="">News</a>
+                    <a href="https://www.instagram.com/golfbusinessbutler/" target="_blank">
+                        <svg style="width: 11px; height: 11px;">
+                            <use xlink:href="#insta" />
+                        </svg>
+                    </a>
+                    <a href="https://www.youtube.com/channel/UC0GpR621M2h_oC8ByMAc0tg" target="_blank">
+                        <svg style="width: 11px; height: 11px;">
+                            <use xlink:href="#youtube" />
+                        </svg>
+                    </a>
+                    <a href="https://www.linkedin.com/company/golf-&-business-butler---nordic-group" target="_blank">
+                        <svg style="width: 11px; height: 11px;">
+                            <use xlink:href="#linked" />
+                        </svg>
+                    </a>
+                </div>
+            </div>
+            <div class="header--bottom menu">
+                <ul class="under-menu">
+                    <li>
+                        <a href="#">2016Events</a>
+                    </li>
+                    <li>
+                        <a ui-sref="application.clubsView({clubs: 'danish' })">Golfclubs</a>
+                        <ul class="sub-menu">
+                            <li class="line"></li>
+                            <li ng-repeat="club in index.clubs"><a ui-sref="application.clubsView({clubs: '{{club.url}}' })">{{club.language}}</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a ui-sref="application.partners">Partners</a>
+                    </li>
+                    <li>
+                        <a href="#">Suppliers</a>
+                    </li>
+                    <li>
+                        <a href="#">Gallery</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<div class="c-image-hero">
+    <h1 class="title">Contact</h1>
+    <img src="https://images.unsplash.com/photo-1458724338480-79bc7a8352e4?crop=entropy&dpr=2&fit=crop&fm=jpg&h=700&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1300" alt="" />
+</div>
+
+<div class="row">
+    <h2 class="small-12 column title">We'd love to hear from you</h2>
+    <div class="small-12 column">
+        <hr />
+        <p>Golf &amp; Business Butler is all about designing, creating and hosting a string of High End Golf Tournaments in Leading Nordic Golf Clubs. We have developed a very exciting variety of tournament formats that will elevate the satisfaction of all golfers taking part at our events. Furthermore, we have gathered a group of effecient partners with quality services, luxury brands and strong solid businesses to ensure the highest possible level when it comes to materializing the finest prizetables, the most thrilling goodiebags and the most enjoyable ”lunch on the course” –kit. Just to mention a few among many areas that have become increasingly important to us. The ambition is to constantly seek and insist in new ways of improving golf tournaments, creating valuable platforms of marketing and promotion to partners and sponsors thus serving a vast crowd of appreciative nordic clients. We are very fortunate and honoured to work with some of the best and finest golf courses in Denmark, Sweden and Norway  -  and we have also managed to get a few of the most celebrated international premium golf courses onboard this GBB Universe.</p>
+    </div>
+</div>
