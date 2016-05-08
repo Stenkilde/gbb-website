@@ -76,8 +76,16 @@ h5 {
 .partner-slider {
     height: 400px;
     overflow: hidden;
-    slick {
-        height: 400px;
+    slick{
+        height: 100%;
+        * {
+            height: 100%;
+        }
+        img, .image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
     }
 }
 
@@ -136,4 +144,15 @@ h5 {
         opacity: 1;
         background: #cacaca;
     }
+}
+
+.button {
+    background: transparent;
+    &:hover {
+        background: $primary-color;
+    }
+}
+
+.mb-none {
+    margin-bottom: 0;
 }

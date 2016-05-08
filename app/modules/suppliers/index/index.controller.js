@@ -3,18 +3,18 @@
 
 	angular
 		.module('gbb')
-		.controller('Contact', Contact);
+		.controller('IndexSup', IndexSup);
 
 	/* @ngInject */
-	function Contact($http) {
+	function IndexSup($http) {
 		/*jshint validthis: true */
 		var vm 		= this;
-		vm.partners = [];
+		vm.suppliers = [];
 
 		activate();
 
 		function activate() {
-			$http.get('partners.json').then(function(response) {
+			$http.get('suppliers.json').then(function(response) {
 				vm.partners = response.data;
 			});
 		}

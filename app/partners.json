@@ -19,26 +19,51 @@
     {
         "id": 2,
         "name": "Quooker",
-        "assets_url": "assets/partners/quooker/quooker_logo.svg"
+        "assets_url": "assets/partners/quooker/quooker_logo.svg",
+        "content": "<h5>Lorem Ipsum</h5>",
+        "images": [
+            {
+                "url": "/assets/img/fotografen.jpg"
+            }
+        ]
     },
     {
         "id": 3,
         "name": "Braastad",
-        "assets_url": "/assets/partners/braastad/braastad_logo.svg"
+        "assets_url": "/assets/partners/braastad/braastad_logo.svg",
+        "content": "<h5>Lorem Ipsum</h5>",
+        "images": [
+            {
+                "url": "/assets/img/fotografen.jpg"
+            }
+        ]
     },
     {
         "id": 4,
         "name": "Chivas",
-        "assets_url": "/assets/partners/chivas/chivas_logo.svg"
+        "assets_url": "/assets/partners/chivas/chivas_logo.svg",
+        "content": "<h5>Lorem Ipsum</h5>",
+        "images": [
+            {
+                "url": "/assets/img/fotografen.jpg"
+            }
+        ]
     },
     {
         "id": 5,
         "name": "Gaggenau",
-        "assets_url": "/assets/partners/gaggenau/gaggenau_logo.svg"
+        "assets_url": "/assets/partners/gaggenau/gaggenau_logo.svg",
+        "content": "<h5>Lorem Ipsum</h5>",
+        "images": [
+            {
+                "url": "/assets/img/fotografen.jpg"
+            }
+        ]
     },
     {
         "id": 6,
         "name": "Segafredo",
+        "content": "<br> <p>Segafredo Zanetti Danmark har eksisteret siden 2003, hvor Massimo Zanetti Beverages Group besluttede at også danskerne skulle have mulighed for at nyde den gode kaffe efter italienske traditioner. Frem til 2012 har Segafredo Zanetti Danmark primært koncentreret sig om at levere den gode espresso kaffe til caféer og restauranter, hvilket betyder at vi i dag har omkring 200-225 café -og restaurantkunder i Danmark. Hertil kommer omkring 25 kontorer som ønsker at give sine ansatte og kunder en lidt anderledes og bedre kaffe oplevelse end normalt. Men Segafredo Zanetti skal nu ikke kun kunne nydes på caféer og restauranter i Danmark. Vi ønsker også at udbrede vores gode kaffe produkter til hjemmet. Hvorfor vi nu er at finde i flere og flere detailbutikker. Herunder Metro, Rema1000, Føtex og Bilka, samt udvalgte SuperBest butikker. Under produkter kan du se hvilke produkter vi fører i disse butikker. Segafredo Zanetti Danmark vil ikke stoppe med at levere espresso bønner til HoReCa branchen, som vi også kalder ”Arven”. Vi vil konstant udvikle og udvide vores café og restaurant forretning fordi vi tror på at oplevelsen og starten på den gode kaffeoplevelse starter her. Nu vil vi bare gøre det muligt at også at nyde Segafredo hjemme i dagligdagen. Vi håber at alle deltagerne i GBB Matcherne 2016 vil nyde vores medvirken og deltagelse i GBB goodiebags og på de meget fine og luksuspræget GBB præmieborde.</p><p class='mb-none'>MVH</p><p class='mb-none'>Segafredo Danmark</p><p class='mb-none'>Country Manager</p><p class='mb-none'>Kristian Kohn</p><br><a href='http://www.segafredo.dk' target='_blank'>www.segafredo.dk</a>",
         "assets_url": "/assets/partners/segafredo/segafredo_logo.svg",
         "images": [
             {
@@ -52,6 +77,7 @@
     {
         "id": 7,
         "name": "Mumm",
+        "content": "<br> <p>Mumm comes with a heavy and deep history, where their champagnes have all been famous for extremely good taste and quality.Mumm House was originally created by three brothers Jacobus, Gottlieb and Phillip Mumm.</p> <p>Way back in 1827 they formed and named their company P. A. Mumm Giesler et C. What really seperate them from other champagnes and what really identifies MUMM is the design og the bottle; always decorated with a clear red ribbon on all their bottles.</p> <p>Today Mumm Champagne is owned by Pernod Ricard, like other famous brands like Absolut, Havana Club, Chivas and Jameson Irish Whiskey. At Pernod Ricard Nordic we are very pleased to work with Golf & Business Butler – Nordic Group. We are thrilled that we have been asked to help in celebration of all the winners at all The GBB Matches at Leading Nordic Golf Clubs in 2016.</p>",
         "assets_url": "/assets/partners/mumm/mumm_logo.svg",
         "images": [
             {
@@ -65,16 +91,29 @@
     {
         "id": 8,
         "name": "La Prairie",
-        "assets_url": "/assets/partners/laprairie/laprairie_logo.svg"
+        "assets_url": "/assets/partners/laprairie/laprairie_logo.svg",
+        "content": "<h5>Lorem Ipsum</h5>",
+        "images": [
+            {
+                "url": "/assets/img/fotografen.jpg"
+            }
+        ]
     },
     {
         "id": 9,
         "name": "Uno Form",
-        "assets_url": "/assets/partners/unoform/unoform_logo.svg"
+        "assets_url": "/assets/partners/unoform/unoform_logo.svg",
+        "content": "<h5>Lorem Ipsum</h5>",
+        "images": [
+            {
+                "url": "/assets/img/fotografen.jpg"
+            }
+        ]
     },
     {
         "id": 10,
         "name": "Nykredit",
+        "content": "</br> <b>Drømmer du om at købe bolig i udlandet? </br>Nykredit International tilbyder realkreditlån når boligen i Frankrig eller Spanien skal finansieres.</b> <p>At købe bolig i udlandet og flytte væk for en kortere eller længere periode er et stort skridt. Hos Nykredit sørger vi for, at det bliver et skridt i den rigtige retning. Først og fremmest låner vi dig penge til at finansiere den bolig, du drømmer om - og vi gør det på samme måde, som du finansierer et boligkøb i Danmark. Det kan vi, fordi Nykredit arbejder lokalt i udlandet. Vi er der i forvejen. Det kommer dig til gavn, når du har brug for rådgivning om forholdene i dit nye land.</p> </br> <b>Vi lytter til dine drømme.</b>   <p>Med udgangspunkt i dine ønsker, danner vi os et oveblik over dine muligheder og hjælper dig med at tilrettelægge finansiering, opsparing og investering. Vi når hele vejen rundt om din økonomi, for bedst muligt at hjælpe dig på vej, hvad enten du allerede har fundet drømmeboligen eller er på vej sydpå for at søge efter den. Nykredit International er den eneste danske leverandør af realkreditlån i udlandet. Gennem   okale netværk og mange års erfaring kan vi tilbyde et veludviklet produkt der er tilpasset dine ønsker og behov.</p>   <b>Vores tilstedeværelse er din tryghed.</b> </br> <p>Siden vores start i 2002, har vi opbygget et stort netværk i vores udlånsområder. Vores tilgængelighed strækker sig over den franske og spanske middelhavskyst, med repræsentationskontorer i Cannes, Marbella og Palma de Mallorca. Vores lokale netværk består af ejendomsmæglere, advokater og rådgivere. Det giver Nykredit International muligheden for, at tilbyde bedst mulig rådgivning og tryghed i en kompleks proces i et nyt land.</p> <b>Hvilket lån kan du få?</b> </br> <p>Nykredit International tilbyder at finansiere den udenlandske bolig med et dansk realkreditlån. Lånet optages i euro med afdragsfrihed på op til 10 år med 30 års løbetid. Vi kan finansiere op til 80% af dit boligkøb i Frankrig eller Spanien, og ligeledes tilbyde en friværdibelåning på op til 80% af ejendommens værdi i Frankrig, eller op til 60% i Spanien.Renten er variabel og baseret på en 3 måneders Euribor3 rente. Modsat mange franske og spanske banker har vi ingen øvre aldersgrænse og vi kræver ikke, at du tegner en livsforsikring hos os. Vi tilbyder en købs- og låneproces tilpasset ikke bare de udenlandske forhold, men også hjemlige forhold hvor alle dokumenter er på dansk eller engelsk – alt efter dit ønske.</p> <b>Vejen fremad.</b></br> <p>Kontakt ét af vores fire international kontorer, alt efter, hvor du befinder dig. Du bestemmer selv, om du vil ringe eller sende en mail. Du kan også tilmelde dig e-nyhedsbrevet International Bolignyt for opdateringer omkring udvikling på de internationale boligmarkeder.</p> <b>København</b> <p class=\"mb-none\">Kalvebod Brygge 1-3</p> <p class=\"mb-none\">DK-1780 København V </p> <p class=\"mb-none\">Tlf:+45 44 55 15 35</p><p> international-cph@nykredit.dk</p> <b>Palma</b> <p class=\"mb-none\">Carrer Constitució 1</p> <p class=\"mb-none\">07001 Palma de Mallorca</p> <p class=\"mb-none\">Tlf:+34 966 865 690</p> <p>palma@nykredit.dk</p></br> <b>Cannes</b> <p class=\"mb-none\">13 Rue des Etats-Unis</p> <p class=\"mb-none\">F-06400 Cannes</p> <p class=\"mb-none\">Tlf: +33(0)493 39 10 10</p> <p>cannes@nykredit.dk</p></br> <b>Marbella</b> <p class=\"mb-none\">Centro Plaza 26</p> <p class=\"mb-none\">E-29660 Nueva</p> <p class=\"mb-none\">Marbella</p> <p class=\"mb-none\">Tlf: +34 952 905 150</p> <p>marbella@nykredit.dk</p>",
         "assets_url": "/assets/partners/nykredit/nykredit_logo.svg",
         "images": [
             {
@@ -88,21 +127,45 @@
     {
         "id": 11,
         "name": "Shiseido",
-        "assets_url": "/assets/partners/shiseido/shiseido_logo.svg"
+        "assets_url": "/assets/partners/shiseido/shiseido_logo.svg",
+        "content": "<h5>Lorem Ipsum</h5>",
+        "images": [
+            {
+                "url": "/assets/img/fotografen.jpg"
+            }
+        ]
     },
     {
         "id": 12,
         "name": "la Tour De Vence",
-        "assets_url": "/assets/partners/latourdevence/latourdevence_logo.svg"
+        "assets_url": "/assets/partners/latourdevence/latourdevence_logo.svg",
+        "content": "<h5>Lorem Ipsum</h5>",
+        "images": [
+            {
+                "url": "/assets/img/fotografen.jpg"
+            }
+        ]
     },
     {
         "id": 13,
         "name": "Housing Denmark",
-        "assets_url": "/assets/partners/housingdenmark/housing_denmark_logo.svg"
+        "assets_url": "/assets/partners/housingdenmark/housing_denmark_logo.svg",
+        "content": "<h5>Lorem Ipsum</h5>",
+        "images": [
+            {
+                "url": "/assets/img/fotografen.jpg"
+            }
+        ]
     },
     {
         "id": 14,
         "name": "Jacobsen",
-        "assets_url": "/assets/partners/jacobsen/jacobsen_logo.svg"
+        "assets_url": "/assets/partners/jacobsen/jacobsen_logo.svg",
+        "content": "<h5>Lorem Ipsum</h5>",
+        "images": [
+            {
+                "url": "/assets/img/fotografen.jpg"
+            }
+        ]
     }
 ]

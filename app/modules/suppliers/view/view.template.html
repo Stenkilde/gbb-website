@@ -41,17 +41,18 @@
                     <li>
                         <a href="#">2016Events</a>
                     </li>
-                    <li class="expanded">
-                        <a  ui-sref="application.clubsView({clubs: 'danish' })">Golfclubs</a>
-                        <ul class="menu" style="margin-left: -28px;">
-                            <li ng-repeat="club in topbar.clubs"><a ui-sref="application.clubsView({clubs: '{{club.url}}' })">{{club.language}}</a></li>
+                    <li>
+                        <a ui-sref="application.clubsView({clubs: 'danish' })">Golfclubs</a>
+                        <ul class="sub-menu">
+                            <li class="line"></li>
+                            <li ng-repeat="club in view.clubs"><a ui-sref="application.clubsView({clubs: '{{club.url}}' })">{{club.language}}</a></li>
                         </ul>
                     </li>
                     <li>
                         <a ui-sref="application.partners">Partners</a>
                     </li>
                     <li>
-                        <a ui-sref="application.suppliers">Suppliers</a>
+                        <a href="#">Suppliers</a>
                     </li>
                     <li>
                         <a ui-sref="application.contact">Contact</a>
@@ -61,3 +62,23 @@
         </div>
     </nav>
 </header>
+
+<div class="partner-slider">
+    <slick dots="false" infinite="true" speed=300 slides-to-show=1 touch-move="true" slides-to-scroll=1 init-onload=true data="view.currentItem.images">
+        <div ng-repeat="image in view.currentItem.images">
+            <div class="image">
+                <img ng-src="{{image.url}}" alt="">
+            </div>
+        </div>
+    </slick>
+</div>
+<div class="row">
+    <div class="small-12 columns">
+        <div ng-bind-html="view.currentItem.content"></div>
+    </div>
+    <div class="small-12 columns">
+        <ul class="row sponsor-list">
+            <li ng-repeat="partner in view.partners" ui-sref-active="active" class="small-6 column text-center"><a ui-sref="application.partnerview({id: {{partner.id}}})"><img ng-src={{partner.assets_url}} alt="" /></a></li>
+        </ul>
+    </div>
+</div>

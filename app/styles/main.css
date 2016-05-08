@@ -3502,16 +3502,15 @@ table.hover tr:nth-of-type(even):hover {
     left: 50%;
     transform: translate(-50%, -50%);
     display: inline-block;
-    font-family: helvetica;
+    font-family: 'queens_parkregular';
     color: #fff;
-    border: 1px solid #fff;
     padding: 10px;
     margin: 0;
     font-size: 24px; }
     @media screen and (min-width: 40em) {
       .c-image-hero .title {
         padding: 30px;
-        font-size: 72px; } }
+        font-size: 64px; } }
   .c-image-hero img {
     height: 100px;
     width: 100%;
@@ -3604,6 +3603,43 @@ table.hover tr:nth-of-type(even):hover {
   position: relative;
   text-align: center; }
 
+.expanded {
+  position: relative;
+  display: inline-block;
+  width: 10%;
+  margin-right: 1%;
+  min-width: 110px;
+  text-align: center;
+  height: 40px; }
+  .expanded .menu {
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 40px;
+    padding: 10px 0;
+    width: 100%;
+    min-width: 170px;
+    text-align: center;
+    background: none; }
+    .expanded .menu li {
+      margin: 0;
+      display: block; }
+      .expanded .menu li a {
+        display: block; }
+  .expanded:after {
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 0;
+    max-width: 140px;
+    height: 1px;
+    background: #000;
+    transition: width .2s; }
+  .expanded:hover .menu {
+    display: block; }
+  .expanded:hover:after {
+    width: 100%; }
+
 .menu li:hover .sub-menu {
   display: block; }
 
@@ -3625,12 +3661,6 @@ table.hover tr:nth-of-type(even):hover {
   z-index: 100;
   display: none;
   background: transparent !important; }
-  .sub-menu .line {
-    margin: 10px auto;
-    display: block;
-    height: 1px;
-    width: 50%;
-    background: #fff; }
 
 .sub-menu li {
   color: #fff;
@@ -3691,7 +3721,13 @@ h5 {
   height: 400px;
   overflow: hidden; }
   .partner-slider slick {
-    height: 400px; }
+    height: 100%; }
+    .partner-slider slick * {
+      height: 100%; }
+    .partner-slider slick img, .partner-slider slick .image {
+      width: 100%;
+      height: 100%;
+      object-fit: cover; }
 
 .sponsor-list {
   margin: 0;
@@ -3739,5 +3775,13 @@ h5 {
   .slick-prev:hover {
     opacity: 1;
     background: #cacaca; }
+
+.button {
+  background: transparent; }
+  .button:hover {
+    background: #825D47; }
+
+.mb-none {
+  margin-bottom: 0; }
 
 /*# sourceMappingURL=main.css.map */

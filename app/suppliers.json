@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "7. Himmel",
+        "assets_url": "/assets/suppliers/7himmel/d7himmellogo.svg",
+        "content": "<h5 class=\"subheading\">Lorem Ipsum</h5>",
+        "images": [
+            {
+                "url": "/assets/img/fotografen.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Mens Room",
+        "assets_url": "/assets/suppliers/mensroom/mensroomlogo.svgz",
+        "content": "<h5 class=\"subheading\">Lorem Ipsum</h5>",
+        "images": [
+            {
+                "url": "/assets/img/fotografen.jpg"
+            }
+        ]
+    }
+]
