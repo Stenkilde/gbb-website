@@ -43,7 +43,7 @@ body {
 
 hr {
     margin-top: 0;
-    border-width: 2px;
+    border-width: 1px;
     border-color: $primary-color;
 }
 
@@ -51,6 +51,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'queens_parkregular';
     &.title {
         color: $primary-color;
+        padding-top: 20px;
     }
     &.subheading {
         color: $grey-number-1;

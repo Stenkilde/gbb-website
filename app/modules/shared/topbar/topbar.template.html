@@ -8,8 +8,8 @@
                 </svg>
             </a>
             <a ui-sref="application.main" class="shield hide-for-small-only" >
-                <svg style="width:120px">
-                    <use xlink:href="#gbb-shield" />
+                <svg>
+                    <use xlink:href="#gbb-logo" />
                 </svg>
             </a>
         </div>
@@ -43,7 +43,7 @@
                     </li>
                     <li class="expanded">
                         <a  ui-sref="application.clubsView({clubs: 'danish' })">Golfclubs</a>
-                        <ul class="menu" style="margin-left: -28px;">
+                        <ul class="menu" style="margin-left: -17px;">
                             <li ng-repeat="club in topbar.clubs"><a ui-sref="application.clubsView({clubs: '{{club.url}}' })">{{club.language}}</a></li>
                         </ul>
                     </li>

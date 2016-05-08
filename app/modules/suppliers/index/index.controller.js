@@ -15,7 +15,7 @@
 
 		function activate() {
 			$http.get('suppliers.json').then(function(response) {
-				vm.partners = response.data;
+				vm.suppliers = response.data;
 			});
 		}
 

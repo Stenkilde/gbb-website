@@ -13,11 +13,11 @@
     {
         "id": 2,
         "name": "Mens Room",
-        "assets_url": "/assets/suppliers/mensroom/mensroomlogo.svgz",
+        "assets_url": "/assets/suppliers/mensroom/mensroom.svg",
         "content": "<h5 class=\"subheading\">Lorem Ipsum</h5>",
         "images": [
             {
-                "url": "/assets/img/fotografen.jpg"
+                "url": "/assets/suppliers/mensroom/cover_mensroom1.jpg"
             }
         ]
     }
