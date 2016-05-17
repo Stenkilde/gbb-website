@@ -3542,6 +3542,19 @@ table.hover tr:nth-of-type(even):hover {
   .accordion-title:before {
     content: "" !important; }
 
+.c-off-canvas {
+  position: fixed;
+  width: 100%;
+  background-color: #fff;
+  height: 0%;
+  opacity: 0;
+  visibility: hidden;
+  transition: height .3s ease-in-out, opacity .3s ease-in-out, visibility .3s ease-in-out; }
+  .c-off-canvas.open {
+    height: 100%;
+    visibility: visible;
+    opacity: 1; }
+
 .header.front-page {
   background: none; }
   .header.front-page .top-bar {
