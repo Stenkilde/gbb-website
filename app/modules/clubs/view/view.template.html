@@ -12,6 +12,11 @@
     <div class="small-12 columns">
         <div style="margin-bottom: 50px;" ng-bind-html="view.currentItem.content"></div>
     </div>
+    <div class="small-12 columns">
+        <svg>
+            <use xlink:href="#signature" />
+        </svg>
+    </div>
 </div>
 <accordion close-others="oneAtATime">
     <accordion-group ng-repeat="club in view.currentItem.clubs">

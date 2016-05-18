@@ -3542,6 +3542,19 @@ table.hover tr:nth-of-type(even):hover {
   .accordion-title:before {
     content: "" !important; }
 
+.c-off-canvas {
+  position: fixed;
+  width: 100%;
+  background-color: #fff;
+  height: 0%;
+  opacity: 0;
+  visibility: hidden;
+  transition: height .3s ease-in-out, opacity .3s ease-in-out, visibility .3s ease-in-out; }
+  .c-off-canvas.open {
+    height: 100%;
+    visibility: visible;
+    opacity: 1; }
+
 .header.front-page {
   background: none; }
   .header.front-page .top-bar {
@@ -3650,7 +3663,9 @@ table.hover tr:nth-of-type(even):hover {
   text-align: right; }
   .under-menu li {
     display: inline-block;
-    margin-right: 90px; }
+    margin-right: 8%; }
+    .under-menu li:last-child {
+      margin-right: 0; }
 
 .sub-menu {
   margin: 0;
@@ -3748,7 +3763,8 @@ h5 {
         .sponsor-list li a {
           padding: 80px; } }
       .sponsor-list li a img {
-        width: 100%; }
+        width: 100%;
+        height: 140px; }
     .sponsor-list li:hover {
       opacity: 1; }
 

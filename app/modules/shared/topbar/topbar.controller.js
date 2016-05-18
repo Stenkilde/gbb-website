@@ -10,6 +10,7 @@
 		/*jshint validthis: true */
 		var vm 			= this;
 		vm.clubs		= [];
+		vm.menuState	= false;
 
 		activate();
 

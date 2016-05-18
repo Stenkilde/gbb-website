@@ -1,6 +1,15 @@
+<div class="c-off-canvas" <i ng-class="topbar.menuState ? 'open' : 'closed'">
+    <a href="#" ng-click="topbar.menuState = !topbar.menuState" class="mobile-menu small-1 columns show-for-small-only">M</a>
+    <div class="small-12 columns">
+        <svg viewBox="0 0 100 50">
+            <use xlink:href="#gbb-logo" />
+        </svg>
+    </div>
+</div>
+
 <header class="header">
     <nav class="top-bar row">
-        <a href="#" class="mobile-menu small-1 columns show-for-small-only">M</a>
+        <a href="#" ng-click="topbar.menuState = !topbar.menuState" class="mobile-menu small-1 columns show-for-small-only">M</a>
         <div class="medium-4 columns">
             <a ui-sref="application.main" class="show-for-small-only">
                 <svg>
@@ -13,7 +22,7 @@
                 </svg>
             </a>
         </div>
-        <div class="medium-10 columns hide-for-small-only content-holder">
+        <div class="medium-8 columns hide-for-small-only content-holder">
             <div class="header--top text-right">
                 <div class="small-12 columns collapsed">
                     <a class="small" href="">Corporategolf</a>
