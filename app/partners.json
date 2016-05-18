@@ -45,7 +45,16 @@
         "content": "<h5>Lorem Ipsum</h5>",
         "images": [
             {
-                "url": "/assets/img/fotografen.jpg"
+                "url": "/assets/partners/chivas/cover_chivas1.jpg"
+            },
+            {
+                "url": "/assets/partners/chivas/cover_chivas2.jpg"
+            },
+            {
+                "url": "/assets/partners/chivas/cover_chivas3.jpg"
+            },
+            {
+                "url": "/assets/partners/chivas/cover_chivas4.jpg"
             }
         ]
     },
