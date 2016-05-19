@@ -1,38 +1,30 @@
-<div class="c-off-canvas" <i ng-class="topbar.menuState ? 'open' : 'closed'">
-    <button style="position: fixed; top: 0; left: 0;" ng-click="topbar.menuState = !topbar.menuState" class="mobile-menu small-1 columns show-for-small-only">M</button>
-    <div class="row align-center">
-        <div class="small-8 columns">
-            <svg viewBox="0 0 120 20">
-                <use xlink:href="#gbb-logo" />
-            </svg>
-        </div>
-    </div>
+<div class="c-off-canvas" ng-class="topbar.menuState ? 'open' : 'closed'">
     <hr>
-    <ul>
+    <ul class="mobile-menu">
         <li>
-            <a href="#">2016Events</a>
+            <a ng-click="topbar.menuState = false" href="#">2016Events</a>
         </li>
         <li>
-            <a  ui-sref="application.clubsView({clubs: 'danish' })">Golfclubs</a>
-            <ul>
-                <li ng-repeat="club in topbar.clubs"><a ui-sref="application.clubsView({clubs: '{{club.url}}' })">{{club.language}}</a></li>
+            <button ng-click="topbar.acState = !topbar.acState">Golfclubs</button>
+            <ul class="mobile__sub-menu" ng-class="topbar.acState ? 'open' : 'closed'">
+                <li ng-click="topbar.menuState = false" ng-repeat="club in topbar.clubs"><a ui-sref="application.clubsView({clubs: '{{club.url}}' })">{{club.language}}</a></li>
             </ul>
         </li>
         <li>
-            <a ui-sref="application.partners">Partners</a>
+            <a ng-click="topbar.menuState = false" ui-sref="application.partners">Partners</a>
         </li>
         <li>
-            <a ui-sref="application.suppliers">Suppliers</a>
+            <a ng-click="topbar.menuState = false" ui-sref="application.suppliers">Suppliers</a>
         </li>
         <li>
-            <a ui-sref="application.contact">Contact</a>
+            <a ng-click="topbar.menuState = false" ui-sref="application.contact">Contact</a>
         </li>
     </ul>
 </div>
 
 <header class="header">
     <nav class="top-bar row">
-        <button ng-click="topbar.menuState = !topbar.menuState" class="mobile-menu small-1 columns show-for-small-only">M</button>
+        <button ng-click="topbar.menuState = !topbar.menuState" class="small-1 columns show-for-small-only">M</button>
         <div class="medium-4 columns">
             <a ui-sref="application.main" class="show-for-small-only">
                 <svg>

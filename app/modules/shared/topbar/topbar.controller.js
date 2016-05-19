@@ -11,6 +11,7 @@
 		var vm 			= this;
 		vm.clubs		= [];
 		vm.menuState	= false;
+		vm.acState		= false;
 
 		activate();
 

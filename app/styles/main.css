@@ -3521,9 +3521,12 @@ table.hover tr:nth-of-type(even):hover {
 
 .accordion-title {
   padding: 0;
-  height: 350px;
+  height: 150px;
   overflow: hidden;
   position: relative; }
+  @media screen and (min-width: 40em) {
+    .accordion-title {
+      height: 350px; } }
   .accordion-title img, .accordion-title .image {
     width: 100%;
     height: 100%;
@@ -3544,12 +3547,14 @@ table.hover tr:nth-of-type(even):hover {
 
 .c-off-canvas {
   position: fixed;
+  top: 65px;
   width: 100%;
   background-color: #fff;
   height: 0%;
   opacity: 0;
   visibility: hidden;
-  transition: height .3s ease-in-out, opacity .3s ease-in-out, visibility .3s ease-in-out; }
+  transition: height .3s ease-in-out, opacity .3s ease-in-out, visibility .3s ease-in-out;
+  z-index: 100; }
   .c-off-canvas.open {
     height: 100%;
     visibility: visible;
@@ -3680,6 +3685,28 @@ table.hover tr:nth-of-type(even):hover {
   display: block;
   cursor: pointer;
   margin: 0; }
+
+.mobile-menu {
+  margin: 0;
+  padding: 0 20px;
+  list-style-type: none; }
+  .mobile-menu li {
+    color: #825D47;
+    border-bottom: 1px solid #825D47;
+    line-height: 45px; }
+    .mobile-menu li a {
+      color: #825D47; }
+
+.mobile__sub-menu {
+  height: 0;
+  overflow: hidden;
+  transition: all .3s ease-in-out;
+  margin: 0;
+  list-style-type: none; }
+  .mobile__sub-menu li {
+    padding: 0 20px; }
+  .mobile__sub-menu.open {
+    height: 183px; }
 
 svg path {
   fill: #825D47; }
