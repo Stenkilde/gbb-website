@@ -8,11 +8,13 @@
 @import "plugins/main-slick";
 @import "plugins/theme-slick";
 // Components
+@import "components/button";
 @import "components/image-hero";
 @import "components/accordion";
 @import "components/off-canvas";
 // Elements
 @import "elements/header";
+
 body {
     font-size: $base-font-size;
     font-family: 'Palanquin', sans-serif;
@@ -76,8 +78,15 @@ h5 {
 }
 
 .partner-slider {
-    height: 400px;
     overflow: hidden;
+    @media #{$small-only} {
+        .slick-slider {
+            margin-bottom: 0;
+        }
+    }
+    @media #{$medium-up} {
+        height: 400px;
+    }
     slick{
         height: 100%;
         * {
@@ -158,4 +167,8 @@ h5 {
 
 .mb-none {
     margin-bottom: 0;
+}
+
+.reveal .slick-slider {
+    margin: 0;
 }

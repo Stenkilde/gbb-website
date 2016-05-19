@@ -22,13 +22,7 @@
     <accordion-group ng-repeat="club in view.currentItem.clubs">
         <accordion-heading>
             <h2>{{club.name}}</h2>
-            <slick dots="false" infinite="true" speed=300 slides-to-show=1 touch-move="true" slides-to-scroll=1 init-onload=true data="club.asset_urls">
-                <div ng-repeat="image in club.asset_urls">
-                    <div class="image">
-                        <img ng-src="{{image.url}}" alt="">
-                    </div>
-                </div>
-            </slick>
+            <img ng-src="{{club.asset_urls[0].url}}" alt="">
         </accordion-heading>
         <div class="row">
             <div class="small-12 columns">
@@ -52,7 +46,7 @@
                     </div>
                     <div class="row align-right">
                         <div class="small-12 medium-6 columns">
-                            <button ng-click="view.openModal(club)" class="button">Learn More</button>
+                            <button ng-click="view.openModal(club)" class="button slide-hor">Learn More</button>
                         </div>
                     </div>
                 </div>
