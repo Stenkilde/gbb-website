@@ -3489,6 +3489,19 @@ table.hover tr:nth-of-type(even):hover {
       color: black;
       opacity: 0.75; }
 
+.button.slide-hor {
+  position: relative;
+  color: #000;
+  background-image: linear-gradient(to right, #fff 50%, #825D47 50%);
+  background-position: 0;
+  background-size: 200%;
+  transition: all 0.25s; }
+  .button.slide-hor:hover {
+    color: #fff;
+    background-image: linear-gradient(to right, #fff 50%, #825D47 50%);
+    background-position: -100%;
+    background-size: 200%; }
+
 .c-image-hero {
   position: relative;
   height: 100px;
@@ -3762,8 +3775,13 @@ h5 {
   font-size: 1rem; }
 
 .partner-slider {
-  height: 400px;
   overflow: hidden; }
+  @media screen and (max-width: 39.9375em) {
+    .partner-slider .slick-slider {
+      margin-bottom: 0; } }
+  @media screen and (min-width: 40em) {
+    .partner-slider {
+      height: 400px; } }
   .partner-slider slick {
     height: 100%; }
     .partner-slider slick * {
@@ -3828,5 +3846,8 @@ h5 {
 
 .mb-none {
   margin-bottom: 0; }
+
+.reveal .slick-slider {
+  margin: 0; }
 
 /*# sourceMappingURL=main.css.map */

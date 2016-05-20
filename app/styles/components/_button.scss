@@ -1,0 +1,15 @@
+// Thanks Beau
+.button.slide-hor {
+    position: relative;
+    color: #000;
+    background-image: linear-gradient(to right, #fff 50%, $primary-color 50%);
+    background-position: 0;
+    background-size: 200%;
+    transition: all 0.25s;
+    &:hover {
+        color: #fff;
+        background-image: linear-gradient(to right, #fff 50%, $primary-color 50%);
+        background-position: -100%;
+        background-size: 200%;
+    }
+}

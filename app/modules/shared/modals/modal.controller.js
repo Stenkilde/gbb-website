@@ -10,13 +10,7 @@
 		/*jshint validthis: true */
 		var vm 			= this;
         vm.item = items;
-
-		activate();
-
-		function activate() {
-			console.log(vm.item);
-		}
-
+		
 	}
 
 })();

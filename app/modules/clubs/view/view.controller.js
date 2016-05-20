@@ -24,9 +24,10 @@
 
 		function openModal(obj) {
 			$modal.open({
-		      templateUrl: 'modules/shared/modals/myModalContent.html',
+		      templateUrl: 'modules/shared/modals/sliderModal.html',
 			  controller: 'ModalCtrl',
 			  controllerAs: 'modal',
+			  windowClass: 'collapsed',
 			  resolve: {
                     items: function() {
 						return obj;
