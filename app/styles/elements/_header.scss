@@ -18,7 +18,7 @@
 .top-bar {
     background: #fff;
     height: 65px;
-    @media #{$medium-up} {
+    @media #{$large-up} {
         height: 185px;
     }
     .content-holder {
