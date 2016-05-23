@@ -4,7 +4,7 @@
         "language": "Danish",
         "url": "danish",
         "country": "Denmark",
-        "image": "/assets/destinations/dest_dk/aalborggolf/cover_aalborg1.jpg",
+        "image": "/assets/destinations/dest_dk/aalborggolf/aalborg1.jpg",
         "content": "<p>The GBB selection of Leading Nordic Golf Clubs</p>  <p>It’s very important to Golf & Business Butler – Nordic Group, that our golf tournaments, matches and events are developed and executed at not only some of the very best Nordic Golfcourses, but also that the members of these particular, selected golfclubs fully enjoy and appreciate the extra time and effort we put into our luxurious golf concept. We are very excited to present these clubs for this years fullybooked GBB calendar and hopefully we will create enough smiles and good vibes to the golfers taking part, that we will be generously welcomed with more GBB matches in years to come.</p> </br>",
         "clubs": [
             {
@@ -140,27 +140,12 @@
                 "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id."
             },
             {
-                "name": "Helsingør Golf Club",
+                "name": "Svendborg Golf Club",
                 "language": "Denmark",
-                "cover": "/assets/destinations/dest_dk/helsingor/helsingor1.jpg",
+                "cover": "/assets/destinations/dest_dk/svendborg/svendborg1.jpg",
                 "asset_urls": [
                     {
-                        "url": "/assets/destinations/dest_dk/helsingor/helsingor2.jpg"
-                    },
-                    {
-                        "url": "/assets/destinations/dest_dk/helsingor/helsingor3.jpg"
-                    },
-                    {
-                        "url": "/assets/destinations/dest_dk/helsingor/helsingor4.jpg"
-                    },
-                    {
-                        "url": "/assets/destinations/dest_dk/helsingor/helsingor5.jpg"
-                    },
-                    {
-                        "url": "/assets/destinations/dest_dk/helsingor/helsingor6.jpg"
-                    },
-                    {
-                        "url": "/assets/destinations/dest_dk/helsingor/helsingor1.jpg"
+                        "url": "/assets/destinations/dest_dk/svendborg/svendborg2.jpg"
                     }
                 ],
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
@@ -334,7 +319,7 @@
         "language": "International",
         "url": "international",
         "country": "International",
-        "image": "/assets/destinations/dest_int/alcanadagolf/cover_alcanada2.jpg",
+        "image": "/assets/destinations/dest_int/alcanadagolf/alcanada1.jpg",
         "content": "<p>The GBB selection of exciting luxurious International Golf Clubs</p> <p>Endorsing and sending our Nordic VIP clients to unique and rare International Golf Clubs of the highest quality has over the past years grown ever more popular. Our Nordic Partner Clubs are very satisfied with this arrangement, as are the members of these particular Nordic Golf Clubs</p> <p>We are happy and extremely proud to work with a small and carefully selected range of magical and luxuriously designed Golf Clubs in Europe  -all of them only 3-4 hours flight away from Denmark, Sweden and Norway. These clubs value our butler standards here in Nordic region and they actually take these standards to higher levels upon arrival.  Its safe to say, that our clients look forward to enjoy our GBB Packages on every occassion.</p> </br>",
         "clubs": [
             {
@@ -365,25 +350,25 @@
             {
                 "name": "Son Gual",
                 "country": "Mallorca",
-                "cover": "/assets/destinations/dest_int/songualgolf/songual1.jpg",
+                "cover": "/assets/destinations/dest_int/songualgolf/son1.jpg",
                 "asset_urls": [
                     {
-                        "url": "/assets/destinations/dest_int/songualgolf/songual2.jpg"
+                        "url": "/assets/destinations/dest_int/songualgolf/son2.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_int/songualgolf/songual3.jpg"
+                        "url": "/assets/destinations/dest_int/songualgolf/son3.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_int/songualgolf/songual4.jpg"
+                        "url": "/assets/destinations/dest_int/songualgolf/son4.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_int/songualgolf/songual5.jpg"
+                        "url": "/assets/destinations/dest_int/songualgolf/son5.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_int/songualgolf/songual6.jpg"
+                        "url": "/assets/destinations/dest_int/songualgolf/son6.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_int/songualgolf/songual1.jpg"
+                        "url": "/assets/destinations/dest_int/songualgolf/son1.jpg"
                     }
                 ],
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
@@ -444,7 +429,7 @@
                 "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id."
             },
             {
-                "name": "",
+                "name": "Finca Cortesin Club",
                 "country": "South Spain",
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
                 "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id.",
@@ -456,7 +441,7 @@
                 ]
             },
             {
-                "name": "",
+                "name": "Las Brisas Golf Club",
                 "country": "South Spain",
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
                 "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id.",
@@ -472,43 +457,19 @@
                 "country": "England",
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
                 "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id.",
-                "cover": "/assets/img/dest_int/stokeparkgolf/stoke1.jpg",
+                "cover": "/assets/destinations/dest_int/stokeparkgolf/stoke1.jpg",
                 "asset_urls": [
                     {
-                        "url": "/assets/img/dest_int/stokeparkgolf/stoke2.jpg"
+                        "url": "/assets/destinations/dest_int/stokeparkgolf/stoke2.jpg"
                     },
                     {
-                        "url": "/assets/img/dest_int/stokeparkgolf/stoke3.jpg"
+                        "url": "/assets/destinations/dest_int/stokeparkgolf/stoke3.jpg"
                     },
                     {
-                        "url": "/assets/img/dest_int/stokeparkgolf/stoke4.jpg"
+                        "url": "/assets/destinations/dest_int/stokeparkgolf/stoke4.jpg"
                     },
                     {
-                        "url": "/assets/img/dest_int/stokeparkgolf/stoke1.jpg"
-                    }
-                ]
-            },
-            {
-                "name": "",
-                "country": "England",
-                "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
-                "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id.",
-                "cover": "",
-                "asset_urls": [
-                    {
-                        "url": "/assets/img/fotografen.jpg"
-                    }
-                ]
-            },
-            {
-                "name": "",
-                "country": "Finland",
-                "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
-                "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id.",
-                "cover": "",
-                "asset_urls": [
-                    {
-                        "url": "/assets/img/fotografen.jpg"
+                        "url": "/assets/destinations/dest_int/stokeparkgolf/stoke1.jpg"
                     }
                 ]
             },
@@ -529,18 +490,6 @@
                 ],
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
                 "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id."
-            },
-            {
-                "name": "",
-                "country": "Finland",
-                "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
-                "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id.",
-                "cover": "",
-                "asset_urls": [
-                    {
-                        "url": "/assets/img/fotografen.jpg"
-                    }
-                ]
             }
         ]
     }
