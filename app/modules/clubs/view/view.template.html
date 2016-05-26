@@ -12,17 +12,12 @@
     <div class="small-12 columns">
         <div style="margin-bottom: 50px;" ng-bind-html="view.currentItem.content"></div>
     </div>
-    <div class="small-12 columns">
-        <svg>
-            <use xlink:href="#signature" />
-        </svg>
-    </div>
 </div>
 <accordion close-others="oneAtATime">
     <accordion-group ng-repeat="club in view.currentItem.clubs">
         <accordion-heading>
             <h2>{{club.name}}</h2>
-            <img ng-src="{{club.asset_urls[0].url}}" alt="">
+            <img ng-src="{{club.cover}}" alt="">
         </accordion-heading>
         <div class="row">
             <div class="small-12 columns">

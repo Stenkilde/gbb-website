@@ -115,7 +115,7 @@ h5 {
             height: 100%;
             padding: 20px;
             @media #{$medium-up} {
-                padding: 80px;
+                padding: 100px;
             }
             img {
                 width: 100%;
@@ -167,6 +167,11 @@ h5 {
 
 .mb-none {
     margin-bottom: 0;
+}
+
+.reveal {
+    width: 80% !important;
+    max-width: none !important;
 }
 
 .reveal .slick-slider {

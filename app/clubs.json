@@ -115,10 +115,10 @@
             {
                 "name": "Odense Eventyr Golf Club",
                 "language": "Denmark",
-                "cover": "/assets/destinations/dest_dk/odenseeventyr/odense1.jpg",
+                "cover": "/assets/destinations/dest_dk/odenseeventyr/odense.jpg",
                 "asset_urls": [
                     {
-                        "url": "/assets/destinations/dest_dk/odenseeventyr/odense1.jpg"
+                        "url": "/assets/destinations/dest_dk/odenseeventyr/odense.jpg"
                     }
                 ],
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
@@ -249,31 +249,31 @@
         "language": "Norwegian",
         "url": "norwegian",
         "country": "Norway",
-        "image": "/assets/destinations/dest_nor/miklagaardgolf/cover_miklagaard1.jpg",
+        "image": "/assets/destinations/dest_nor/miklagaardgolf/miklagard1.jpg",
         "content": "<p>The GBB selection of Leading Nordic Golf Clubs</p>  <p>It’s very important to Golf & Business Butler – Nordic Group, that our golf tournaments, matches and events are developed and executed at not only some of the very best Nordic Golfcourses, but also that the members of these particular, selected golfclubs fully enjoy and appreciate the extra time and effort we put into our luxurious golf concept. We are very excited to present these clubs for this years fullybooked GBB calendar and hopefully we will create enough smiles and good vibes to the golfers taking part, that we will be generously welcomed with more GBB matches in years to come.</p> </br>",
         "clubs": [
             {
                 "name": "Miklagaard Golf Club",
                 "country": "Norway",
-                "cover": "/assets/destinations/dest_nor/miklagaardgolf/miklagaard1.jpg",
+                "cover": "/assets/destinations/dest_nor/miklagaardgolf/miklagard1.jpg",
                 "asset_urls": [
                     {
-                        "url": "/assets/destinations/dest_nor/miklagaardgolf/miklagaard2.jpg"
+                        "url": "/assets/destinations/dest_nor/miklagaardgolf/miklagard2.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_nor/miklagaardgolf/miklagaard3.jpg"
+                        "url": "/assets/destinations/dest_nor/miklagaardgolf/miklagard3.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_nor/miklagaardgolf/miklagaard4.jpg"
+                        "url": "/assets/destinations/dest_nor/miklagaardgolf/miklagard4.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_nor/miklagaardgolf/miklagaard5.jpg"
+                        "url": "/assets/destinations/dest_nor/miklagaardgolf/miklagard5.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_nor/miklagaardgolf/miklagaard6.jpg"
+                        "url": "/assets/destinations/dest_nor/miklagaardgolf/miklagard6.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_nor/miklagaardgolf/miklagaard1.jpg"
+                        "url": "/assets/destinations/dest_nor/miklagaardgolf/miklagard1.jpg"
                     }
                 ],
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
@@ -303,10 +303,10 @@
             {
                 "name": "Stavanger Golf Club",
                 "country": "Norway",
-                "cover": "/assets/destinations/dest_nor/stavangergolf/stavanger.jpg",
+                "cover": "/assets/destinations/dest_nor/stavangergolf/stavanger1.jpg",
                 "asset_urls": [
                         {
-                            "url": "/assets/destinations/dest_nor/stavangergolf/stavanger.jpg"
+                            "url": "/assets/destinations/dest_nor/stavangergolf/stavanger1.jpg"
                         }
                 ],
                 "text1": "<p>Stavanger Golf Club was founded in 1956 and is one of Norway’s oldest clubs. The 18-hole course is situated 5 km from the town center, and lies in quiet surroundings near the lake «Store Stokkavann». The course, designed by British architect Fred Smith has a par of 71. It is a tree lined, and relatively tight layout.</p> <p>Small greens and undulating fairways add to the challenge, and many championships have been held here, both national and international. Stavanger hosted the Norwegian Championships in August 2006.</p>",

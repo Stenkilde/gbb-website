@@ -3543,7 +3543,8 @@ table.hover tr:nth-of-type(even):hover {
   .accordion-title img, .accordion-title .image {
     width: 100%;
     height: 100%;
-    object-fit: cover; }
+    object-fit: cover;
+    transition: all .3s ease-in-out; }
   .accordion-title h2 {
     position: absolute;
     z-index: 1;
@@ -3557,6 +3558,8 @@ table.hover tr:nth-of-type(even):hover {
       height: 100%; }
   .accordion-title:before {
     content: "" !important; }
+  .accordion-title:hover img {
+    transform: scale(1.2); }
 
 .c-off-canvas {
   position: fixed;
@@ -3806,7 +3809,7 @@ h5 {
       padding: 20px; }
       @media screen and (min-width: 40em) {
         .sponsor-list li a {
-          padding: 80px; } }
+          padding: 100px; } }
       .sponsor-list li a img {
         width: 100%;
         height: 140px; }
@@ -3846,6 +3849,10 @@ h5 {
 
 .mb-none {
   margin-bottom: 0; }
+
+.reveal {
+  width: 80% !important;
+  max-width: none !important; }
 
 .reveal .slick-slider {
   margin: 0; }
