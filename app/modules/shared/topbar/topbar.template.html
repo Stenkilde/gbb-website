@@ -2,7 +2,7 @@
     <hr>
     <ul class="mobile-menu">
         <li>
-            <a ng-click="topbar.menuState = false" href="#">2016Matches</a>
+            <a ng-click="topbar.menuState = false" ui-sref="application.events">2016Matches</a>
         </li>
         <li>
             <button ng-click="topbar.acState = !topbar.acState">Golfclubs</button>
@@ -32,15 +32,15 @@
                 </svg>
             </a>
             <a ui-sref="application.main" class="shield show-for-medium" >
-                <svg>
+                <svg width="75%">
                     <use xlink:href="#gbb-logo" />
                 </svg>
             </a>
         </div>
-        <div class="medium-8 columns show-for-medium content-holder">
+        <div class="medium-6 columns show-for-medium content-holder">
             <div class="header--top text-right">
                 <div class="small-12 columns collapsed">
-                    <a class="small" href="">Corporategolf</a>
+                    <a class="small" ui-sref="application.corporate">Corporategolf</a>
                     <a class="small" ui-sref="application.contact">Contact</a>
                     <a class="small" href="">News</a>
                     <a href="https://www.instagram.com/golfbusinessbutler/" target="_blank">
@@ -63,7 +63,7 @@
             <div class="header--bottom menu">
                 <ul class="under-menu">
                     <li>
-                        <a href="#">2016Events</a>
+                        <a ui-sref="application.events">2016Matches</a>
                     </li>
                     <li class="expanded">
                         <a  ui-sref="application.clubsView({clubs: 'danish' })">Golfclubs</a>

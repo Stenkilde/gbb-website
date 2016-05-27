@@ -3593,7 +3593,7 @@ table.hover tr:nth-of-type(even):hover {
   height: 65px; }
   @media screen and (min-width: 64em) {
     .top-bar {
-      height: 185px; } }
+      height: 150px; } }
   .top-bar .content-holder {
     padding-top: 25px; }
 
@@ -3684,7 +3684,7 @@ table.hover tr:nth-of-type(even):hover {
   text-align: right; }
   .under-menu li {
     display: inline-block;
-    margin-right: 8%; }
+    margin-right: 5%; }
     .under-menu li:last-child {
       margin-right: 0; }
 
@@ -3856,5 +3856,27 @@ h5 {
 
 .reveal .slick-slider {
   margin: 0; }
+
+.event__tabs h2 {
+  font-family: 'Palanquin', sans-serif;
+  font-size: 68px;
+  color: #825D47; }
+
+.event__tabs ul, .event__tabs .tabs-content {
+  border: none; }
+
+.event__tabs a {
+  font-size: 20px;
+  color: #825D47;
+  vertical-align: middle;
+  padding: 0 10px; }
+
+.event__tabs .tabs-title {
+  float: none;
+  display: inline-block; }
+
+.event__tabs .tabs-title > a:focus, .event__tabs .tabs-title > a[aria-selected='true'] {
+  background: none;
+  font-size: 30px; }
 
 /*# sourceMappingURL=main.css.map */

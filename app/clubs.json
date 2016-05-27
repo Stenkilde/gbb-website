@@ -140,9 +140,9 @@
                 "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id."
             },
             {
-                "name": "Svendborg Golf Club",
+                "name": "Photographer is on the way - Svendborg Golf Club",
                 "language": "Denmark",
-                "cover": "/assets/destinations/dest_dk/svendborg/svendborg1.jpg",
+                "cover": "/assets/destinations/fotografen.jpg",
                 "asset_urls": [
                     {
                         "url": "/assets/destinations/dest_dk/svendborg/svendborg2.jpg"
@@ -183,9 +183,9 @@
                 "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id."
             },
             {
-                "name": "Kalmar Golf Club",
+                "name": "Photographer is on the way - Kalmar Golf Club",
                 "country": "Sweden",
-                "cover": "/assets/destinations/dest_sek/kalmargolf/kalmar1.jpg",
+                "cover": "/assets/destinations/fotografen.jpg",
                 "asset_urls": [
                     {
                         "url":  "/assets/destinations/dest_sek/kalmargolf/kalmar2.jpg"
@@ -429,26 +429,26 @@
                 "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id."
             },
             {
-                "name": "Finca Cortesin Club",
+                "name": "Photographer is on the way - Finca Cortesin Club",
                 "country": "South Spain",
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
                 "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id.",
-                "cover": "",
+                "cover": "/assets/destinations/fotografen.jpg",
                 "asset_urls": [
                     {
-                        "url": "/assets/img/fotografen.jpg"
+                        "url": "/assets/destinations/fotografen.jpg"
                     }
                 ]
             },
             {
-                "name": "Las Brisas Golf Club",
+                "name": "Photographer is on the way - Las Brisas Golf Club",
                 "country": "South Spain",
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
                 "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id.",
-                "cover": "",
+                "cover": "/assets/destinations/fotografen.jpg",
                 "asset_urls": [
                     {
-                        "url": "/assets/img/fotografen.jpg"
+                        "url": "/assets/destinations/fotografen.jpg"
                     }
                 ]
             },
@@ -474,9 +474,9 @@
                 ]
             },
             {
-                "name": "Estonian Golf Club",
+                "name": "Photographer is on the way - Estonian Golf Club",
                 "country": "Estonia",
-                "cover": "",
+                "cover": "/assets/destinations/fotografen.jpg",
                 "asset_urls": [
                     {
                         "url": "/assets/destinations/dest_int/estoniangolf/cover_estonia1.jpg"

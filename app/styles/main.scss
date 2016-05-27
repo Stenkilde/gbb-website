@@ -177,3 +177,31 @@ h5 {
 .reveal .slick-slider {
     margin: 0;
 }
+
+.event__tabs {
+    h2 {
+        font-family: 'Palanquin', sans-serif;
+        font-size: 68px;
+        color: $primary-color;
+    }
+    ul, .tabs-content {
+        border: none;
+    }
+
+    a {
+        font-size: 20px;
+        color: $primary-color;
+        vertical-align: middle;
+        padding: 0 10px;
+    }
+
+    .tabs-title {
+        float: none;
+        display: inline-block;
+    }
+
+    .tabs-title > a:focus, .tabs-title > a[aria-selected='true'] {
+        background: none;
+        font-size: 30px;
+    }
+}
