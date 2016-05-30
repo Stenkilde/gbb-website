@@ -20,6 +20,14 @@
         transform: translate(-50%, -50%);
         color: #fff;
     }
+    h3 {
+        position: absolute;
+        z-index: 1;
+        top: 55%;
+        left: 50%;
+        color: #fff;
+        transform: translate(-50%, 0%);
+    }
     slick{
         height: 100%;
         * {

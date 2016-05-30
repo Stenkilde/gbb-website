@@ -2,3 +2,4 @@ node_modules
 app/libs
 app/styles/styles.css.map
 app/styles/styles.css
+.DS_STORE
