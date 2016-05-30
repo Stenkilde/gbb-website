@@ -10,6 +10,7 @@
             {
                 "name": "Royal Golf Club",
                 "language": "Denmark",
+                "country": "Copenhagen",
                 "cover": "/assets/destinations/dest_dk/royalgolf/royal1.jpg",
                 "asset_urls": [
                     {
@@ -34,6 +35,7 @@
             {
                 "name": "Kokkedal Golf Club",
                 "language": "Denmark",
+                "country": "North Zealand",
                 "cover": "/assets/destinations/dest_dk/kokkedalgolf/kokkedal1.jpg",
                 "asset_urls": [
                     {
@@ -48,10 +50,32 @@
                 ],
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
                 "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id."
+            },{
+                "name": "Korsør Golf Club",
+                "language": "Denmark",
+                "country": "East Zealand",
+                "cover": "/assets/destinations/dest_dk/korsor/korsor1.jpg",
+                "asset_urls": [
+                    {
+                        "url": "/assets/destinations/dest_dk/kosor/korsor2.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_dk/kosor/korsor3.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_dk/kosor/korsor4.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_dk/kosor/korsor1.jpg"
+                    }
+                ],
+                "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
+                "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id."
             },
             {
                 "name": "Næstved Golf Club",
                 "language": "Denmark",
+                "country": "Mid Zealand",
                 "cover": "/assets/destinations/dest_dk/naestvedgolf/nastved1.jpg",
                 "asset_urls": [
                     {
@@ -73,6 +97,7 @@
             {
                 "name": "Esbjerg Golf Club",
                 "language": "Denmark",
+                "country": "South Jutland",
                 "cover": "/assets/destinations/dest_dk/esbjerggolf/esbjerg1.jpg",
                 "asset_urls": [
                     {
@@ -94,6 +119,7 @@
             {
                 "name": "Aalborg Golf Club",
                 "language": "Denmark",
+                "country": "North Jutland",
                 "cover": "/assets/destinations/dest_dk/aalborggolf/aalborg1.jpg",
                 "asset_urls": [
                     {
@@ -115,6 +141,7 @@
             {
                 "name": "Odense Eventyr Golf Club",
                 "language": "Denmark",
+                "country": "Fyn",
                 "cover": "/assets/destinations/dest_dk/odenseeventyr/odense.jpg",
                 "asset_urls": [
                     {
@@ -127,6 +154,7 @@
             {
                 "name": "Simons Golf Club",
                 "language": "Denmark",
+                "country": "North Zealand",
                 "cover": "/assets/destinations/dest_dk/simonsgolf/simons1.jpg",
                 "asset_urls": [
                     {
@@ -140,12 +168,22 @@
                 "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id."
             },
             {
-                "name": "Photographer is on the way - Svendborg Golf Club",
+                "name": "Svendborg Golf Club",
+                "country": "Fyn",
                 "language": "Denmark",
-                "cover": "/assets/destinations/fotografen.jpg",
+                "cover": "/assets/destinations/dest_dk/svendborg/svendborg1.jpg",
                 "asset_urls": [
                     {
                         "url": "/assets/destinations/dest_dk/svendborg/svendborg2.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_dk/svendborg/svendborg3.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_dk/svendborg/svendborg4.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_dk/svendborg/svendborg1.jpg"
                     }
                 ],
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
@@ -183,15 +221,18 @@
                 "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id."
             },
             {
-                "name": "Photographer is on the way - Kalmar Golf Club",
+                "name": "Kalmar Golf Club",
                 "country": "Sweden",
-                "cover": "/assets/destinations/fotografen.jpg",
+                "cover": "/assets/destinations/dest_sek/kalmargolf/kalmar1.jpg",
                 "asset_urls": [
                     {
                         "url":  "/assets/destinations/dest_sek/kalmargolf/kalmar2.jpg"
                     },
                     {
                         "url":  "/assets/destinations/dest_sek/kalmargolf/kalmar1.jpg"
+                    },
+                    {
+                        "url":  "/assets/destinations/dest_sek/kalmargolf/kalmar3.jpg"
                     }
                 ],
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
@@ -350,25 +391,46 @@
             {
                 "name": "Son Gual",
                 "country": "Mallorca",
-                "cover": "/assets/destinations/dest_int/songualgolf/son1.jpg",
+                "cover": "/assets/destinations/dest_int/songualgolf/songual1.jpg",
                 "asset_urls": [
                     {
-                        "url": "/assets/destinations/dest_int/songualgolf/son2.jpg"
+                        "url": "/assets/destinations/dest_int/songualgolf/songual2.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_int/songualgolf/son3.jpg"
+                        "url": "/assets/destinations/dest_int/songualgolf/songual3.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_int/songualgolf/son4.jpg"
+                        "url": "/assets/destinations/dest_int/songualgolf/songual4.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_int/songualgolf/son5.jpg"
+                        "url": "/assets/destinations/dest_int/songualgolf/songual5.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_int/songualgolf/son6.jpg"
+                        "url": "/assets/destinations/dest_int/songualgolf/songual6.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_int/songualgolf/son1.jpg"
+                        "url": "/assets/destinations/dest_int/songualgolf/songual8.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_int/songualgolf/songual9.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_int/songualgolf/songual10.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_int/songualgolf/songual11.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_int/songualgolf/songual12.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_int/songualgolf/songual13.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_int/songualgolf/songual14.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_int/songualgolf/songual1.jpg"
                     }
                 ],
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
@@ -430,7 +492,7 @@
             },
             {
                 "name": "Photographer is on the way - Finca Cortesin Club",
-                "country": "South Spain",
+                "country": "Andalucia",
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
                 "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id.",
                 "cover": "/assets/destinations/fotografen.jpg",
@@ -442,7 +504,7 @@
             },
             {
                 "name": "Photographer is on the way - Las Brisas Golf Club",
-                "country": "South Spain",
+                "country": "Andalucia",
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
                 "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id.",
                 "cover": "/assets/destinations/fotografen.jpg",
@@ -454,7 +516,7 @@
             },
             {
                 "name": "Stoke Park",
-                "country": "England",
+                "country": "London",
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",
                 "text2": "Nulla viverra venenatis tortor vitae consectetur. Fusce posuere mattis vestibulum. Sed enim ligula, eleifend eu varius id, molestie non turpis. Duis non neque felis. Cras ac ultrices lacus. Aenean tellus turpis, pharetra id consectetur ut, pharetra quis neque. Morbi facilisis hendrerit ante, ac ultrices risus euismod vitae. Suspendisse in lectus ac odio porttitor vehicula ac ut enim. Maecenas accumsan nec dolor aliquam sollicitudin. Nullam et ex nibh. Praesent sollicitudin magna neque. Mauris porttitor consectetur purus, sed pretium ligula fringilla id.",
                 "cover": "/assets/destinations/dest_int/stokeparkgolf/stoke1.jpg",
@@ -474,18 +536,18 @@
                 ]
             },
             {
-                "name": "Photographer is on the way - Estonian Golf Club",
+                "name": "Estonian Golf Club",
                 "country": "Estonia",
-                "cover": "/assets/destinations/fotografen.jpg",
+                "cover": "/assets/destinations/dest_int/estoniangolf/estonia1.jpg",
                 "asset_urls": [
                     {
-                        "url": "/assets/destinations/dest_int/estoniangolf/cover_estonia1.jpg"
+                        "url": "/assets/destinations/dest_int/estoniangolf/estonia1.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_int/estoniangolf/cover_estonia2.jpg"
+                        "url": "/assets/destinations/dest_int/estoniangolf/estonia2.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_int/estoniangolf/cover_estonia3.jpg"
+                        "url": "/assets/destinations/dest_int/estoniangolf/estonia3.jpg"
                     }
                 ],
                 "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend libero vel finibus mattis. Proin id arcu metus. Ut ut tincidunt nisl, in placerat ante. Nulla elementum, eros ac sagittis dictum, enim sem ultricies sem, vel sollicitudin metus odio eu nisl. In mattis condimentum sollicitudin. Quisque et ultricies eros. In ac fermentum lectus, facilisis convallis orci. Nullam laoreet arcu in ante auctor porttitor.",

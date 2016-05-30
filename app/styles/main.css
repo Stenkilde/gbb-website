@@ -3552,6 +3552,13 @@ table.hover tr:nth-of-type(even):hover {
     left: 50%;
     transform: translate(-50%, -50%);
     color: #fff; }
+  .accordion-title h3 {
+    position: absolute;
+    z-index: 1;
+    top: 55%;
+    left: 50%;
+    color: #fff;
+    transform: translate(-50%, 0%); }
   .accordion-title slick {
     height: 100%; }
     .accordion-title slick * {

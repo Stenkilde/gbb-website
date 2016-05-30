@@ -19,6 +19,9 @@
         <li>
             <a ng-click="topbar.menuState = false" ui-sref="application.contact">Contact</a>
         </li>
+        <li>
+            <a ng-click="topbar.openModal()">Gallery</a>
+        </li>
     </ul>
 </div>
 
@@ -43,6 +46,7 @@
                     <a class="small" ui-sref="application.corporate">Corporategolf</a>
                     <a class="small" ui-sref="application.contact">Contact</a>
                     <a class="small" href="">News</a>
+                    <a class="small" ng-click="topbar.openModal()">Gallery</a>
                     <a href="https://www.instagram.com/golfbusinessbutler/" target="_blank">
                         <svg style="width: 11px; height: 11px;">
                             <use xlink:href="#insta" />
