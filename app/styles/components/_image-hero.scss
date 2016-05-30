@@ -2,7 +2,7 @@
     position: relative;
     height: 100px;
     overflow: hidden;
-    @media #{$medium-up} {
+    @media #{$large-up} {
         height: 350px;
     }
     .title {
@@ -16,7 +16,7 @@
         padding: 10px;
         margin: 0;
         font-size: 24px;
-        @media #{$medium-up} {
+        @media #{$large-up} {
             padding: 30px;
             font-size: 64px;
         }
@@ -25,7 +25,7 @@
         height: 100px;
         width: 100%;
         object-fit: cover;
-        @media #{$medium-up} {
+        @media #{$large-up} {
             height: 350px;
         }
     }

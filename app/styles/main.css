@@ -3491,22 +3491,23 @@ table.hover tr:nth-of-type(even):hover {
 
 .button.slide-hor {
   position: relative;
+  border: 1px solid #825D47;
   color: #000;
   background-image: linear-gradient(to right, #fff 50%, #825D47 50%);
-  background-position: 0;
-  background-size: 200%;
+  background-position: -1px;
+  background-size: 210%;
   transition: all 0.25s; }
   .button.slide-hor:hover {
     color: #fff;
     background-image: linear-gradient(to right, #fff 50%, #825D47 50%);
-    background-position: -100%;
-    background-size: 200%; }
+    background-position: -95%;
+    background-size: 210%; }
 
 .c-image-hero {
   position: relative;
   height: 100px;
   overflow: hidden; }
-  @media screen and (min-width: 40em) {
+  @media screen and (min-width: 64em) {
     .c-image-hero {
       height: 350px; } }
   .c-image-hero .title {
@@ -3520,7 +3521,7 @@ table.hover tr:nth-of-type(even):hover {
     padding: 10px;
     margin: 0;
     font-size: 24px; }
-    @media screen and (min-width: 40em) {
+    @media screen and (min-width: 64em) {
       .c-image-hero .title {
         padding: 30px;
         font-size: 64px; } }
@@ -3528,7 +3529,7 @@ table.hover tr:nth-of-type(even):hover {
     height: 100px;
     width: 100%;
     object-fit: cover; }
-    @media screen and (min-width: 40em) {
+    @media screen and (min-width: 64em) {
       .c-image-hero img {
         height: 350px; } }
 
@@ -3537,7 +3538,7 @@ table.hover tr:nth-of-type(even):hover {
   height: 150px;
   overflow: hidden;
   position: relative; }
-  @media screen and (min-width: 40em) {
+  @media screen and (min-width: 64em) {
     .accordion-title {
       height: 350px; } }
   .accordion-title img, .accordion-title .image {
@@ -3575,6 +3576,10 @@ table.hover tr:nth-of-type(even):hover {
     height: 100%;
     visibility: visible;
     opacity: 1; }
+
+.header {
+  position: relative;
+  z-index: 2; }
 
 .header.front-page {
   background: none; }
@@ -3740,7 +3745,7 @@ body {
 
 .small-12 {
   padding: 0 10px; }
-  @media screen and (min-width: 40em) {
+  @media screen and (min-width: 64em) {
     .small-12 {
       padding: 0 50px; } }
 
@@ -3769,7 +3774,7 @@ h2.title {
   text-align: center;
   margin-top: 20px;
   margin-bottom: 20px; }
-  @media screen and (min-width: 40em) {
+  @media screen and (min-width: 64em) {
     h2.title {
       font-size: 68px;
       text-align: left; } }
@@ -3782,7 +3787,7 @@ h5 {
   @media screen and (max-width: 39.9375em) {
     .partner-slider .slick-slider {
       margin-bottom: 0; } }
-  @media screen and (min-width: 40em) {
+  @media screen and (min-width: 64em) {
     .partner-slider {
       height: 400px; } }
   .partner-slider slick {
@@ -3807,7 +3812,7 @@ h5 {
       display: block;
       height: 100%;
       padding: 20px; }
-      @media screen and (min-width: 40em) {
+      @media screen and (min-width: 64em) {
         .sponsor-list li a {
           padding: 100px; } }
       .sponsor-list li a img {

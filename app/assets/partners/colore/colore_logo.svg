@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="692.885px" height="192.111px" viewBox="0 0 692.885 192.111" enable-background="new 0 0 692.885 192.111"
+	 xml:space="preserve">
+<g>
+	<path fill="#757576" d="M90.879,138.113c-5.501,2.192-17.698,5.578-33.242,5.578C22.719,143.691,0,123.961,0,94.266
+		c0-29.691,24.395-51.415,62.181-51.415c12.434,0,23.437,2.591,29.175,5.183l-4.783,13.353C81.55,59.194,73.66,56.8,62.181,56.8
+		c-26.546,0-40.896,16.541-40.896,36.67c0,22.322,17.22,36.074,40.178,36.074c11.958,0,19.851-2.395,25.829-4.586L90.879,138.113z"
+		/>
+	<path fill="#757576" d="M179.159,143.691c-31.091,0-55.485-19.132-55.485-49.623c0-32.287,25.589-51.217,57.397-51.217
+		c33.243,0,55.722,20.129,55.722,49.425c0,35.871-29.894,51.415-57.397,51.415H179.159z M179.875,130.537
+		c20.09,0,35.155-15.742,35.155-37.663c0-16.344-9.804-36.868-34.677-36.868c-24.631,0-35.395,19.128-35.395,37.465
+		c0,21.126,14.35,37.066,34.677,37.066H179.875z"/>
+	<path fill="#757576" d="M281.278,0h21.043v141.5h-21.043V0z"/>
+	<path fill="#757576" d="M402.283,143.691c-31.088,0-55.482-19.132-55.482-49.623c0-32.287,25.59-51.217,57.397-51.217
+		c33.24,0,55.72,20.129,55.72,49.425c0,35.871-29.894,51.415-57.397,51.415H402.283z M403,130.537
+		c20.09,0,35.154-15.742,35.154-37.663c0-16.344-9.803-36.868-34.676-36.868c-24.632,0-35.393,19.128-35.393,37.465
+		c0,21.126,14.345,37.066,34.672,37.066H403z"/>
+	<path fill="#757576" d="M504.639,75.133c0-11.358-0.237-21.122-0.958-30.091h18.413l0.957,18.93h0.721
+		c5.262-12.953,18.175-21.122,32.282-21.122c2.152,0,3.826,0.198,5.741,0.597v16.344c-2.39-0.202-4.542-0.4-7.414-0.4
+		c-14.824,0-25.348,9.364-28.22,22.321c-0.475,2.591-0.717,5.38-0.717,8.367V141.5h-21.043L504.639,75.133z"/>
+	<path fill="#757576" d="M611.093,96.26c0.479,23.718,18.417,33.482,39.46,33.482c15.069,0,24.394-2.191,32.05-4.783l3.826,12.355
+		c-7.414,2.789-20.328,6.18-38.744,6.18c-35.396,0-56.919-19.729-56.919-48.63c0-29.296,20.806-52.215,54.524-52.215
+		c37.787,0,47.595,27.702,47.595,45.442c0,3.584-0.241,6.377-0.716,8.367L611.093,96.26z M672.558,83.707
+		c0.237-10.963-5.504-28.501-28.94-28.501c-21.521,0-30.609,16.344-32.282,28.501H672.558z"/>
+</g>
+<g opacity="0.14">
+	<g>
+		<g enable-background="new    ">
+			<defs>
+				<polygon id="SVGID_1_" enable-background="new    " points="-511.423,95.98 -374.075,52.585 -256.517,114.171 -455.806,213.844 
+									"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_2_)">
+				<g>
+					<g>
+						<g>
+							<polyline fill="#DA0E15" points="-367.883,55.829 -385.024,60.563 -375.696,67.491 -357.788,62.346 -367.883,55.829 							
+								"/>
+							<polyline fill="#B43766" points="-387.585,61.27 -405.562,66.231 -397.186,73.667 -378.374,68.259 -387.585,61.27 							"/>
+							<polyline fill="#9D2273" points="-408.292,66.986 -427.148,72.194 -419.856,80.181 -400.048,74.491 -408.292,66.986 							
+								"/>
+							<polyline fill="#673E90" points="-429.976,72.974 -449.79,78.443 -443.692,87.032 -422.822,81.032 -429.976,72.974 							
+								"/>
+							<polyline fill="#57519E" points="-452.804,79.276 -473.648,85.033 -468.884,94.27 -446.874,87.943 -452.804,79.276 							
+								"/>
+							<polyline fill="#423F90" points="-476.419,85.797 -498.367,91.855 -495.074,101.797 -471.815,95.111 -476.419,85.797 							
+								"/>
+							<polyline fill="#EF7C5E" points="-356.248,63.341 -374.266,68.552 -363.623,76.449 -344.78,70.75 -356.248,63.341 							"/>
+							<polyline fill="#D99183" points="-376.961,69.33 -395.911,74.807 -386.331,83.311 -366.447,77.301 -376.961,69.33 							"/>
+							<polyline fill="#BA6A9B" points="-398.786,75.639 -418.737,81.405 -410.357,90.573 -389.36,84.228 -398.786,75.639 							
+								"/>
+							<polyline fill="#A17CB0" points="-421.722,82.271 -442.755,88.35 -435.721,98.241 -413.511,91.529 -421.722,82.271 							
+								"/>
+							<polyline fill="#8B8DC4" points="-445.958,89.277 -468.159,95.693 -462.655,106.382 -439.112,99.268 -445.958,89.277 							
+								"/>
+							<polyline fill="#467DBF" points="-471.112,96.55 -494.567,103.33 -490.751,114.876 -465.792,107.334 -471.112,96.55 							
+								"/>
+							<polyline fill="#F29707" points="-343.007,71.894 -361.987,77.669 -349.743,86.754 -329.861,80.389 -343.007,71.894 							
+								"/>
+							<polyline fill="#E8BB81" points="-364.831,78.533 -384.846,84.627 -373.79,94.451 -352.729,87.708 -364.831,78.533 							
+								"/>
+							<polyline fill="#B49AA4" points="-387.897,85.557 -409.062,91.997 -399.344,102.627 -377.01,95.478 -387.897,85.557 							
+								"/>
+							<polyline fill="#B5B5A8" points="-412.237,92.961 -434.634,99.781 -426.443,111.301 -402.711,103.704 -412.237,92.961 
+															"/>
+							<polyline fill="#9BC4A8" points="-438.053,100.823 -461.795,108.046 -455.356,120.553 -430.078,112.46 -438.053,100.823 
+															"/>
+							<polyline fill="#6DAABD" points="-464.963,109.01 -490.152,116.678 -485.669,130.25 -458.736,121.633 -464.963,109.01 
+															"/>
+							<polyline fill="#F7AC00" points="-327.83,81.7 -347.85,88.158 -333.629,98.72 -312.596,91.542 -327.83,81.7 							"/>
+							<polyline fill="#F8C54B" points="-350.858,89.126 -372.081,95.968 -359.169,107.44 -336.794,99.798 -350.858,89.126 							
+								"/>
+							<polyline fill="#D6CE9E" points="-375.321,97.015 -397.835,104.278 -386.445,116.75 -362.586,108.608 -375.321,97.015 
+															"/>
+							<polyline fill="#9EB68E" points="-401.23,105.372 -425.172,113.089 -415.522,126.677 -390.042,117.976 -401.23,105.372 
+															"/>
+							<polyline fill="#68B56B" points="-428.836,114.273 -454.349,122.503 -446.708,137.323 -419.431,128.014 -428.836,114.273 
+															"/>
+							<polyline fill="#62B19D" points="-457.753,123.599 -484.966,132.372 -479.618,148.558 -450.367,138.57 -457.753,123.599 
+															"/>
+							<polyline fill="#FCD200" points="-310.231,93.069 -331.415,100.362 -314.669,112.797 -292.377,104.605 -310.231,93.069 
+															"/>
+							<polyline fill="#EBD237" points="-334.598,101.462 -357.155,109.227 -341.878,122.801 -318.034,114.031 -334.598,101.462 
+															"/>
+							<polyline fill="#D7E18A" points="-360.6,110.415 -384.663,118.699 -371.106,133.543 -345.53,124.145 -360.6,110.415 							
+								"/>
+							<polyline fill="#BCD151" points="-388.286,119.951 -414.008,128.806 -402.458,145.071 -374.973,134.962 -388.286,119.951 
+															"/>
+							<polyline fill="#A7C853" points="-417.954,130.167 -445.507,139.652 -436.308,157.513 -406.687,146.628 -417.954,130.167 
+															"/>
+							<polyline fill="#8ABC33" points="-449.199,140.928 -478.771,151.109 -472.273,170.736 -440.291,158.983 -449.199,140.928 
+															"/>
+							<polyline fill="#FAE500" points="-289.581,106.403 -312.047,114.743 -292.049,129.592 -268.377,120.103 -289.581,106.403 
+															"/>
+							<polyline fill="#EDE417" points="-315.438,116 -339.479,124.931 -321.129,141.236 -295.625,131.022 -315.438,116 							"/>
+							<polyline fill="#D9DE58" points="-343.162,126.3 -368.97,135.88 -352.567,153.828 -325.045,142.806 -343.162,126.3 							
+								"/>
+							<polyline fill="#BACF37" points="-372.873,137.328 -400.63,147.639 -386.552,167.445 -356.747,155.509 -372.873,137.328 
+															"/>
+							<polyline fill="#61AD30" points="-404.904,149.229 -434.849,160.344 -423.559,182.27 -391.156,169.292 -404.904,149.229 
+															"/>
+							<polyline fill="#65AE2F" points="-438.881,161.838 -471.25,173.864 -463.208,198.157 -427.932,184.029 -438.881,161.838 
+															"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g opacity="0.37">
+	<g>
+		<g enable-background="new    ">
+			<defs>
+				<polygon id="SVGID_3_" enable-background="new    " points="-513.131,83.678 -373.422,39.67 -252.942,102.242 -457.316,205.181 
+									"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_4_)">
+				<g>
+					<g>
+						<g>
+							<polyline fill="#DA0E15" points="-367.125,42.941 -384.526,47.732 -375.026,54.733 -356.848,49.518 -367.125,42.941 							
+								"/>
+							<polyline fill="#B43766" points="-387.122,48.448 -405.375,53.473 -396.873,60.998 -377.742,55.513 -387.122,48.448 							
+								"/>
+							<polyline fill="#9D2273" points="-408.147,54.236 -427.315,59.516 -419.923,67.61 -399.775,61.83 -408.147,54.236 							"/>
+							<polyline fill="#673E90" points="-430.188,60.306 -450.336,65.855 -444.184,74.567 -422.94,68.473 -430.188,60.306 							
+								"/>
+							<polyline fill="#57519E" points="-453.408,66.702 -474.632,72.545 -469.861,81.929 -447.419,75.495 -453.408,66.702 							
+								"/>
+							<polyline fill="#423F90" points="-477.449,73.322 -499.806,79.48 -496.566,89.591 -472.854,82.789 -477.449,73.322 							
+								"/>
+							<polyline fill="#EF7C5E" points="-355.276,50.525 -373.571,55.807 -362.72,63.804 -343.567,58.019 -355.276,50.525 							
+								"/>
+							<polyline fill="#D99183" points="-376.31,56.594 -395.562,62.151 -385.815,70.777 -365.592,64.673 -376.31,56.594 							"/>
+							<polyline fill="#BA6A9B" points="-398.491,62.997 -418.783,68.85 -410.275,78.165 -388.896,71.708 -398.491,62.997 							
+								"/>
+							<polyline fill="#A17CB0" points="-421.826,69.73 -443.235,75.91 -436.122,85.968 -413.491,79.133 -421.826,69.73 							"/>
+							<polyline fill="#8B8DC4" points="-446.5,76.848 -469.127,83.378 -463.604,94.264 -439.588,87.011 -446.5,76.848 							"/>
+							<polyline fill="#467DBF" points="-472.138,84.249 -496.069,91.152 -492.306,102.929 -466.806,95.232 -472.138,84.249 							
+								"/>
+							<polyline fill="#F29707" points="-341.759,59.177 -361.047,65.043 -348.533,74.267 -328.306,67.792 -341.759,59.177 							
+								"/>
+							<polyline fill="#E8BB81" points="-363.938,65.92 -384.304,72.114 -373.019,82.102 -351.566,75.24 -363.938,65.92 							"/>
+							<polyline fill="#B49AA4" points="-387.409,73.058 -408.958,79.607 -399.057,90.436 -376.293,83.15 -387.409,73.058 							
+								"/>
+							<polyline fill="#B5B5A8" points="-412.188,80.591 -435.023,87.537 -426.715,99.286 -402.49,91.532 -412.188,80.591 							
+								"/>
+							<polyline fill="#9BC4A8" points="-438.512,88.593 -462.742,95.962 -456.252,108.735 -430.421,100.472 -438.512,88.593 
+															"/>
+							<polyline fill="#6DAABD" points="-465.973,96.946 -491.717,104.771 -487.275,118.667 -459.712,109.843 -465.973,96.946 
+															"/>
+							<polyline fill="#F7AC00" points="-326.223,69.127 -346.597,75.695 -332.006,86.449 -310.597,79.128 -326.223,69.127 							
+								"/>
+							<polyline fill="#F8C54B" points="-349.658,76.679 -371.262,83.649 -358.042,95.348 -335.238,87.55 -349.658,76.679 							
+								"/>
+							<polyline fill="#D6CE9E" points="-374.562,84.713 -397.524,92.115 -385.878,104.865 -361.534,96.541 -374.562,84.713 							
+								"/>
+							<polyline fill="#9EB68E" points="-400.982,93.233 -425.423,101.118 -415.591,115.02 -389.55,106.116 -400.982,93.233 							
+								"/>
+							<polyline fill="#68B56B" points="-429.163,102.324 -455.239,110.73 -447.517,125.929 -419.596,116.389 -429.163,102.324 
+															"/>
+							<polyline fill="#62B19D" points="-458.726,111.856 -486.574,120.834 -481.26,137.461 -451.27,127.214 -458.726,111.856 
+															"/>
+							<polyline fill="#FCD200" points="-308.164,80.687 -329.736,88.124 -312.514,100.826 -289.793,92.452 -308.164,80.687 							
+								"/>
+							<polyline fill="#EBD237" points="-332.979,89.244 -355.972,97.171 -340.275,111.062 -315.937,102.091 -332.979,89.244 
+															"/>
+							<polyline fill="#D7E18A" points="-359.492,98.385 -384.048,106.857 -370.144,122.079 -344.005,112.444 -359.492,98.385 
+															"/>
+							<polyline fill="#BCD151" points="-387.757,108.138 -414.05,117.203 -402.245,133.916 -374.102,123.542 -387.757,108.138 
+															"/>
+							<polyline fill="#A7C853" points="-418.085,118.594 -446.299,128.329 -436.965,146.722 -406.577,135.512 -418.085,118.594 
+															"/>
+							<polyline fill="#8ABC33" points="-450.085,129.628 -480.408,140.089 -473.931,160.35 -441.052,148.231 -450.085,129.628 
+															"/>
+							<polyline fill="#FAE500" points="-286.92,94.292 -309.814,102.818 -289.149,118.048 -265.006,108.319 -286.92,94.292 							
+								"/>
+							<polyline fill="#EDE417" points="-313.265,104.106 -337.8,113.251 -318.865,130.009 -292.808,119.517 -313.265,104.106 
+															"/>
+							<polyline fill="#D9DE58" points="-341.576,114.65 -367.951,124.481 -351.044,142.974 -322.878,131.625 -341.576,114.65 
+															"/>
+							<polyline fill="#BACF37" points="-371.947,125.973 -400.378,136.561 -385.913,157.02 -355.327,144.705 -371.947,125.973 
+															"/>
+							<polyline fill="#61AD30" points="-404.756,138.193 -435.483,149.645 -423.95,172.346 -390.641,158.924 -404.756,138.193 
+															"/>
+							<polyline fill="#65AE2F" points="-439.623,151.181 -472.899,163.583 -464.834,188.814 -428.466,174.16 -439.623,151.181 
+															"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g enable-background="new    ">
+			<defs>
+				<polygon id="SVGID_5_" enable-background="new    " points="-513.455,71.982 -372.73,27.713 -250.987,90.705 -457.57,195.075 
+									"/>
+			</defs>
+			<clipPath id="SVGID_6_">
+				<use xlink:href="#SVGID_5_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_6_)">
+				<g>
+					<g>
+						<g>
+							<polyline fill="#DA0E15" points="-366.389,30.994 -383.902,35.811 -374.333,42.842 -356.034,37.601 -366.389,30.994 							
+								"/>
+							<polyline fill="#B43766" points="-386.511,36.53 -404.887,41.584 -396.321,49.145 -377.068,43.629 -386.511,36.53 							"/>
+							<polyline fill="#9D2273" points="-407.673,42.352 -426.973,47.659 -419.54,55.797 -399.251,49.985 -407.673,42.352 							
+								"/>
+							<polyline fill="#673E90" points="-429.868,48.455 -450.166,54.041 -443.99,62.805 -422.581,56.667 -429.868,48.455 							
+								"/>
+							<polyline fill="#57519E" points="-453.258,54.889 -474.638,60.772 -469.875,70.221 -447.253,63.741 -453.258,54.889 							
+								"/>
+							<polyline fill="#423F90" points="-477.478,61.552 -500.018,67.755 -496.802,77.938 -472.882,71.085 -477.478,61.552 							
+								"/>
+							<polyline fill="#EF7C5E" points="-354.449,38.611 -372.862,43.922 -361.926,51.964 -342.634,46.143 -354.449,38.611 							
+								"/>
+							<polyline fill="#D99183" points="-375.62,44.716 -395.007,50.304 -385.182,58.983 -364.808,52.836 -375.62,44.716 							"/>
+							<polyline fill="#BA6A9B" points="-397.958,51.157 -418.396,57.047 -409.831,66.422 -388.287,59.922 -397.958,51.157 							
+								"/>
+							<polyline fill="#A17CB0" points="-421.457,57.933 -443.038,64.154 -435.887,74.287 -413.067,67.397 -421.457,57.933 							
+								"/>
+							<polyline fill="#8B8DC4" points="-446.328,65.104 -469.138,71.679 -463.596,82.649 -439.376,75.337 -446.328,65.104 							
+								"/>
+							<polyline fill="#467DBF" points="-472.172,72.556 -496.305,79.512 -492.562,91.392 -466.835,83.625 -472.172,72.556 							
+								"/>
+							<polyline fill="#F29707" points="-340.815,47.307 -360.229,53.209 -347.603,62.494 -327.221,55.974 -340.815,47.307 							
+								"/>
+							<polyline fill="#E8BB81" points="-363.142,54.094 -383.658,60.327 -372.268,70.388 -350.658,63.47 -363.142,54.094 							
+								"/>
+							<polyline fill="#B49AA4" points="-386.787,61.279 -408.5,67.876 -398.529,78.79 -375.575,71.442 -386.787,61.279 							"/>
+							<polyline fill="#B5B5A8" points="-411.758,68.87 -434.781,75.865 -426.422,87.711 -401.986,79.895 -411.758,68.87 							"/>
+							<polyline fill="#9BC4A8" points="-438.298,76.935 -462.739,84.361 -456.228,97.253 -430.164,88.911 -438.298,76.935 							
+								"/>
+							<polyline fill="#6DAABD" points="-466,85.35 -491.974,93.247 -487.553,107.278 -459.721,98.37 -466,85.35 							"/>
+							<polyline fill="#F7AC00" points="-325.128,57.314 -345.648,63.93 -330.904,74.771 -309.327,67.389 -325.128,57.314 							
+								"/>
+							<polyline fill="#F8C54B" points="-348.721,64.924 -370.502,71.947 -357.148,83.743 -334.147,75.878 -348.721,64.924 							
+								"/>
+							<polyline fill="#D6CE9E" points="-373.829,73.021 -396.979,80.485 -385.217,93.347 -360.663,84.946 -373.829,73.021 							
+								"/>
+							<polyline fill="#9EB68E" points="-400.46,81.612 -425.116,89.561 -415.219,103.603 -388.933,94.617 -400.46,81.612 							
+								"/>
+							<polyline fill="#68B56B" points="-428.893,90.781 -455.22,99.27 -447.463,114.63 -419.256,104.986 -428.893,90.781 							
+								"/>
+							<polyline fill="#62B19D" points="-458.74,100.402 -486.859,109.475 -481.561,126.292 -451.242,115.926 -458.74,100.402 
+															"/>
+							<polyline fill="#FCD200" points="-306.867,68.957 -328.608,76.458 -311.172,89.279 -288.265,80.823 -306.867,68.957 							
+								"/>
+							<polyline fill="#EBD237" points="-331.872,77.587 -355.058,85.587 -339.172,99.62 -314.625,90.551 -331.872,77.587 							
+								"/>
+							<polyline fill="#D7E18A" points="-358.602,86.811 -383.385,95.362 -369.315,110.749 -342.935,101.011 -358.602,86.811 
+															"/>
+							<polyline fill="#BCD151" points="-387.122,96.656 -413.66,105.811 -401.74,122.724 -373.32,112.225 -387.122,96.656 							
+								"/>
+							<polyline fill="#A7C853" points="-417.737,107.22 -446.238,117.053 -436.842,135.684 -406.125,124.337 -417.737,107.22 
+															"/>
+							<polyline fill="#8ABC33" points="-450.058,118.375 -480.72,128.955 -474.248,149.498 -440.978,137.208 -450.058,118.375 
+															"/>
+							<polyline fill="#FAE500" points="-285.356,82.678 -308.438,91.288 -287.489,106.681 -263.145,96.847 -285.356,82.678 							
+								"/>
+							<polyline fill="#EDE417" points="-311.911,92.588 -336.673,101.825 -317.475,118.784 -291.181,108.17 -311.911,92.588 
+															"/>
+							<polyline fill="#D9DE58" points="-340.47,103.243 -367.105,113.178 -349.982,131.908 -321.519,120.419 -340.47,103.243 
+															"/>
+							<polyline fill="#BACF37" points="-371.135,114.687 -399.852,125.399 -385.221,146.139 -354.303,133.66 -371.135,114.687 
+															"/>
+							<polyline fill="#61AD30" points="-404.279,127.053 -435.347,138.642 -423.727,161.687 -390.005,148.074 -404.279,127.053 
+															"/>
+							<polyline fill="#65AE2F" points="-439.531,140.199 -473.212,152.772 -465.136,178.41 -428.279,163.532 -439.531,140.199 
+															"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<path fill="#757576" d="M374.339,177.423h-16.545l0.338-2.385h16.541L374.339,177.423z"/>
+	<path fill="#757576" d="M394.728,184.174h-2.842l-4.142-15.487h3.013l3.123,12.141h0.066l6.303-12.141h2.78L394.728,184.174z"/>
+	<path fill="#757576" d="M407.365,168.687h2.583l-2.179,15.487h-2.578L407.365,168.687z M409.776,160.747
+		c1.059,0,1.766,0.86,1.621,1.889c-0.153,1.089-1.059,1.884-2.147,1.884c-1.099,0-1.775-0.795-1.625-1.884
+		C407.769,161.607,408.717,160.747,409.776,160.747z"/>
+	<path fill="#757576" d="M425.65,180.103c0.848,1.256,1.857,2.082,3.676,2.082c1.616,0,3.505-0.694,3.738-2.377
+		c0.232-1.655-1.361-2.09-2.961-2.455c-2.851-0.658-5.274-1.287-4.822-4.493c0.422-3.013,3.549-4.572,6.435-4.572
+		c2.179,0,4.08,0.83,4.862,2.815l-2.354,1.423c-0.505-1.093-1.493-1.854-3.018-1.854c-1.419,0-3.14,0.694-3.343,2.148
+		c-0.18,1.296,1.595,1.857,3.589,2.253c2.666,0.531,4.849,1.52,4.405,4.634c-0.492,3.505-3.79,4.857-6.869,4.857
+		c-2.613,0-4.401-0.689-5.613-2.877L425.65,180.103z"/>
+	<path fill="#757576" d="M443.684,159.161h2.583l-2.302,16.344l8.007-6.817h3.672l-8.469,7.05l7.05,8.438h-3.804l-6.531-8.139
+		l-1.142,8.139h-2.583L443.684,159.161z"/>
+	<path fill="#757576" d="M459.733,170.672c1.814-1.625,4.243-2.385,6.487-2.385c4.572,0,6.18,2.188,5.561,6.558l-0.931,6.646
+		c-0.128,0.896-0.167,1.889-0.146,2.684h-2.481c-0.07-0.698,0.066-1.655,0.158-2.319h-0.065c-1.248,1.59-3.128,2.71-5.478,2.71
+		c-3.145,0-5.534-1.585-5.108-4.594c0.721-5.126,6.721-5.429,10.524-5.429h0.992l0.066-0.457c0.315-2.253-0.944-3.413-3.356-3.413
+		c-1.655,0-3.456,0.562-4.84,1.687L459.733,170.672z M466.357,176.725c-3.272,0-5.517,0.896-5.807,2.982
+		c-0.281,1.95,1.076,2.679,3.026,2.679c2.982,0,4.805-2.151,5.222-4.668l0.141-0.993H466.357z"/>
+	<path fill="#757576" d="M479.916,159.161h2.582l-1.66,11.78h0.07c1.656-1.656,3.677-2.653,5.93-2.653
+		c4.862,0,7.656,3.443,6.997,8.144c-0.659,4.634-4.56,8.134-8.89,8.134c-2.78,0-4.801-1.388-5.517-3.14h-0.062l-0.391,2.749h-2.579
+		L479.916,159.161z M484.747,182.185c3.343,0,5.851-2.513,6.304-5.754c0.456-3.242-1.34-5.759-4.683-5.759
+		c-3.338,0-5.847,2.517-6.299,5.759C479.608,179.672,481.404,182.185,484.747,182.185z"/>
+	<path fill="#757576" d="M512.294,181.359c-2.147,2.346-4.453,3.206-7.334,3.206c-4.863,0-7.322-3.637-6.694-8.134
+		c0.672-4.801,4.52-8.144,9.083-8.144c4.37,0,6.931,2.982,6.206,8.108l-0.114,0.825h-12.504c-0.185,2.68,1.55,4.964,4.361,4.964
+		c2.218,0,3.816-0.795,5.257-2.346L512.294,181.359z M510.968,175.039c0.268-2.609-1.208-4.366-4.054-4.366
+		c-2.847,0-4.977,1.757-5.675,4.366H510.968z"/>
+	<path fill="#757576" d="M519.455,172.359c0.201-1.418,0.236-2.644,0.386-3.672h2.446c-0.118,0.826-0.171,1.688-0.294,2.548h0.066
+		c0.909-1.52,3.03-2.947,5.578-2.947c0.329,0,0.689,0.031,1.036,0.167l-0.536,2.618c-0.413-0.132-0.896-0.202-1.361-0.202
+		c-3.141,0-4.845,2.218-5.341,5.758l-1.062,7.546h-2.583L519.455,172.359z"/>
+	<path fill="#757576" d="M542.188,180.103c0.848,1.256,1.858,2.082,3.681,2.082c1.617,0,3.506-0.694,3.738-2.377
+		c0.232-1.655-1.361-2.09-2.961-2.455c-2.85-0.658-5.279-1.287-4.826-4.493c0.426-3.013,3.553-4.572,6.43-4.572
+		c2.183,0,4.085,0.83,4.871,2.815l-2.354,1.423c-0.505-1.093-1.493-1.854-3.018-1.854c-1.419,0-3.14,0.694-3.343,2.148
+		c-0.184,1.296,1.586,1.857,3.585,2.253c2.67,0.531,4.849,1.52,4.409,4.634c-0.492,3.505-3.79,4.857-6.869,4.857
+		c-2.613,0-4.405-0.689-5.617-2.877L542.188,180.103z"/>
+	<path fill="#757576" d="M561.866,187.71c-1.397,2.613-2.671,4.4-5.785,4.4c-0.72,0-1.607-0.062-2.257-0.395l0.649-2.249
+		c0.501,0.197,1.054,0.259,1.779,0.259c1.69,0,2.464-1.019,3.237-2.543l1.471-2.912l-4.225-15.584h3.013l3.083,12.141h0.066
+		l6.307-12.141h2.815L561.866,187.71z"/>
+	<path fill="#757576" d="M575.609,172.359c0.197-1.418,0.236-2.644,0.382-3.672h2.451c-0.114,0.826-0.176,1.688-0.29,2.548h0.062
+		c0.909-1.52,3.026-2.947,5.573-2.947c4.072,0,5.53,2.583,5.003,6.32l-1.349,9.566h-2.578l1.309-9.298
+		c0.36-2.583-0.535-4.204-2.951-4.204c-3.342,0-5.139,2.416-5.631,5.956l-1.062,7.546h-2.583L575.609,172.359z"/>
+	<path fill="#757576" d="M597.385,159.161h2.578l-3.519,25.014h-2.578L597.385,159.161z"/>
+	<path fill="#757576" d="M605.309,168.687h2.578l-2.179,15.487h-2.578L605.309,168.687z M607.716,160.747
+		c1.058,0,1.761,0.86,1.615,1.889c-0.148,1.089-1.059,1.884-2.147,1.884c-1.094,0-1.774-0.795-1.625-1.884
+		C605.708,161.607,606.658,160.747,607.716,160.747z"/>
+	<path fill="#757576" d="M627.708,183.476c-0.785,5.592-4.225,8.635-9.649,8.635c-3.013,0-5.314-0.79-7.194-2.942l2.148-2.117
+		c1.374,1.753,3,2.675,5.385,2.675c4.629,0,6.271-2.974,6.732-6.25l0.281-1.985h-0.065c-1.507,1.985-3.817,2.882-5.868,2.882
+		c-4.857,0-7.761-3.374-7.115-7.941c0.707-5.064,4.449-8.144,9.377-8.144c2.091,0,4.296,0.997,5.033,3.044h0.07l0.369-2.645h2.578
+		L627.708,183.476z M619.816,181.987c3.536,0,5.895-2.644,6.316-5.622c0.47-3.342-1.449-5.692-4.722-5.692
+		c-3.246,0-5.815,2.517-6.276,5.759C614.695,179.576,616.803,181.987,619.816,181.987z"/>
+	<path fill="#757576" d="M637.222,159.161h2.583l-1.643,11.679h0.065c0.865-1.225,2.903-2.552,5.314-2.552
+		c4.072,0,5.53,2.583,5.003,6.32l-1.344,9.566h-2.583l1.31-9.298c0.368-2.583-0.532-4.204-2.947-4.204
+		c-3.343,0-5.135,2.416-5.64,5.956l-1.059,7.546h-2.578L637.222,159.161z"/>
+	<path fill="#757576" d="M667.617,181.359c-2.147,2.346-4.458,3.206-7.335,3.206c-4.862,0-7.326-3.637-6.693-8.134
+		c0.672-4.801,4.52-8.144,9.087-8.144c4.366,0,6.922,2.982,6.202,8.108l-0.118,0.825h-12.501c-0.185,2.68,1.551,4.964,4.357,4.964
+		c2.218,0,3.821-0.795,5.262-2.346L667.617,181.359z M666.286,175.039c0.272-2.609-1.203-4.366-4.045-4.366
+		c-2.847,0-4.98,1.757-5.675,4.366H666.286z"/>
+	<path fill="#757576" d="M686.367,181.425h-0.061c-1.209,1.752-3.624,3.14-6.4,3.14c-4.335,0-7.247-3.5-6.592-8.134
+		c0.658-4.7,4.418-8.144,9.275-8.144c2.254,0,4.002,0.997,5.192,2.653h0.065l1.656-11.78h2.578l-3.519,25.014h-2.578
+		L686.367,181.425z M682.388,170.672c-3.338,0-5.842,2.517-6.303,5.759c-0.453,3.241,1.344,5.754,4.682,5.754
+		c3.343,0,5.851-2.513,6.307-5.754C687.531,173.189,685.735,170.672,682.388,170.672z"/>
+</g>
+<image overflow="visible" width="94" height="155" xlink:href="data:image/png;base64,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
+UxwjiTWPXRN7M041jh/XGo+Lj46vjh9f7LN4z+KRJbZLCpYMLDVYunLp9WWqy1KXnV8uu5y5/FQC
+JiEmoT7hKzOUWcUcT2QkViaOsbxYe1mv2O7sEvYox4VTzHme5JJUnPSC68LdzR3lufFKea/5Xvxy
+/ttk/+SDyRMpoSk1KVOpMalNafi0hLSzAgVBiqAzXSN9ZXqf0ERYIJRkOGXsyRgTBYqqM6HMpZmt
+WYqIuekWG4o3iYeyXbMrsj+tiF5xaqX8SsHK7lXGq7auep7jm/PzavRq1uqOXK3c9blDazzWHM6D
+8hLzOtbqrM1fO7LOb13teuL6lPW/bbDYULzhw8aYjW356vnr8oc3+W1qKJApEBUMbnbefHALegt/
+S89W6637tn4vZBfeKLIoKi36uo217cZPlj+V/TS1PWl7zw67HQd2YncKdg7scttVWyxfnFM8vDt4
+d3MJvaSw5MOe5Xuul9qUHtxL3CveKykLKmvdp7tv576v5bzy/grPiqZKtcqtlRP72ftvH3A/0HhQ
+/WDRwS+H+IfuHfY73FylX1V6BHsk+8izo9FHu352+LmuWrW6qPpbjaBGUhte21lnX1dXr1a/owFu
+EDeMHltyrPe49/HWRtPGw020pqIT4IT4xMtfEn4ZOBl4suOUw6nG03qnK89QzxQ2Q82rmsdaeC2S
+1rjWvrMBZzvanNvO/Gr2a805rXMV55XO77hAvJB/YepizsXxdmH760vcS8MdyzseXo69fLdzUWfP
+lcAr1676Xr3c5dF18ZrLtXPXna6fveFwo+Wm3c3mbtvuM7/Z/namx66n+Zb9rdZex962voV9F267
+3b50x/vO1buMuzf7Q/r7BqIG7g0uGZTcY997cT/1/tsH2Q8mH657hHlU+FjucekTtSdVvxv93iSx
+k5wf8h7qfhrx9OEwa/jVH5l/fB3Jf0Z5Vvpc83ndC6sX50Z9R3tfLn458kr4avJ1wZ/yf1a+MXxz
++i/3v7rHYsdG3oreTr3b9l7lfc0Hmw8d42HjTz6mfZycKPyk8qn2s8Pnri8xX55PrviK+1r2zehb
+2/fA74+m0qamhEwR84cVQCEDTkoC4F0NAJQ4xDv0AkCUmfHEPwTN+PgfBP6OZ3zzDyHOpcYdgKh1
+AAQhHuUAMvQQJiP/05Yo0h3A1tbS8U9lJllbzdQiI84S82lq6r06ALg2AL6JpqYm909NfTuKNHsf
+gPaMGS8+LSzyhXJIYZq6NfLAf+ofxakAAvM/HSwAAAGcaVRYdFhNTDpjb20uYWRvYmUueG1wAAAA
+AAA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJYTVAgQ29yZSA1
+LjQuMCI+CiAgIDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8y
+Mi1yZGYtc3ludGF4LW5zIyI+CiAgICAgIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiCiAg
+ICAgICAgICAgIHhtbG5zOmV4aWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vZXhpZi8xLjAvIj4KICAg
+ICAgICAgPGV4aWY6UGl4ZWxYRGltZW5zaW9uPjk0PC9leGlmOlBpeGVsWERpbWVuc2lvbj4KICAg
+ICAgICAgPGV4aWY6UGl4ZWxZRGltZW5zaW9uPjE1NTwvZXhpZjpQaXhlbFlEaW1lbnNpb24+CiAg
+ICAgIDwvcmRmOkRlc2NyaXB0aW9uPgogICA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgpUaPzyAAAF
+X0lEQVR4Ae3cPS80URQH8LtMvJOQKBREIgrRaCRUKDQajUIrUfo44jMofAKFl4ZGFDoKCrTW+zv7
+5Eyyj7Ez5ow799xj+G+yMTv33HNmfnvMY+eZ2VK5XK4YPLwL1HmviIKhAOCVGgHwgFcSUCqLjge8
+koBSWXQ84JUElMqi4wGvJKBUFh0PeCUBpbLoeMArCSiVRccDXklAqSw6HvBKAkpl0fGAVxJQKouO
+B7ySgFJZdDzglQSUyqLjAa8koFQWHQ94JQGlsuh4wCsJKJVFxwNeSUCpLDoe8EoCSmXR8YBXElAq
+i44HvJKAUll0POCVBJTKouMBrySgVBYdD3glAaWy6HjAKwkolUXHA15JQKksOh7wSgJKZdHxgFcS
+UCqLjge8koBS2SBL3evr6yxhmWIaGhpMU1NTptjaoPv7e/P6+lq7Otfr9vZ2UyqVcuWwmczC7+zs
+mK2tLZvciXM6OjrM0tJS4ljaSnrzl5eX00Ksxqanp83o6KjV3DyT2GP83d1dnvyxubYd+/z8HMvl
+YoVUXm7bWHguAcbtBNhDjV3a3z1rb2/P5D0SAP6bPULg6+vr35wVD8ehJm7iZQ3gvTDHiwA+buJl
+DeC9MMeLAD5u4mVNYeDr6+tFQKTychsbHB0dmer5EzqHUn1yE32Pd3Z2moWFBfPy8uK0dE9Pj9N8
+WZMFa2trsVjqgra2NkMnkG5vb2PjWiu0kCT2N/ED1Nvbm7m6ugqfEkWR05jCHON/25uV2PE/dSeP
+j4+dH+P7+vpMc3Oz910uDPzFxYVZXV11DjQ1NWXGx8ed5+USFuZQ8/7+zu2L1bhUXm5jCgPP7UjR
+xgGv9I4BHvBKAkplg9nZ2fDyBvpH5ubmxtBfD4eHh+bx8VFpk/5G2WB4eDi2p3TJw/7+vtnY2IiN
+YYUbgcRjPJ00GxsbMzMzM26qIEtMIBG+GjUyMmL6+/urL/HToUAqPNXp7e11WA6pqgIsfGNjYzUW
+Px0KsPAOayFVRADwEQyfi4D3qR2pBfgIhs9FwPvUjtQCfATD5yLgfWpHagE+guFzEfA+tSO1AB/B
+8LkIeJ/akVqAj2D4XGThtW5H9ImgUYuFPzs709iuX18zFf7g4MDQZXN4fAjU1aWSfQQyS4mX8D08
+PIT/57q9vc1M/3vDdP8AffdBpVLJtfPB7u7u/0R0Lfzl5aU5OTlx/mUNubbyB00m9JaWlvw3GG9u
+bv6g3SrGpnR1deWGd3PAKoaXs60cGBjInQvwFoSDg4MWsz5PAfxnj0yvuru7zdDQUKbYr4IA/5UM
+s35ycjK8W5IJ+3IY8F/SpA/Q7Z9zc3PG9u96wKf7po7SVXbz8/PhbampgQmDgE9A+c4qwl9cXAy/
+14yuOc36SPzkmnWyTVxra6vNtPCOc/q1dn3PEn0YyvuguwbpCuuJiYnwEvfT01Nzfn5u6Avsnp6e
+EtOXVlZWKnSZHj3p4zBtSPRJSemdtD2W1ValXEFg937TmVLbL5Or3Q56TZ9CpW+1pEYh/NpTDKVy
+uZzvpEPSHmEdK4BjPEskEwB4GVc2K+BZIpkAwMu4slkBzxLJBABexpXNCniWSCYA8DKubFbAs0Qy
+AYCXcWWzAp4lkgkAvIwrmxXwLJFMAOBlXNmsgGeJZAIAL+PKZgU8SyQTAHgZVzYr4FkimQDAy7iy
+WQHPEskEAF7Glc0KeJZIJgDwMq5sVsCzRDIBgJdxZbMCniWSCQC8jCubFfAskUwA4GVc2ayAZ4lk
+AgAv48pmBTxLJBMAeBlXNivgWSKZAMDLuLJZAc8SyQQAXsaVzQp4lkgmAPAyrmxWwLNEMgGAl3Fl
+swKeJZIJ+AcJhs6oNLSGhQAAAABJRU5ErkJggg==" transform="matrix(1 0 0 1 1273.8013 -39.2153)">
+</image>
+</svg>

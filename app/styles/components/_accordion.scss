@@ -3,7 +3,7 @@
     height: 150px;
     overflow: hidden;
     position: relative;
-    @media #{$medium-up} {
+    @media #{$large-up} {
         height: 350px;
     }
     img, .image {

@@ -177,6 +177,60 @@
     },
     {
         "id": 14,
+        "name": "Colore",
+        "assets_url": "/assets/partners/colore/colore_logo.svg",
+        "content": "<h5>Lorem ipsum</h5>",
+        "images": [
+            {
+                "url": "/assets/partners/colore/colore1.jpg"
+            },
+            {
+                "url": "/assets/partners/colore/colore2.jpg"
+            },
+            {
+                "url": "/assets/partners/colore/colore3.jpg"
+            },
+            {
+                "url": "/assets/partners/colore/colore4.jpg"
+            },
+            {
+                "url": "/assets/partners/colore/colore5.jpg"
+            },
+            {
+                "url": "/assets/partners/colore/colore6.jpg"
+            },
+            {
+                "url": "/assets/partners/colore/colore7.jpg"
+            },
+            {
+                "url": "/assets/partners/colore/colore8.jpg"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Nord",
+        "assets_url": "/assets/partners/nord/nord_logo.svg",
+        "content": "<h5>Lorem Ipsum</h5>",
+        "images": [
+            {
+                "url": "/assets/img/fotografen.jpg"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Son Gual Golf",
+        "assets_url": "/assets/partners/songual/songual_logo.svg",
+        "content": "<h5>Lorem Ipsum</h5>",
+        "images": [
+            {
+                "url": "/assets/img/fotografen.jpg"
+            }
+        ]
+    },
+    {
+        "id": 17,
         "name": "Jacobsen",
         "assets_url": "/assets/partners/jacobsen/jacobsen_logo.svg",
         "content": "<h5>Lorem Ipsum</h5>",

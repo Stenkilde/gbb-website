@@ -17,27 +17,27 @@
             <a ng-click="topbar.menuState = false" ui-sref="application.suppliers">Suppliers</a>
         </li>
         <li>
-            <a ng-click="topbar.menuState = false" ui-sref="application.contact">Contact</a>
+            <a ng-click="topbar.menuState = false" ui-sref="application.contact">Gallery</a>
         </li>
     </ul>
 </div>
 
 <header class="header">
     <nav class="top-bar row">
-        <button ng-click="topbar.menuState = !topbar.menuState" class="small-1 columns show-for-small-only">M</button>
+        <button ng-click="topbar.menuState = !topbar.menuState" class="small-1 columns hide-for-large">M</button>
         <div class="columns">
-            <a ui-sref="application.main" class="hide-for-medium">
+            <a ui-sref="application.main" class="hide-for-large">
                 <svg>
                     <use xlink:href="#gbb-logo"></use>
                 </svg>
             </a>
-            <a ui-sref="application.main" class="shield show-for-medium" >
+            <a ui-sref="application.main" class="shield show-for-large">
                 <svg width="75%">
                     <use xlink:href="#gbb-logo" />
                 </svg>
             </a>
         </div>
-        <div class="medium-6 columns show-for-medium content-holder">
+        <div class="medium-6 columns show-for-large content-holder">
             <div class="header--top text-right">
                 <div class="small-12 columns collapsed">
                     <a class="small" ui-sref="application.corporate">Corporategolf</a>
@@ -78,7 +78,7 @@
                         <a ui-sref="application.suppliers">Suppliers</a>
                     </li>
                     <li>
-                        <a ui-sref="application.contact">Contact</a>
+                        <a ui-sref="application.contact">Gallery</a>
                     </li>
                 </ul>
             </div>

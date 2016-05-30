@@ -7,7 +7,7 @@
 
 			var Index = {
 				name: 'application.events',
-				url: '/events',
+				url: '/matches',
 				views: {
 					'main@application': {
 						templateUrl: 'modules/events/events.template.html',
