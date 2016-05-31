@@ -7,7 +7,7 @@
 
 			var Index = {
 				name: 'application.clubs',
-				url: '/klubber',
+				url: '/clubs',
 				views: {
 					'main@application': {
 						templateUrl: 'modules/clubs/index/index.template.html',

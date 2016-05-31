@@ -3,10 +3,10 @@
         "id": 1,
         "name": "7. Himmel",
         "assets_url": "/assets/suppliers/7himmel/d7himmellogo.svg",
-        "content": "<h5 class=\"subheading\">Lorem Ipsum</h5>",
+        "content": "<h5 class=\"subheading\">Our GBB writer is on the way</h5>",
         "images": [
             {
-                "url": "/assets/img/fotografen.jpg"
+                "url": "/assets/destinations/fotografen.jpg"
             }
         ]
     },
@@ -14,7 +14,7 @@
         "id": 2,
         "name": "Mens Room",
         "assets_url": "/assets/suppliers/mensroom/mensroom.svg",
-        "content": "<h5 class=\"subheading\">Lorem Ipsum</h5>",
+        "content": "<h5 class=\"subheading\">Our GBB writer is on the way</h5>",
         "images": [
             {
                 "url": "/assets/suppliers/mensroom/cover_mensroom1.jpg"

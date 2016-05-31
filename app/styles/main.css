@@ -3560,10 +3560,16 @@ table.hover tr:nth-of-type(even):hover {
   .accordion-title h3 {
     position: absolute;
     z-index: 1;
-    top: 55%;
+    top: 65%;
     left: 50%;
     color: #fff;
-    transform: translate(-50%, 0%); }
+    transform: translate(-50%, 0%);
+    font-size: 20px;
+    font-style: italic; }
+    @media screen and (min-width: 64em) {
+      .accordion-title h3 {
+        top: 60%;
+        font-size: 26px; } }
   .accordion-title slick {
     height: 100%; }
     .accordion-title slick * {
@@ -3895,5 +3901,32 @@ h5 {
 .event__tabs .tabs-title > a:focus, .event__tabs .tabs-title > a[aria-selected='true'] {
   background: none;
   font-size: 30px; }
+
+.burger {
+  display: inline-block;
+  width: 20px;
+  height: 3px;
+  background: #000;
+  position: relative;
+  margin-top: -15px;
+  margin-left: 15px; }
+  .burger:before {
+    content: "";
+    display: inline-block;
+    width: 20px;
+    height: 3px;
+    background: #000;
+    position: absolute;
+    top: 8px;
+    left: 0; }
+  .burger:after {
+    content: "";
+    display: inline-block;
+    width: 20px;
+    height: 3px;
+    background: #000;
+    bottom: -17px;
+    left: 0;
+    position: absolute; }
 
 /*# sourceMappingURL=main.css.map */

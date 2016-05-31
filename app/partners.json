@@ -20,10 +20,13 @@
         "id": 2,
         "name": "Quooker",
         "assets_url": "assets/partners/quooker/quooker_logo.svg",
-        "content": "<h5>Lorem Ipsum</h5>",
+        "content": "<h5>A true revolution...</h5> <p>The new kitchen must-have. Quooker: the tap that immediately dispenses boiling water. Tap on the worktop, tank underneath. A 100% Dutch invention taking over the world. You can choose between a separate boiling water tap with accompanying mixer tap, or the new Quooker Fusion: a single tap for hot, cold and boiling water. Ultra-safe, super-efficient and available in eight tap designs and three finishes. And if you thought that the Quooker was wasteful, think again: the patented high-vacuum insulation ensures that the Quooker&#39;s standby usage is just 50 øre a day. For even more efficiency, choose a COMBI tank, a single, amazingly economical way to produce both hot and boiling water. No kitchen is complete without its Quooker.</p> <h5>Save energy and water</h5> <p>The Quooker's perfect high-vacuum insulation means that it only costs 50 øre a day to have boiling water at hand, exactly when you want it.   What&#39;s more, the Quooker ensures that you always have the exact amount of boiling water you need. And you will really save money if you choose the COMBI tank, which supplies all of your kitchen’s hot water too. By generating both hot and boiling water in a single compact tank under your worktop, the COMBI eliminates the need to pipe hot water all the way from the main boiler to kitchen sink. No more running the tap for ages to get hot water and you’ll see big energy savings too.</p> <h5>Safe</h5> <p>You have to be careful when dealing with boiling water. Knocked over kettles cause hundreds of casualties each year, especially for young children. Such accidents are a thing of the past with the Quooker, thanks to its childproof handle and insulated sides that ensure it never feels hot to the touch. The water is boiling, but the flow is a fine spray rather than a solid jet, giving you plenty of time to get your hands out of harm&#39;s way. Safety and ease of use go hand in hand with the Quooker.</p> <h5>Fusion</h5> <p>Our newest innovation the Fusion, is a single tap which unites both mixer and boiling water functions. Convenient, space saving and sleek. Incorporates a childproof double-push- and-turn handle with light ring.</p> <h5>Twintaps</h5> <p>Quooker’s Twintaps, our matching boiling-water and mixer taps, are both practical and stylish. The boiling-water tap is height-adjustable.</p> <h5>More about Quooker...</h5> <p>Quooker manufacturer Peteri BV is based in Ridderkerk, the Netherlands. Every day, over 80 employees contribute to the development, production and marketing of Quooker in our 7,000 m2 office. We have branches in England, Belgium, Denmark, Germany, Luxembourg, Norway, Sweden and Switzerland.</p> <h5>Innovative</h5> <p>Quooker is constantly improving its products. This has resulted in the development of high-vacuum insulation, the COMBI, the COMBI+, the Nordic Twintaps and our all-in- one Fusion tap. Innovating, refining, adjusting and optimizing are at the core of our company.</p> <h5>Manufactured in Ridderkerk</h5> <p>Our production department is responsible for all Quooker manufacturing. Although a number of components are supplied by third parties, most essential parts are produced in-house. Assembly and quality control takes place in Ridderkerk. Quooker production also offers supported employment for the disabled.</p> <h5>Service</h5> <p>High-quality service is essential to Quooker Scandinavia. We work closely with our Quooker dealers, but we remain responsible for service support. We provide assistance direct to our customers, from sending them extra parts to undertaking on site repairs. The brand Registered as a brand in 1989, Quooker’s descriptive and internationally recognisable name has proven to be a great success. The Quooker is the world’s first boiling-water tap and the company holds global patents both on the Quooker and some of its parts. The Quooker brand represents high-end technology and excellent quality –qualifications cherished and safeguarded by Peteri BV.</p>",
         "images": [
             {
-                "url": "/assets/img/fotografen.jpg"
+                "url": "/assets/partners/quooker/quooker1.jpg"
+            },
+            {
+                "url": "/assets/partners/quooker/quooker2.jpg"
             }
         ]
     },
@@ -31,10 +34,10 @@
         "id": 3,
         "name": "Braastad",
         "assets_url": "/assets/partners/braastad/braastad_logo.svg",
-        "content": "<h5>Lorem Ipsum</h5>",
+        "content": "<h5>Our GBB writer is on the way</h5>",
         "images": [
             {
-                "url": "/assets/img/fotografen.jpg"
+                "url": "/assets/destinations/fotografen.jpg"
             }
         ]
     },
@@ -42,7 +45,7 @@
         "id": 4,
         "name": "Chivas",
         "assets_url": "/assets/partners/chivas/chivas_logo.svg",
-        "content": "<h5>Lorem Ipsum</h5>",
+        "content": "<h5>Our GBB writer is on the way</h5>",
         "images": [
             {
                 "url": "/assets/partners/chivas/cover_chivas1.jpg"
@@ -62,10 +65,10 @@
         "id": 5,
         "name": "Gaggenau",
         "assets_url": "/assets/partners/gaggenau/gaggenau_logo.svg",
-        "content": "<h5>Lorem Ipsum</h5>",
+        "content": "<h5>Our GBB writer is on the way</h5>",
         "images": [
             {
-                "url": "/assets/img/fotografen.jpg"
+                "url": "/assets/destinations/fotografen.jpg"
             }
         ]
     },
@@ -110,10 +113,10 @@
         "id": 8,
         "name": "La Prairie",
         "assets_url": "/assets/partners/laprairie/laprairie_logo.svg",
-        "content": "<h5>Lorem Ipsum</h5>",
+        "content": "<h5>Our GBB writer is on the way</h5>",
         "images": [
             {
-                "url": "/assets/img/fotografen.jpg"
+                "url": "/assets/destinations/fotografen.jpg"
             }
         ]
     },
@@ -121,10 +124,16 @@
         "id": 9,
         "name": "Uno Form",
         "assets_url": "/assets/partners/unoform/unoform_logo.svg",
-        "content": "<h5>Lorem Ipsum</h5>",
+        "content": "<h5>Our GBB writer is on the way</h5>",
         "images": [
             {
-                "url": "/assets/img/fotografen.jpg"
+                "url": "/assets/partners/unoform/unoform1.jpg"
+            },
+            {
+                "url": "/assets/partners/unoform/unoform2.jpg"
+            },
+            {
+                "url": "/assets/partners/unoform/unoform3.jpg"
             }
         ]
     },
@@ -146,10 +155,10 @@
         "id": 11,
         "name": "Shiseido",
         "assets_url": "/assets/partners/shiseido/shiseido_logo.svg",
-        "content": "<h5>Lorem Ipsum</h5>",
+        "content": "<h5>Our GBB writer is on the way</h5>",
         "images": [
             {
-                "url": "/assets/img/fotografen.jpg"
+                "url": "/assets/destinations/fotografen.jpg"
             }
         ]
     },
@@ -157,10 +166,10 @@
         "id": 12,
         "name": "la Tour De Vence",
         "assets_url": "/assets/partners/latourdevence/latourdevence_logo.svg",
-        "content": "<h5>Lorem Ipsum</h5>",
+        "content": "<h5>Our GBB writer is on the way</h5>",
         "images": [
             {
-                "url": "/assets/img/fotografen.jpg"
+                "url": "/assets/destinations/fotografen.jpg"
             }
         ]
     },
@@ -168,10 +177,10 @@
         "id": 13,
         "name": "Housing Denmark",
         "assets_url": "/assets/partners/housingdenmark/housing_denmark_logo.svg",
-        "content": "<h5>Lorem Ipsum</h5>",
+        "content": "<h5>Our GBB writer is on the way</h5>",
         "images": [
             {
-                "url": "/assets/img/fotografen.jpg"
+                "url": "/assets/destinations/fotografen.jpg"
             }
         ]
     },
@@ -211,10 +220,10 @@
         "id": 15,
         "name": "Nord",
         "assets_url": "/assets/partners/nord/nord_logo.svg",
-        "content": "<h5>Lorem Ipsum</h5>",
+        "content": "<h5>Our GBB writer is on the way</h5>",
         "images": [
             {
-                "url": "/assets/img/fotografen.jpg"
+                "url": "/assets/destinations/fotografen.jpg"
             }
         ]
     },
@@ -222,10 +231,10 @@
         "id": 16,
         "name": "Son Gual Golf",
         "assets_url": "/assets/partners/songual/songual_logo.svg",
-        "content": "<h5>Lorem Ipsum</h5>",
+        "content": "<h5>Our GBB writer is on the way</h5>",
         "images": [
             {
-                "url": "/assets/img/fotografen.jpg"
+                "url": "/assets/destinations/fotografen.jpg"
             }
         ]
     },
@@ -233,10 +242,10 @@
         "id": 17,
         "name": "Jacobsen",
         "assets_url": "/assets/partners/jacobsen/jacobsen_logo.svg",
-        "content": "<h5>Lorem Ipsum</h5>",
+        "content": "<h5>Our GBB writer is on the way</h5>",
         "images": [
             {
-                "url": "/assets/img/fotografen.jpg"
+                "url": "/assets/destinations/fotografen.jpg"
             }
         ]
     }
