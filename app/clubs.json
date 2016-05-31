@@ -169,7 +169,7 @@
                 "text2": "Also, Simons Golf Club hosted Denmarks first edition of an European Tour golf tournament - in 2003, at the NORDIC OPEN <br> <br>The course is handicap and slope rated and has the following facilities:<br> <ul><li>* Four tees: white, yellow, red and blue</li><li>* Driving range with chipping green and bunkers</li><li>* 3 Putting Greens</li><li>* Par - 3 course: 6 holes with bunkers</li> <li>* Indoor Training Centre</li></ul> <br> <br> In 2016 Golf & Business Butler will welcome all Simon GCs Members of The Mens Section with luxurious GBB Match on August 3rd - Gunstart 15.00 (possibly more than 100 golfers will attend) <br> <br> Welcome to Simons GC"
             },
             {
-                "name": "Our GBB Photographer is on his way - Svendborg Golf Club",
+                "name": "Svendborg Golf Club",
                 "country": "Fyn",
                 "language": "Denmark",
                 "cover": "/assets/destinations/dest_dk/svendborg/svendborg1.jpg",
@@ -222,7 +222,7 @@
                 "text2": ""
             },
             {
-                "name": "Our GBB Photographer is on his way - Kalmar Golf Club",
+                "name": "Kalmar Golf Club",
                 "country": "Sweden",
                 "cover": "/assets/destinations/dest_sek/kalmargolf/kalmar1.jpg",
                 "asset_urls": [
@@ -281,8 +281,8 @@
                         "url": "/assets/destinations/dest_sek/bokskogengolf/bokskogen1.jpg"
                     }
                 ],
-                "text1": "Our GBB Writer is on his way",
-                "text2": ""
+                "text1": "Welcome to Bokskogens Golf Club for the allround luxurious golfing experience. <br> <br> Your Swedish and Nordic golf experience would not be complete without a visit to Bokskogens Golf Club, one of the finest in Sweden, a trusted partner of Golf &amp; Business Butler and chosen venue for The European Boys Team Championship 2006. <br> <br> Venue for the 2003 Junior Solheim Cup, Bokskogen has hosted many amateur and professional tournaments including SEO and PLM Open on the European Tour which were the forerunners of what we know today as Scandinavian Masters. The Old Course has indeed proved a challenge for many well known European Tour and PGA Tour players. <br> <br> Bokskogen, which has two testing courses, each offering a different environment, is only a twenty minute drive from Malmoe city centre and a good 30min drive from Nordic Areas busiest airport, the CPH Airport in Copenhagen, Denmark.",
+                "text2": "The Old Course with its generous fairways, water hazards and large immaculate putting surfaces, challenges club players and professionals alike. Some of the par fours offer a magnificent test of length and strategy while the Par 3 holes, especially the second, test both nerve and skill. The shorter New Course may not be as challenging as the Old Course, but offers a different test. The slighter narrower fairways and smaller greens put focus on the accuracy of the short game. The course offers beautiful scenery and wildlife. <br> <br> Handicap certificate is necessary. <br> <br> Contact Golf & Business Butler for availability and coordination on teetimes or go straight to Bokskogen website www.bokskogen.com"
             }
         ]
     },
@@ -492,8 +492,8 @@
                 "text2": ""
             },
             {
-                "name": "Our GBB Photographer is on his way - Finca Cortesin Club",
-                "country": "South Spain",
+                "name": "Our GBB Photographer is on his way",
+                "country": "Finca Cortesin Club - South Spain",
                 "text1": "Our GBB Writer is on his way",
                 "text2": "",
                 "cover": "/assets/destinations/fotografen.jpg",
@@ -504,8 +504,8 @@
                 ]
             },
             {
-                "name": "Our GBB Photographer is on his way - Las Brisas Golf Club",
-                "country": "South Spain",
+                "name": "Our GBB Photographer is on his way",
+                "country": "Las Brisas Golf Club - South Spain",
                 "text1": "Our GBB Writer is on his way",
                 "text2": "",
                 "cover": "/assets/destinations/fotografen.jpg",
@@ -537,8 +537,8 @@
                 ]
             },
             {
-                "name": "Our GBB Photographer is on his way - Estonian Golf Club",
-                "country": "Estonia",
+                "name": "Our GBB Photographer is on his way",
+                "country": "Estonian Golf Club - Estonia",
                 "cover": "/assets/destinations/dest_int/estoniangolf/estonia1.jpg",
                 "asset_urls": [
                     {
