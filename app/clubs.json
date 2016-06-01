@@ -35,7 +35,7 @@
             {
                 "name": "Kokkedal Golf Club",
                 "language": "Denmark",
-                "country": "North Zealand",
+                "country": "North Sealand",
                 "cover": "/assets/destinations/dest_dk/kokkedalgolf/kokkedal1.jpg",
                 "asset_urls": [
                     {
@@ -54,7 +54,7 @@
             {
                 "name": "Korsør Golf Club",
                 "language": "Denmark",
-                "country": "East Zealand",
+                "country": "West Sealand",
                 "cover": "/assets/destinations/dest_dk/korsor/korsor1.jpg",
                 "asset_urls": [
                     {
@@ -76,7 +76,7 @@
             {
                 "name": "Næstved Golf Club",
                 "language": "Denmark",
-                "country": "Mid Zealand",
+                "country": "Mid Sealand",
                 "cover": "/assets/destinations/dest_dk/naestvedgolf/nastved1.jpg",
                 "asset_urls": [
                     {
@@ -155,7 +155,7 @@
             {
                 "name": "Simons Golf Club",
                 "language": "Denmark",
-                "country": "North Zealand",
+                "country": "North Sealand",
                 "cover": "/assets/destinations/dest_dk/simonsgolf/simons1.jpg",
                 "asset_urls": [
                     {
