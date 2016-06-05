@@ -3902,34 +3902,6 @@ h5 {
   background: none;
   font-size: 30px; }
 
-<<<<<<< HEAD
-.burger {
-  display: inline-block;
-  width: 20px;
-  height: 3px;
-  background: #000;
-  position: relative;
-  margin-top: -15px;
-  margin-left: 15px; }
-  .burger:before {
-    content: "";
-    display: inline-block;
-    width: 20px;
-    height: 3px;
-    background: #000;
-    position: absolute;
-    top: 8px;
-    left: 0; }
-  .burger:after {
-    content: "";
-    display: inline-block;
-    width: 20px;
-    height: 3px;
-    background: #000;
-    bottom: -17px;
-    left: 0;
-    position: absolute; }
-=======
 object {
   width: 100%;
   display: block;
@@ -3966,6 +3938,5 @@ object {
     height: 3px;
     width: 20px;
     background: #000; }
->>>>>>> d14475384533073cfc53b0405129555f62ffa9e4
 
 /*# sourceMappingURL=main.css.map */
