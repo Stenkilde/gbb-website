@@ -224,9 +224,10 @@ object {
 
 .burger {
     width: 20px;
-    height: 3px;
+    height: 2px;
     display: inline-block;
-    background: #000;
+    background: $primary-color;
+    border-radius: 5px;
     position: relative;
     margin-left: 5px;
     &:before {
@@ -234,17 +235,31 @@ object {
         position: absolute;
         top: -5px;
         display: block;
-        height: 3px;
+        height: 2px;
         width: 20px;
-        background: #000;
+        background: $primary-color;
+        border-radius: 5px;
     }
     &:after {
         content: "";
         position: absolute;
         bottom: -5px;
         display: block;
-        height: 3px;
+        height: 2px;
         width: 20px;
-        background: #000;
+        background: $primary-color;
+        border-radius: 5px;
+    }
+}
+
+.collapse-left {
+    @media #{$large-up} {
+        padding-left: 0 !important;
+    }
+}
+
+.collapse-right {
+    @media #{$large-up} {
+        padding-right: 0 !important;
     }
 }
