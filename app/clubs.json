@@ -118,6 +118,25 @@
                 "text2": ""
             },
             {
+                "name": "Stensballegaard Golf Club",
+                "language": "Denmark",
+                "country": "Mid Jutland",
+                "cover": "/assets/destinations/dest_dk/stensballegaard/stensballegaard1.jpg",
+                "asset_urls": [
+                    {
+                        "url": "/assets/destinations/dest_dk/stensballegaard/stensballegaard2.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_dk/stensballegaard/stensballegaard3.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_dk/stensballegaard/stensballegaard1.jpg"
+                    }
+                ],
+                "text1": "Our GBB Writer is on his way",
+                "text2": ""
+            },
+            {
                 "name": "Aalborg Golf Club",
                 "language": "Denmark",
                 "country": "North Jutland",
@@ -233,11 +252,17 @@
                         "url":  "/assets/destinations/dest_sek/kalmargolf/kalmar1.jpg"
                     },
                     {
+                        "url":  "/assets/destinations/dest_sek/kalmargolf/kalmar4.jpg"
+                    },
+                    {
+                        "url":  "/assets/destinations/dest_sek/kalmargolf/kalmar5.jpg"
+                    },
+                    {
                         "url":  "/assets/destinations/dest_sek/kalmargolf/kalmar3.jpg"
                     }
                 ],
-                "text1": "Our GBB Writer is on his way",
-                "text2": ""
+                "text1": "<p>Kalmar Golf Club is a 36-hole facility with a generous club house and well renowned food in the restaurant. It has a golf shop, driving range and performansce studio to serve every golfers needs.</p> <p>The club is situated right on the waters of the Sound of Kalmar - part of the Baltic Sea. The club originates frpm 1947 and the Old Course (18-holes par 72)  starts with a challenging par 3 where you hit over the water. Tee-off at lunch time and the peolpe enjoying lunch on the Club house terrace will see your initial swing of the round. Best advice is to warm up before you tee off the Old Course.</p>",
+                "text2": "<p>In 2009 the Old Course went through an extensive renovation program and tees, bunkers and greens were updated to modern standard. The creator of the was European Tour and Ryder Cup player Pierre Fulke. This course has hostes the Norda Professional Tour and is challenging for all golfers.</p> <p>The New course from 1992 (18-holes par 71) also starts with a par 3 and winds its way through pine trees and quiet a good number of ponds. This course is shorter but more narrow and will challenge most golfers on any given day. In 2015 the golf club's most succesful professional players Åsa Gottmo (European Tour winner) and Joakim Haeggman (European Tour winner & Ryder Cup player) started putting their signature to the course.</p>"
             },
             {
                 "name": "Vasatorp Golf Club",
