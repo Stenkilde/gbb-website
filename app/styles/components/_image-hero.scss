@@ -1,6 +1,6 @@
 .c-image-hero {
     position: relative;
-    height: 100px;
+    height: 200px;
     overflow: hidden;
     @media #{$large-up} {
         height: 350px;
@@ -22,7 +22,7 @@
         }
     }
     img {
-        height: 100px;
+        height: 200px;
         width: 100%;
         object-fit: cover;
         font-family: 'object-fit: cover;';
