@@ -3795,6 +3795,9 @@ h2.title {
     h2.title {
       font-size: 68px;
       text-align: left; } }
+  h2.title.club {
+    font-size: 68px;
+    text-align: left; }
 
 h5 {
   font-size: 1rem; }
