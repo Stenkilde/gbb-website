@@ -72,8 +72,12 @@ h2.title {
         text-align: left;
     }
     &.club {
-        font-size: 68px;
         text-align: left;
+        font-size: 30px;
+        margin-bottom: 5px;
+        @media #{$medium-up} {
+            font-size: 68px;
+        }
     }
 }
 

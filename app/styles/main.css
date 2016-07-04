@@ -3796,8 +3796,12 @@ h2.title {
       font-size: 68px;
       text-align: left; } }
   h2.title.club {
-    font-size: 68px;
-    text-align: left; }
+    text-align: left;
+    font-size: 30px;
+    margin-bottom: 5px; }
+    @media screen and (min-width: 40em) {
+      h2.title.club {
+        font-size: 68px; } }
 
 h5 {
   font-size: 1rem; }
