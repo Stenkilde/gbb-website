@@ -3958,4 +3958,10 @@ object {
     height: auto !important;
     min-height: 0 !important; } }
 
+.slick-prev:before {
+  content: "<"; }
+
+.slick-next:before {
+  content: ">"; }
+
 /*# sourceMappingURL=main.css.map */
