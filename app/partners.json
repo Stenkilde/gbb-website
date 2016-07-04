@@ -66,10 +66,19 @@
         "id": 5,
         "name": "Gaggenau",
         "assets_url": "/assets/partners/gaggenau/gaggenau_logo.svg",
-        "content": "<h5>Our GBB writer is on the way</h5>",
+        "content": "<h5>333 years of experience</h5> <p>Our story springs to life on the edge of the Black Forest in 1683. Since then, we have been working with metal and gained an experience only few can claim. Gaggenau is indeed not just a kitchen appliance. It is the soul of a home and the expression of our passion that has been 333 years in the making.</p> <h5>Gaggenau products</h5> <p>Every one of our pieces is conceived, designed and engineered, not just to the highest standards, but to a Gaggenau standard. The doors of our big fridges, freezers and fridge- freezer combinations close with reassuring solidity, the knobs of our ovens turn with distinct increments, the inserts of our wine climate cabinets fit snugly yet easily into place, just to name a few examples. Everything acts as it should and as you would wish it to. We offer the eye a clean, minimalist line, and the chef immense control and capabilities.</p> <h5>Gaggenau showrooms</h5> <p>Located in the capitals or nearby, our showrooms reflect the essence of our brand. There you can see, feel and touch any of our products and learn more about their functions. Our experienced staff is looking forward to introducing you to the world of Gaggenau. Be prepared that there is so much more to discover than you might think; or did you expect a combi-steam oven to steam, braise, bake, cook, grill, gratinate, regenerate, extract juice and sous-vide? And it still holds another secret: it even cleans itself.</p> <p class=\"mb-none\">Marbella</p> <p class=\"mb-none\">Gaggenau showroom Denmark, Ballerup</p> <p>info.dk@gaggenau.com</p> <p class=\"mb-none\">Gaggenau showroom Norway, Oslo</p> <p>info.no@gaggenau.com</p> <p class=\"mb-none\">Gaggenau showroom Sweden, Solna</p> <p>info.se@gaggenau.com</p> <p>For a comprehensive story on each product and more information about us, please visit:</p> <a href=\"http://www.gaggenau.dk\" target=\"_blank\">www.gaggenau.dk</a><br><a href=\"http://www.gaggenau.no\" target=\"_blank\">www.gaggenau.no</a><br><a href=\"http://www.gaggenau.se\" target=\"_blank\">www.gaggenau.se</a> ",
         "images": [
             {
-                "url": "/assets/partners/gaggenau/gaggenau_1.jpg"
+                "url": "/assets/partners/gaggenau/gaggenau1.jpg"
+            },
+            {
+                "url": "/assets/partners/gaggenau/gaggenau2.jpg"
+            },
+            {
+                "url": "/assets/partners/gaggenau/gaggenau3.jpg"
+            },
+            {
+                "url": "/assets/partners/gaggenau/gaggenau4.jpg"
             }
         ]
     },

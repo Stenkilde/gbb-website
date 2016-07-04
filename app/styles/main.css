@@ -3505,7 +3505,7 @@ table.hover tr:nth-of-type(even):hover {
 
 .c-image-hero {
   position: relative;
-  height: 100px;
+  height: 200px;
   overflow: hidden; }
   @media screen and (min-width: 64em) {
     .c-image-hero {
@@ -3526,7 +3526,7 @@ table.hover tr:nth-of-type(even):hover {
         padding: 30px;
         font-size: 64px; } }
   .c-image-hero img {
-    height: 100px;
+    height: 200px;
     width: 100%;
     object-fit: cover;
     font-family: 'object-fit: cover;'; }
@@ -3832,7 +3832,7 @@ h5 {
     .sponsor-list li a {
       display: block;
       height: 100%;
-      padding: 20px; }
+      padding: 50px; }
       @media screen and (min-width: 64em) {
         .sponsor-list li a {
           padding: 100px; } }
@@ -3952,5 +3952,10 @@ object {
 @media screen and (min-width: 64em) {
   .collapse-right {
     padding-right: 0 !important; } }
+
+@media screen and (max-width: 39.9375em) {
+  .reveal {
+    height: auto !important;
+    min-height: 0 !important; } }
 
 /*# sourceMappingURL=main.css.map */
