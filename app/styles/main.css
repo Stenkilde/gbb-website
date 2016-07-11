@@ -4021,4 +4021,32 @@ object {
 .slick-next:before {
   content: ">"; }
 
+.see-partners {
+  z-index: 2;
+  position: absolute;
+  bottom: 2em;
+  width: 100%;
+  text-align: center; }
+  .see-partners a {
+    color: #fff; }
+  .see-partners h2 {
+    margin-bottom: 20px; }
+  .see-partners .arrow {
+    position: absolute;
+    left: calc(50% - 10px);
+    display: block; }
+    .see-partners .arrow:before, .see-partners .arrow:after {
+      width: 20px;
+      height: 2px;
+      background-color: #fff;
+      content: "";
+      position: absolute;
+      display: block; }
+    .see-partners .arrow:before {
+      transform: rotate(-45deg);
+      left: 6.5px; }
+    .see-partners .arrow:after {
+      transform: rotate(45deg);
+      left: -6.5px; }
+
 /*# sourceMappingURL=main.css.map */
