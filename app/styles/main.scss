@@ -188,6 +188,10 @@ h5 {
     margin: 0;
 }
 
+.slick-slide img {
+    width: 100%;
+}
+
 .event__tabs {
     h2 {
         font-family: 'Palanquin', sans-serif;
@@ -294,20 +298,20 @@ object {
     bottom: 2em;
     width: 100%;
     text-align: center;
-    
+
     a {
         color: #fff;
     }
-    
+
     h2 {
         margin-bottom: 20px;
     }
-    
+
     .arrow {
         position: absolute;
         left: calc(50% - 10px);
         display: block;
-        
+
         &:before, &:after {
             width: 20px;
             height: 2px;
@@ -316,12 +320,12 @@ object {
             position: absolute;
             display: block;
         }
-        
+
         &:before {
             transform: rotate(-45deg);
             left: 6.5px;
         }
-        
+
         &:after {
             transform: rotate(45deg);
             left: -6.5px;
