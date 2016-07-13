@@ -284,6 +284,25 @@ object {
     }
 }
 
+.slick-prev, .slick-next {
+    height: 100% !important;
+    border-radius: 0;
+    top: 10px;
+    transform: none;
+    opacity: 1;
+    &:focus {
+      background: #cacaca;
+    }
+}
+
+.slick-prev {
+    left: 0;
+}
+
+.slick-next {
+    right: 0;
+}
+
 .slick-prev:before {
     content: "<";
 }

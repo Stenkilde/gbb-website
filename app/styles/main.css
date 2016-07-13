@@ -3989,6 +3989,21 @@ object {
     height: auto !important;
     min-height: 0 !important; } }
 
+.slick-prev, .slick-next {
+  height: 100% !important;
+  border-radius: 0;
+  top: 10px;
+  transform: none;
+  opacity: 1; }
+  .slick-prev:focus, .slick-next:focus {
+    background: #cacaca; }
+
+.slick-prev {
+  left: 0; }
+
+.slick-next {
+  right: 0; }
+
 .slick-prev:before {
   content: "<"; }
 
