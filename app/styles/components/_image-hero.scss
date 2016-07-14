@@ -3,7 +3,7 @@
     height: 200px;
     overflow: hidden;
     @media #{$large-up} {
-        height: 350px;
+        height: 400px;
     }
     .title {
         position: absolute;
@@ -27,7 +27,7 @@
         object-fit: cover;
         font-family: 'object-fit: cover;';
         @media #{$large-up} {
-            height: 350px;
+            height: 400px;
         }
     }
 }

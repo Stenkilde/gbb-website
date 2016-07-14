@@ -4,7 +4,7 @@
         "language": "Danish",
         "url": "danish",
         "country": "Denmark",
-        "image": "/assets/destinations/dest_dk/aalborggolf/aalborg1.jpg",
+        "image": "/assets/destinations/dest_dk/kokkedalgolf/kokkedal1.jpg",
         "content": "<p>The GBB selection of Leading Nordic Golf Clubs</p>  <p>It’s very important to Golf & Business Butler – Nordic Group, that our golf tournaments, matches and events are developed and executed at not only some of the very best Nordic Golfcourses, but also that the members of these particular, selected golfclubs fully enjoy and appreciate the extra time and effort we put into our luxurious golf concept. We are very excited to present these clubs for this years fullybooked GBB calendar and hopefully we will create enough smiles and good vibes to the golfers taking part, that we will be generously welcomed with more GBB matches in years to come.</p> </br>",
         "clubs": [
             {
@@ -58,16 +58,16 @@
                 "cover": "/assets/destinations/dest_dk/korsor/korsor1.jpg",
                 "asset_urls": [
                     {
-                        "url": "/assets/destinations/dest_dk/kosor/korsor2.jpg"
+                        "url": "/assets/destinations/dest_dk/korsor/korsor2.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_dk/kosor/korsor3.jpg"
+                        "url": "/assets/destinations/dest_dk/korsor/korsor3.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_dk/kosor/korsor4.jpg"
+                        "url": "/assets/destinations/dest_dk/korsor/korsor4.jpg"
                     },
                     {
-                        "url": "/assets/destinations/dest_dk/kosor/korsor1.jpg"
+                        "url": "/assets/destinations/dest_dk/korsor/korsor1.jpg"
                     }
                 ],
                 "text1": "Our GBB writer is on the way",
@@ -140,7 +140,7 @@
                 "name": "Aalborg Golf Club",
                 "language": "Denmark",
                 "country": "North Jutland",
-                "cover": "/assets/destinations/dest_dk/aalborggolf/aalborg1.jpg",
+                "cover": "/assets/destinations/dest_dk/aalborggolf/aalborg2.jpg",
                 "asset_urls": [
                     {
                         "url": "/assets/destinations/dest_dk/aalborggolf/aalborg2.jpg"
@@ -204,6 +204,19 @@
                     },
                     {
                         "url": "/assets/destinations/dest_dk/svendborg/svendborg1.jpg"
+                    }
+                ],
+                "text1": "Our GBB Writer is on his way",
+                "text2": ""
+            },
+            {
+                "name": "Aarhus Golf Club, Moesgaard",
+                "country": "East Jutland",
+                "language": "Denmark",
+                "cover": "/assets/destinations/fotografen.jpg",
+                "asset_urls": [
+                    {
+                        "url": "/assets/destinations/fotografen.jpg"
                     }
                 ],
                 "text1": "Our GBB Writer is on his way",
@@ -493,30 +506,6 @@
                 "text2": "Robert Trent Jones, Jr. is a noted golf course architect. He is the son of legendary golf course designer Robert Trent Jones and the brother of golf cours designer Rees Jones. Born July 24, 1939 in Montclair, New Jersey, Robert Trent Jones, Jr. joined his father’s firm, Robert Trent Jones Incorporated, and rose to become vice-president of the company before assuming control of west coast operations in 1962. In the 1960s, he began designing courses on his own and formed his own company, Robert Trent Jones II, and he has designed or remodelled more than 250 golf courses during his career. His masterpieces include Alcanada, which Trent Jones designed on behalf of owner Hans Peter Porsche in the late 1990s. The course opened in 2003 after three years of construction and is now considered one of the best in Europe. Jones, who continues to design courses and currently lives in California, has also published a book, Golf Design, created to help players understand the design of the golf courses. <br> <br> Welcome to Alcanada Golf Club <br> <br>"
             },
             {
-                "name": "Rio Real Golf Club",
-                "country": "South Spain",
-                "cover": "/assets/destinations/dest_int/riorealgolf/rio1.jpg",
-                "asset_urls": [
-                    {
-                        "url": "/assets/destinations/dest_int/riorealgolf/rio2.jpg"
-                    },
-                    {
-                        "url": "/assets/destinations/dest_int/riorealgolf/rio3.jpg"
-                    },
-                    {
-                        "url": "/assets/destinations/dest_int/riorealgolf/rio4.jpg"
-                    },
-                    {
-                        "url": "/assets/destinations/dest_int/riorealgolf/rio5.jpg"
-                    },
-                    {
-                        "url": "/assets/destinations/dest_int/riorealgolf/rio1.jpg"
-                    }
-                ],
-                "text1": "<b>THE RIO REAL GOLF COURSE WAS DESIGNED BY THE LEGENDARY JAVIER ARANA, CONSIDERED TO BE THE BEST SPANISH DESIGNER OF ALL TIME.</b> <br> <br> Located in the most prestigious area of Marbella, just 5 minutes from the city centre, this golf course opened in 1965. <br> <br> The golf course runs alongside the Rio Real River, from which it takes its name, and forms an integral part of the course, right up until it reaches the Mediterranean Sea. <br> <br> Its design makes it a spectacular course. With 18 holes (par 72) and more than 6,000 m in length, the Royal Spanish Golf Federation (Real Federación Española de Golf) considers it to be a prestigious golf course and one of the best in Spain, both for its layout, as well as it unique beauty.",
-                "text2": "The course has a wide variety of different species of trees: Pine, Palm, Casuarinas, Olive, Cypress, etc. which make it the ideal place to play golf, both on foot and in golf carts. <br> <br> Thanks to its Mediterranean climate, one can play all year around, with seafront holes and spectacular views. <br> <br> The Course is suitable for every player, thanks to its more elevated holes, which make them even more appealing as they require the use of various clubs."
-            },
-            {
                 "name": "Our GBB Photographer is on his way",
                 "country": "Finca Cortesin Club - South Spain",
                 "text1": "Our GBB Writer is on his way",
@@ -529,14 +518,23 @@
                 ]
             },
             {
-                "name": "Our GBB Photographer is on his way",
-                "country": "Las Brisas Golf Club - South Spain",
+                "name": "Las Brisas Golf Club",
+                "country": "South Spain",
                 "text1": "Our GBB Writer is on his way",
                 "text2": "",
-                "cover": "/assets/destinations/fotografen.jpg",
+                "cover": "/assets/destinations/dest_int/lasbrisas/lasbrisas1.jpg",
                 "asset_urls": [
                     {
-                        "url": "/assets/destinations/fotografen.jpg"
+                        "url": "/assets/destinations/dest_int/lasbrisas/lasbrisas1.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_int/lasbrisas/lasbrisas2.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_int/lasbrisas/lasbrisas3.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_int/lasbrisas/lasbrisas4.jpg"
                     }
                 ]
             },
@@ -574,6 +572,12 @@
                     },
                     {
                         "url": "/assets/destinations/dest_int/estoniangolf/estonia3.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_int/estoniangolf/estonia4.jpg"
+                    },
+                    {
+                        "url": "/assets/destinations/dest_int/estoniangolf/estonia5.jpg"
                     }
                 ],
                 "text1": "Welcome to Estonian Golf & Country Club <br> <br> Locals say that when God created the coastal land of the Estonian Golf & Country Club, he must have intended it to be a golf course as it winds its way so harmoniously along the Baltic Coast and the Jägala River Delta. <br> <br> Estonian Golf & Country Club offers golfers a 9 hole links style Stone Course and an 18 hole championship level Sea Course.   The Sea Course surprises with its spectacular sea views impressively framed on its signature hole number 3. The historic Stone Course meanders through impressive stone wall formations and massive boulders from the ice age telling of a history dating back over 5000 years.",
