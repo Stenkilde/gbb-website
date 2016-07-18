@@ -311,6 +311,61 @@ object {
     content: ">";
 }
 
+.index-content {
+    height: 90vh;
+    z-index: 801;
+    
+    @include breakpoint(medium) {
+        height: calc(100vh - 240px);
+    }
+    
+    .row {
+        height: 100%;
+        
+        .columns {
+            z-index: 1; /* Makes text visible over the slider images */
+            
+            @include breakpoint(medium) {
+                text-align: left;
+            }
+        }
+    }
+    
+    h2, p, button {
+        color: #fff;
+    }
+    
+    h2, p {
+        font-size: 1.5rem; 
+        line-height: 2rem;
+    }
+    
+    hr {
+        width: 60px;
+        border-color: #fff;
+        margin: 2em auto;
+        
+        @include breakpoint(medium) {
+            margin: 2em 0;
+        }
+    }
+    
+    p {
+        font-family: 'queens_parkregular';
+        max-width: 80%;
+        margin: 1em auto;
+        
+        @include breakpoint(medium) {
+            max-width: 300px;
+            margin: 1em 0;
+        }
+    }
+    
+    button {
+        border: 1px solid #fff;
+    }
+}
+
 .see-partners {
     z-index: 2;
     position: absolute;
