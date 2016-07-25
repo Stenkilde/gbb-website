@@ -10,6 +10,7 @@
 		/*jshint validthis: true */
 		var vm 		= this;
 		vm.partners = [];
+		vm.openModal = openModal;
 
 		activate();
 
@@ -17,6 +18,10 @@
 			$http.get('partners.json').then(function(response) {
 				vm.partners = response.data;
 			});
+		}
+
+		function openModal() {
+
 		}
 
 	}

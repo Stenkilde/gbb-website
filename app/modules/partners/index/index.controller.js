@@ -3,10 +3,10 @@
 
 	angular
 		.module('gbb')
-		.controller('Index', Index);
+		.controller('IndexPartners', IndexPartners);
 
 	/* @ngInject */
-	function Index($http) {
+	function IndexPartners($http) {
 		/*jshint validthis: true */
 		var vm 		= this;
 		vm.partners = [];

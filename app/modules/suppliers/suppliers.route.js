@@ -12,7 +12,7 @@
 					'main@application': {
 						templateUrl: 'modules/suppliers/index/index.template.html',
 						controller: 'IndexSup',
-						controllerAs: 'index'
+						controllerAs: 'supIndex'
 					}
 				}
 			};

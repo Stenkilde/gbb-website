@@ -12,24 +12,11 @@
 					'main@application': {
 						templateUrl: 'modules/main/index/index.template.html',
 						controller: 'Index',
-						controllerAs: 'index'
+						controllerAs: 'mainIndex'
 					}
 				}
 			};
 
-			// var View = {
-			// 	name: 'application.portfolioview',
-			// 	url: '/portfolio/:id',
-			// 	views: {
-			// 		'main@application': {
-			// 			templateUrl : 'modules/portfolio/view/view.template.html',
-			// 			controller  : 'PortfolioView',
-			// 			controllerAs: 'view'
-			// 		}
-			// 	}
-			// };
-
 			$stateProvider.state(Index);
-			//$stateProvider.state(View);
 		});
 })();

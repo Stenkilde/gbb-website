@@ -5,18 +5,6 @@
 		/* @ngInject */
 		.config(function ($stateProvider) {
 
-			var Index = {
-				name: 'application.clubs',
-				url: '/clubs',
-				views: {
-					'main@application': {
-						templateUrl: 'modules/clubs/index/index.template.html',
-						controller: 'ClubsIndex',
-						controllerAs: 'index'
-					}
-				}
-			};
-
 			var View = {
 				name: 'application.clubsView',
 				url: '/klubber/:clubs',
@@ -28,8 +16,7 @@
 					}
 				}
 			};
-
-			$stateProvider.state(Index);
+			
 			$stateProvider.state(View);
 		});
 })();

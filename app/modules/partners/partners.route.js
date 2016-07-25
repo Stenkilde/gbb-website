@@ -11,8 +11,8 @@
 				views: {
 					'main@application': {
 						templateUrl: 'modules/partners/index/index.template.html',
-						controller: 'Index',
-						controllerAs: 'index'
+						controller: 'IndexPartners',
+						controllerAs: 'partIndex'
 					}
 				}
 			};
