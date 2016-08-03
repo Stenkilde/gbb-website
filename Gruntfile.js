@@ -36,7 +36,8 @@ module.exports = function(grunt) {
         svgstore: {
             options: {
                 svg: {
-                    style: 'display: none'
+                    style: 'display: none',
+                    viewBox : '0 0 100 100'
                 }
             },
             default: {

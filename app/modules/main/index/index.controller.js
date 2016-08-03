@@ -6,7 +6,7 @@
 		.controller('Index', Index);
 
 	/* @ngInject */
-	function Index($http) {
+	function Index($http, $modal) {
 		/*jshint validthis: true */
 		var vm 		= this;
 		vm.partners = [];
@@ -21,7 +21,11 @@
 		}
 
 		function openModal() {
-
+			$modal.open({
+	      		templateUrl: 'modules/shared/modals/signup.modal.html',
+		  		controller: 'ModalSignup',
+		  		controllerAs: 'modalSignup'
+		    });
 		}
 
 	}

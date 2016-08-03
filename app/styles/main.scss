@@ -12,6 +12,7 @@
 @import "components/image-hero";
 @import "components/accordion";
 @import "components/off-canvas";
+@import "components/form";
 // Elements
 @import "elements/header";
 @import "elements/footer";
@@ -74,7 +75,7 @@ h2.title {
     }
     &.club {
         text-align: left;
-        font-size: 30px;
+        font-size: 24px;
         margin-bottom: 5px;
         @media #{$medium-up} {
             font-size: 68px;
