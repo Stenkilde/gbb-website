@@ -7,7 +7,7 @@
 
 			var View = {
 				name: 'application.clubsView',
-				url: '/klubber/:clubs',
+				url: '/clubs/:clubs',
 				views: {
 					'main@application': {
 						templateUrl : 'modules/clubs/view/view.template.html',

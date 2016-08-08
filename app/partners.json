@@ -102,6 +102,9 @@
             },
             {
                 "url": "/assets/partners/segafredo/segafredo_2.jpg"
+            },
+            {
+                "url": "/assets/partners/segafredo/segafredo_3.jpg"
             }
         ]
     },
@@ -135,7 +138,7 @@
         "content": "<h5>Our GBB writer is on the way</h5>",
         "images": [
             {
-                "url": "/assets/destinations/fotografen.jpg"
+                "url": "/assets/partners/fotografen.png"
             }
         ]
     },
@@ -177,7 +180,7 @@
         "content": "<h5>Our GBB writer is on the way</h5>",
         "images": [
             {
-                "url": "/assets/destinations/fotografen.jpg"
+                "url": "/assets/partners/fotografen.png"
             }
         ]
     },
@@ -188,7 +191,7 @@
         "content": "<h5>Our GBB writer is on the way</h5>",
         "images": [
             {
-                "url": "/assets/destinations/fotografen.jpg"
+                "url": "/assets/partners/fotografen.png"
             }
         ]
     },
@@ -199,7 +202,7 @@
         "content": "<h5>Our GBB writer is on the way</h5>",
         "images": [
             {
-                "url": "/assets/destinations/fotografen.jpg"
+                "url": "/assets/partners/fotografen.png"
             }
         ]
     },
@@ -242,7 +245,7 @@
         "content": "<h5>Our GBB writer is on the way</h5>",
         "images": [
             {
-                "url": "/assets/destinations/fotografen.jpg"
+                "url": "/assets/partners/fotografen.png"
             }
         ]
     },
@@ -253,18 +256,58 @@
         "content": "<h5>Our GBB writer is on the way</h5>",
         "images": [
             {
-                "url": "/assets/destinations/fotografen.jpg"
+                "url": "/assets/partners/fotografen.png"
             }
         ]
     },
     {
         "id": 17,
+        "name": "Vanity Hotel",
+        "assets_url": "/assets/partners/vanity/vanity_logo.svg",
+        "content": "<h5>Our GBB writer is on the way</h5>",
+        "images": [
+            {
+                "url": "/assets/partners/vanity/vanity1.jpg"
+            },
+            {
+                "url": "/assets/partners/vanity/vanity2.jpg"
+            },
+            {
+                "url": "/assets/partners/vanity/vanity3.jpg"
+            },
+            {
+                "url": "/assets/partners/vanity/vanity4.jpg"
+            },
+            {
+                "url": "/assets/partners/vanity/vanity5.jpg"
+            },
+            {
+                "url": "/assets/partners/vanity/vanity6.jpg"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Viva",
+        "assets_url": "/assets/partners/viva/viva_logo.svg",
+        "content": "<h5>Our GBB writer is on the way</h5>",
+        "images": [
+            {
+                "url": "/assets/partners/viva/viva1.jpg"
+            },
+            {
+                "url": "/assets/partners/viva/viva2.jpg"
+            }
+        ]
+    },
+    {
+        "id": 19,
         "name": "Jacobsen",
         "assets_url": "/assets/partners/jacobsen/jacobsen_logo.svg",
         "content": "<h5>Our GBB writer is on the way</h5>",
         "images": [
             {
-                "url": "/assets/destinations/fotografen.jpg"
+                "url": "/assets/partners/fotografen.png"
             }
         ]
     }
