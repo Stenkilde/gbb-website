@@ -24,7 +24,7 @@
 			$modal.open({
 	      		templateUrl: 'modules/shared/modals/signup.modal.html',
 		  		controller: 'ModalSignup',
-		  		controllerAs: 'modalSignup'
+		  		controllerAs: 'somecoolmodal'
 		    });
 		}
 

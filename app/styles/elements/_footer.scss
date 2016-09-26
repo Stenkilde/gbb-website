@@ -4,9 +4,12 @@
     background: #fff;
     width: 100%;
     height: 90px;
+    overflow: scroll;
     
     .row {
         height: 100%;
+        flex-flow: wrap;
+        justify-content: center;
     }
     
     &-mobile {
@@ -31,4 +34,3 @@
         }
     }
 }
-
